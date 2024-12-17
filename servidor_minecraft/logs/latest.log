@@ -4981,3 +4981,15 @@ Things may not work well.
 [17Dec2024 22:49:22.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.7942040189282125
 [17Dec2024 22:49:22.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.35941776457912056
 [17Dec2024 22:49:25.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13578ms or 271 ticks behind
+[17Dec2024 22:56:33.666] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 22:57:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> zz
+[17Dec2024 23:02:13.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:02:13.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 23:03:41.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [You Are A Pirate]
+[17Dec2024 23:03:43.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [You Are A Pirate]
+[17Dec2024 23:06:09.931] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 23:06:09.933] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 23:06:09.994] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 23:06:09.999] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 23:06:09.999] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 23:06:15.138] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard

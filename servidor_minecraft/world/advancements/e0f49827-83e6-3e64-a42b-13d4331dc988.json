@@ -1404,5 +1404,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-17 23:03:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
