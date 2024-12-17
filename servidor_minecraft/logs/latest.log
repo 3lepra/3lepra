@@ -5008,3 +5008,62 @@ Things may not work well.
 [17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69763, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
 [17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69764, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
 [17Dec2024 23:34:08.015] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69765, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:35:12.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 23:37:17.232] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:17.833] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:17.860] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:18.092] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:18.121] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:18.131] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:18.253] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[17Dec2024 23:37:37.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.5523645625098652
+[17Dec2024 23:37:38.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 1.8266784116813142
+[17Dec2024 23:37:38.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 1.4465522502759995
+[17Dec2024 23:37:38.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 1.0328993889297635
+[17Dec2024 23:37:38.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.6203381996265307
+[17Dec2024 23:37:43.049] [Worker-Main-41/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:37:44.563] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:37:44.961] [Worker-Main-41/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:37:44.988] [Worker-Main-41/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:37:54.965] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:00.532] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:00.599] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:01.554] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:03.854] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Horror of the Depths]
+[17Dec2024 23:38:21.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[17Dec2024 23:38:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[17Dec2024 23:38:26.035] [Worker-Main-41/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:34.335] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:34.336] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:34.434] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 23:38:36.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:64025] logged in with entity id 76209 at (-8541.827096538165, 72.0, -3604.019769593471)
+[17Dec2024 23:38:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[17Dec2024 23:38:36.289] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[17Dec2024 23:38:36.325] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[17Dec2024 23:38:36.329] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 23:38:36.332] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[17Dec2024 23:39:17.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Disgusting Lootbox]
+[17Dec2024 23:39:42.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:39:48.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:39:48.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:39:48.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 23:40:05.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 23:40:37.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[17Dec2024 23:40:37.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[17Dec2024 23:40:51.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:41:31.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:62564] logged in with entity id 77262 at (-8537.719167996309, 84.0, -3742.2938272116558)
+[17Dec2024 23:41:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[17Dec2024 23:41:31.919] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[17Dec2024 23:41:31.939] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[17Dec2024 23:41:31.940] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 23:41:31.940] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[17Dec2024 23:42:24.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:42:24.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:42:24.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:42:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Hollow Solids]
+[17Dec2024 23:43:52.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:43:52.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:43:52.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 23:43:52.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 23:43:52.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
