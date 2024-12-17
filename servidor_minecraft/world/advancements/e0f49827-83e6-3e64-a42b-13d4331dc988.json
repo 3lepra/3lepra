@@ -1410,5 +1410,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2024-12-17 23:21:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
