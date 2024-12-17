@@ -4643,3 +4643,6 @@ Things may not work well.
 [17Dec2024 22:10:17.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MIEMBRO+]☠ Rodjes7: Gave 1 [Black Bed] to [ADMIN]☠ LordZand]
 [17Dec2024 22:11:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 is bleeding. [MIEMBRO+]☠ Rodjes7 was burnt to a crisp whilst fighting [ADMIN]☠ LordZand
 [17Dec2024 22:11:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 was slain by [ADMIN]☠ LordZand
+[17Dec2024 22:14:52.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[17Dec2024 22:14:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[17Dec2024 22:15:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MIEMBRO+]☠ Rodjes7: Set own game mode to Creative Mode]
