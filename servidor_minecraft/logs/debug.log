@@ -20484,3 +20484,24 @@ Things may not work well.
 [17Dec2024 23:24:09.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 23:24:09.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 23:24:19.206] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[17Dec2024 23:29:09.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:29:09.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:30:27.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.2979415042848359
+[17Dec2024 23:30:27.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.7410206543643199
+[17Dec2024 23:30:27.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.0
+[17Dec2024 23:30:27.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.0
+[17Dec2024 23:32:59.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.32065248102662736
+[17Dec2024 23:33:02.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68810, l='ServerLevel[world]', x=-8708.50, y=19.00, z=-2255.50]
+[17Dec2024 23:33:17.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69358, l='ServerLevel[world]', x=-8700.50, y=11.00, z=-2260.50]
+[17Dec2024 23:33:37.291] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[17Dec2024 23:33:44.175] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[17Dec2024 23:33:44.224] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[17Dec2024 23:33:44.263] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_0 is being run through DFU (hash ef5ad598b72504c863077bcf77d6f95045b5c18eb49ab1d25b6764a642545e7e), this will cause launch time delays
+[17Dec2024 23:33:44.267] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_2 is being run through DFU (hash 3a84eed6b6c85e2f7675aab32a3ac7ad764d123fe0996979ed0cd249be6234dc), this will cause launch time delays
+[17Dec2024 23:34:08.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69761, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69762, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69763, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69764, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.015] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69765, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:09.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:34:09.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

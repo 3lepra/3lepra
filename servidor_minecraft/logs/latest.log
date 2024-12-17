@@ -4996,3 +4996,15 @@ Things may not work well.
 [17Dec2024 23:20:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -8168 -1412
 [17Dec2024 23:21:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Beyond the Sea]
 [17Dec2024 23:22:48.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has reached the goal [Beyond the Sea]
+[17Dec2024 23:30:27.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.2979415042848359
+[17Dec2024 23:30:27.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.7410206543643199
+[17Dec2024 23:30:27.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.0
+[17Dec2024 23:30:27.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.0
+[17Dec2024 23:32:59.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.32065248102662736
+[17Dec2024 23:33:02.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68810, l='ServerLevel[world]', x=-8708.50, y=19.00, z=-2255.50]
+[17Dec2024 23:33:17.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69358, l='ServerLevel[world]', x=-8700.50, y=11.00, z=-2260.50]
+[17Dec2024 23:34:08.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69761, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69762, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69763, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69764, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
+[17Dec2024 23:34:08.015] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/69765, l='ServerLevel[world]', x=-8463.63, y=49.26, z=-2416.70]
