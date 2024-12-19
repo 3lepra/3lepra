@@ -1448,79 +1448,85 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 01:22:59 +0000"
+      "log_spam_fixer": "2024-12-18 01:33:59 +0000"
     },
     "done": false
   },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-17 23:50:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2024-12-18 01:23:05 +0000"
     },
     "done": true
   },
