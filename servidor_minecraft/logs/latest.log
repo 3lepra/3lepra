@@ -846,3 +846,20 @@
 [27Dec2024 02:30:38.522] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [27Dec2024 02:30:38.523] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [27Dec2024 02:30:38.524] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Dec2024 02:40:48.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[27Dec2024 02:40:48.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[27Dec2024 02:41:08.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54276] logged in with entity id 17287 at (-1157.9511393026098, 68.0, -536.3631132149374)
+[27Dec2024 02:41:08.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[27Dec2024 02:41:08.040] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Dec2024 02:41:08.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Dec2024 02:41:08.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Dec2024 02:41:08.079] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Dec2024 02:41:54.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[27Dec2024 02:41:54.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[27Dec2024 02:42:27.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54306] logged in with entity id 17617 at (-1157.9511393026098, 68.0, -536.3631132149374)
+[27Dec2024 02:42:28.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[27Dec2024 02:42:28.016] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Dec2024 02:42:28.055] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Dec2024 02:42:28.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Dec2024 02:42:28.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Dec2024 02:46:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Lorem Ipsum]
