@@ -11040,3 +11040,141 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [27Dec2024 01:49:32.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
 [27Dec2024 01:49:32.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
 [27Dec2024 01:49:32.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[27Dec2024 01:49:36.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_6
+[27Dec2024 01:50:26.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_medium_house_1
+[27Dec2024 01:50:26.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_1
+[27Dec2024 01:50:26.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_4
+[27Dec2024 01:50:26.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_03
+[27Dec2024 01:50:26.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_1
+[27Dec2024 01:50:26.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_01
+[27Dec2024 01:50:26.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_2
+[27Dec2024 01:50:26.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_01
+[27Dec2024 01:50:26.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_04
+[27Dec2024 01:50:26.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_02
+[27Dec2024 01:50:26.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_05
+[27Dec2024 01:50:26.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_02
+[27Dec2024 01:50:26.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_planter_1
+[27Dec2024 01:50:26.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_fisher_1
+[27Dec2024 01:50:26.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_large_house_2
+[27Dec2024 01:50:26.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_2
+[27Dec2024 01:50:26.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_3
+[27Dec2024 01:50:26.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_01
+[27Dec2024 01:50:26.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_library_1
+[27Dec2024 01:50:26.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_fletcher_and_toolsmith_1
+[27Dec2024 01:50:26.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_shepherd_1
+[27Dec2024 01:50:26.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_cartographer_1
+[27Dec2024 01:50:26.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_5
+[27Dec2024 01:50:26.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_large_house_1
+[27Dec2024 01:50:26.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_butcher_1
+[27Dec2024 01:50:26.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_leatherworker_1
+[27Dec2024 01:50:26.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_02
+[27Dec2024 01:50:26.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_lamp_1
+[27Dec2024 01:50:26.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_03
+[27Dec2024 01:50:26.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_02
+[27Dec2024 01:50:26.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_01
+[27Dec2024 01:50:30.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:50:30.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:50:48.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[27Dec2024 01:50:56.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[27Dec2024 01:55:30.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:55:30.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:59:05.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[27Dec2024 01:59:05.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[27Dec2024 01:59:05.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[27Dec2024 01:59:05.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[27Dec2024 01:59:05.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[27Dec2024 01:59:05.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[27Dec2024 01:59:05.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[27Dec2024 01:59:05.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[27Dec2024 01:59:05.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[27Dec2024 01:59:05.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[27Dec2024 01:59:05.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[27Dec2024 01:59:05.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[27Dec2024 01:59:05.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[27Dec2024 01:59:05.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[27Dec2024 01:59:05.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[27Dec2024 01:59:05.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[27Dec2024 01:59:05.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[27Dec2024 01:59:05.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[27Dec2024 01:59:05.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[27Dec2024 01:59:05.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[27Dec2024 01:59:05.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[27Dec2024 01:59:05.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[27Dec2024 01:59:05.613] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small2 is being run through DFU (hash 57636a4ae0f90daf4e0f1868f6ee49888d568de71b4a01bb11d6e053a04f6caf), this will cause launch time delays
+[27Dec2024 01:59:05.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[27Dec2024 01:59:05.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[27Dec2024 01:59:05.805] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small3 is being run through DFU (hash cb52127773a55244a6e439d8726e1659715cb2a7ac1aab45e259115347dfc9de), this will cause launch time delays
+[27Dec2024 01:59:05.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[27Dec2024 01:59:05.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[27Dec2024 01:59:05.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[27Dec2024 01:59:05.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[27Dec2024 01:59:05.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[27Dec2024 01:59:05.818] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large5 is being run through DFU (hash 8b1da4c4eebcf63a587370deb8379842aabfc60bfedb98d796b51c04d8de6b6b), this will cause launch time delays
+[27Dec2024 01:59:06.068] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/inter6 is being run through DFU (hash b01cb11a48697c9199130e3700bea7676d52a89adcb7cf0ee30c74b403648fb5), this will cause launch time delays
+[27Dec2024 01:59:06.440] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l1 is being run through DFU (hash 82e70413a739802bb5e489ee41944b1f39c038f79c210c58c9936c63bf5e96ec), this will cause launch time delays
+[27Dec2024 01:59:06.724] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:sanctum/top is being run through DFU (hash 62ea6d176b81ea4462ba550f0e030f4cc818900950277e4e79dc70b503a969e4), this will cause launch time delays
+[27Dec2024 01:59:09.357] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor is being run through DFU (hash 9171fb6e499dd9b1ad2761a65361f03a27f131facda5327c4dccc3a7c6c2730b), this will cause launch time delays
+[27Dec2024 01:59:09.529] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/foxhound_den
+[27Dec2024 01:59:13.265] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin is being run through DFU (hash eba9fb8499290a2b22f3360af9be565101f546e673227b30d04c54b2246971ed), this will cause launch time delays
+[27Dec2024 01:59:13.274] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_5 is being run through DFU (hash d62f0abd99a57d0c0d5f830bb3ed7ab10f1e04676de130e2c85b9f5e440ea511), this will cause launch time delays
+[27Dec2024 01:59:13.279] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_2 is being run through DFU (hash 1402b2873b2703c95a1088ae5413810bf1cd5233483d9a1f7796f6a16e664853), this will cause launch time delays
+[27Dec2024 01:59:13.283] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_3 is being run through DFU (hash 3680bbb9c9119f2010313d14f8aa0142e1e52e9c7807dc1fb7355c7af4d714af), this will cause launch time delays
+[27Dec2024 01:59:13.288] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_1 is being run through DFU (hash 8cef98a1fc9007f28f1de64441fe396fd412ce4e68a05c77026751bc0fc4b03b), this will cause launch time delays
+[27Dec2024 01:59:13.293] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_1 is being run through DFU (hash 2704c91d7f3b3ad1a2906c239be26b2236098d39fbc1227174f46579eca05509), this will cause launch time delays
+[27Dec2024 01:59:13.293] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner is being run through DFU (hash 9648ba1d74fccde4cd7b727c14f78b19ab6ab222008fcdabf900c4ff96c4e405), this will cause launch time delays
+[27Dec2024 01:59:13.294] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_2 is being run through DFU (hash a1e5f1426dfae2d1141ce1304042d65a65e86fbffec19b898779fdc5ebcd86aa), this will cause launch time delays
+[27Dec2024 01:59:13.295] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_3 is being run through DFU (hash 0e393f2753248aee5283966b8dc0b2d9adc5d8ec7837e3bbf5d8443d4f758db0), this will cause launch time delays
+[27Dec2024 01:59:13.298] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_2 is being run through DFU (hash 8763366e7d287db2bc02cd1ce509901f7aa3131e1e8d1b66f0431889baba97ca), this will cause launch time delays
+[27Dec2024 01:59:13.298] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_7 is being run through DFU (hash b45a59834a01e319502830836d704fc77609557db157edc8d0d4bae74dac630c), this will cause launch time delays
+[27Dec2024 01:59:13.301] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_3 is being run through DFU (hash eaab188e77ed7317bba29aea67a1da8c0808bf0792b751ad55510426cafed424), this will cause launch time delays
+[27Dec2024 01:59:13.303] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_4 is being run through DFU (hash 91bf34c19657c84086e938d93515fac345e576abad71ba02028a8a3087294a1e), this will cause launch time delays
+[27Dec2024 01:59:13.305] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_1 is being run through DFU (hash fc32ef5e828d7e4907c36056fbc6a3526df51d04957c710c8a961c362adfa8f3), this will cause launch time delays
+[27Dec2024 01:59:13.306] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/skull_pile is being run through DFU (hash afc9952d0ab4c9b842448a9c669faa2245c1648641ee0f8bb5a56c133f144cab), this will cause launch time delays
+[27Dec2024 01:59:13.309] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_6 is being run through DFU (hash ddf24bd806e3f131e3b3f33b29e639cdd8ec7203aa8876c072ed0bf0e6d0d5cf), this will cause launch time delays
+[27Dec2024 01:59:13.310] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_2 is being run through DFU (hash 7a126b333d92d1fec15fbcfef001d2df64430499fdb04a9a678edf1d931243d2), this will cause launch time delays
+[27Dec2024 01:59:13.311] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_1 is being run through DFU (hash d58544e8d28fc8e0857f64068ea5689162d769d51495dc057ccd999d4df8b9f2), this will cause launch time delays
+[27Dec2024 01:59:13.312] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_3 is being run through DFU (hash 9dc9b57962b007434f354af5c1bc3c617c2b5f2c4644738812b95a3d9d2a0a61), this will cause launch time delays
+[27Dec2024 01:59:13.313] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_4 is being run through DFU (hash 219b7c8cc05414444fff9fb89a2c82ea92cc95e5bc83b1c0b6010d30e8ef5465), this will cause launch time delays
+[27Dec2024 01:59:13.314] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_5 is being run through DFU (hash dacf895b3d60674144bfd8935517dc8a68be386b150c6373fce7df436a8289d8), this will cause launch time delays
+[27Dec2024 01:59:13.315] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner_2 is being run through DFU (hash daac3aca3ea171b5aabffaf22bc4f3091327df9b097ae527087d83eaabb54490), this will cause launch time delays
+[27Dec2024 01:59:13.316] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/fossil is being run through DFU (hash 25fac9c51a47f8e81baf1dadad65d575fc103c2fe17dad15685f48937c198922), this will cause launch time delays
+[27Dec2024 01:59:13.318] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_2 is being run through DFU (hash b1242518c212f4d23472bf1737fbb408e6a33b60c95c63de72530b31cda7e8e1), this will cause launch time delays
+[27Dec2024 01:59:13.321] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/piglin_camp is being run through DFU (hash 609396aac7d7b9ab9ab630b0be2eaa3a44b551dcbf91739988963a8190697b58), this will cause launch time delays
+[27Dec2024 01:59:13.334] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_1 is being run through DFU (hash 5cd831dc8298a880eb00e3549e58b6f9e135e248f042923ff0947a5a54b58d5d), this will cause launch time delays
+[27Dec2024 01:59:13.639] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin_2 is being run through DFU (hash 68844ac7074ecf17c61cd239d13998b9d0d71df5762896e1662911d68b662ee2), this will cause launch time delays
+[27Dec2024 01:59:18.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12743ms or 254 ticks behind
+[27Dec2024 01:59:19.141] [Worker-Main-2/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Dec2024 01:59:19.143] [Worker-Main-2/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Dec2024 01:59:19.144] [Worker-Main-2/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdb1a480$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[27Dec2024 01:59:21.914] [Server thread/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_south is being run through DFU (hash aa0fc870c0c8e10973cdf3d870ca2e6e976819c4179136c28818deec5b150eaa), this will cause launch time delays
+[27Dec2024 01:59:22.052] [Server thread/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_east is being run through DFU (hash cdd7521508c675e2e0b308b3d6dd47c07fc9539364b573fecaee113d54aa6f50), this will cause launch time delays
+[27Dec2024 01:59:22.130] [Server thread/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_top1 is being run through DFU (hash 0d3ea5aa41cd1cbcb771c98c0f7c698b41d244404db361ece05e6afda39057ff), this will cause launch time delays
+[27Dec2024 01:59:22.186] [Server thread/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_bottom is being run through DFU (hash 32bf97fe3a0d44a25522828f3942bda070496340101e1186fba5e69aa6bb2c89), this will cause launch time delays
+[27Dec2024 01:59:22.199] [Server thread/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_last is being run through DFU (hash 6e9352998c64dd8417fc3ac43b2987609b8e142070c04d9cd83058827c445d77), this will cause launch time delays
+[27Dec2024 01:59:26.122] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:pipeline/start1 is being run through DFU (hash a2d5b08ebe06b96a48864f29a9de461ffa5ef810078aca656faab94b279cd007), this will cause launch time delays
+[27Dec2024 01:59:26.179] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower2 is being run through DFU (hash a1b0371a224d03bec7257454265aa947949ba2deca973a436a8c99f18759bd5e), this will cause launch time delays
+[27Dec2024 01:59:26.267] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_kitchen is being run through DFU (hash f1d62c2d1076ae02f69209f37706f460b229eaf7e609fb478641d720392c5177), this will cause launch time delays
+[27Dec2024 01:59:26.408] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[27Dec2024 01:59:26.444] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:arena is being run through DFU (hash 1550bd700a53f9f9d1f717ccc62cda785156b5c4a97ee1c37477c1c3058cc146), this will cause launch time delays
+[27Dec2024 01:59:29.544] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal1
+[27Dec2024 01:59:29.623] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal2
+[27Dec2024 01:59:35.354] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter2 is being run through DFU (hash ddc26bcf61e3d1abc407c7dc9be753d010c26377ab45b5b52b7ea5bdc47bd9e6), this will cause launch time delays
+[27Dec2024 01:59:35.375] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_hv is being run through DFU (hash 0d486243a8a586a535d43f25eb1419e96d57b723ececade05cd29fa7cc061edf), this will cause launch time delays
+[27Dec2024 01:59:35.382] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_hv is being run through DFU (hash dba45c8f2aefe31fd9ce43fec0d3d4881fd3450d873a1975582f9b89be4cb1e9), this will cause launch time delays
+[27Dec2024 01:59:35.385] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_tall is being run through DFU (hash 0e68aa9764aed3b45098013f517f6f8d76dc335274040037cd1d8ec14d80b5fb), this will cause launch time delays
+[27Dec2024 01:59:35.387] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_vh is being run through DFU (hash 5bc7716d108a4761b75c39de67033a49376fbe8c13421ae494c579ae1a184346), this will cause launch time delays
+[27Dec2024 01:59:35.391] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_4way is being run through DFU (hash e5cab7948f78a7404816897d8c76c0ce75b8c2f6e1f8747adf1e1043f5de49aa), this will cause launch time delays
+[27Dec2024 01:59:35.398] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_long is being run through DFU (hash c418751d6e64a53f4015b0912a4f25dff04ef14c3506d65a52e704cac637ad2c), this will cause launch time delays
+[27Dec2024 01:59:35.403] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_hv is being run through DFU (hash 3aec982944591826f611a9b8f41d334fac53703c65606b76fb4e516d321dda25), this will cause launch time delays
+[27Dec2024 01:59:35.406] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_s is being run through DFU (hash 47acc4579a87f16ba1077bc69e5bf5aad25a9c9ccc0d4cb1b40fe913c04a84a9), this will cause launch time delays
+[27Dec2024 01:59:35.409] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_t is being run through DFU (hash b3b1e5cda1c75a3e163311ada74749564f36b287d2fb1993fc0dc223bb1154cf), this will cause launch time delays
+[27Dec2024 01:59:35.416] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_vh is being run through DFU (hash eb54e308a44d5a7263d4b1ad66a9d000fb19e48da20be3f841d23cdbb4f1d842), this will cause launch time delays
+[27Dec2024 01:59:35.420] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_elbow is being run through DFU (hash 187b186afb7e113e96732f571801263d7d3d6970ae903104f8f869fa86d5f0a3), this will cause launch time delays
+[27Dec2024 01:59:35.427] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_end is being run through DFU (hash 761264e158448d8fd264a2b50e18b5dadf94f26f1c413077b6fe1f4740aa62ad), this will cause launch time delays
+[27Dec2024 01:59:35.429] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_vh is being run through DFU (hash 1278b2a1b557f28bc4405df549546daa9f9ca30346126e17dfcee56cc8a2e14f), this will cause launch time delays
+[27Dec2024 01:59:35.437] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_h is being run through DFU (hash a330ea22e2d0a93812d976d1ed4db2abcdb605e0e0ebce8cce879c26a66babfd), this will cause launch time delays
+[27Dec2024 01:59:35.440] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter1 is being run through DFU (hash 7029d0b79ac41d9906a6232893961fb12996dedb30f019a1ffd25531abf7dedb), this will cause launch time delays
+[27Dec2024 01:59:35.483] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v is being run through DFU (hash ec54d9b15939fe1e6a690e369a65885538e0e20d30300025ffb2fe0c34839d65), this will cause launch time delays
+[27Dec2024 01:59:35.486] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_end is being run through DFU (hash ad3a3e70036b7ff0f5c7e9e2f3de980d7af5a2482350a9c9fb09df80893cdb25), this will cause launch time delays
+[27Dec2024 01:59:35.491] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_v is being run through DFU (hash 9a3eebf61303d90fd4502147f865ebd0abcc670dbbdd17d08db0963749642d50), this will cause launch time delays
+[27Dec2024 01:59:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -138 -69

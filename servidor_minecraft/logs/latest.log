@@ -825,3 +825,7 @@
 [27Dec2024 01:48:32.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 1.6133144140349032
 [27Dec2024 01:48:32.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 2.0769462563121124
 [27Dec2024 01:48:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 2.5382554971765785
+[27Dec2024 01:59:18.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12743ms or 254 ticks behind
+[27Dec2024 01:59:19.143] [Worker-Main-2/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Dec2024 01:59:19.144] [Worker-Main-2/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdb1a480$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[27Dec2024 01:59:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -138 -69
