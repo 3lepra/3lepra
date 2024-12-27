@@ -836,3 +836,7 @@
 [27Dec2024 02:18:43.048] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
 [27Dec2024 02:18:48.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/13266, l='ServerLevel[world]', x=-217.59, y=41.00, z=-224.61] died: Headless Warrior was slain by [ADMIN]☠ LordZand
 [27Dec2024 02:18:59.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/13418, l='ServerLevel[world]', x=-216.78, y=48.31, z=-171.12] died: Headless Warrior was slain by [ADMIN]☠ LordZand
+[27Dec2024 02:21:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Poseidon, God of the Seas]
+[27Dec2024 02:30:20.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[27Dec2024 02:30:20.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[27Dec2024 02:30:21.025] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
