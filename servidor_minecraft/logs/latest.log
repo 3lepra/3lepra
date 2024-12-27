@@ -829,3 +829,5 @@
 [27Dec2024 01:59:19.143] [Worker-Main-2/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [27Dec2024 01:59:19.144] [Worker-Main-2/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdb1a480$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [27Dec2024 01:59:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -138 -69
+[27Dec2024 02:00:02.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/8957, l='ServerLevel[world]', x=-1252.56, y=52.00, z=-546.30] died: Piglin Civilian suffocated in a wall
+[27Dec2024 02:06:37.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has reached the goal [Pocket Edition Alpha]
