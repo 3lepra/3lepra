@@ -831,3 +831,8 @@
 [27Dec2024 01:59:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -138 -69
 [27Dec2024 02:00:02.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/8957, l='ServerLevel[world]', x=-1252.56, y=52.00, z=-546.30] died: Piglin Civilian suffocated in a wall
 [27Dec2024 02:06:37.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has reached the goal [Pocket Edition Alpha]
+[27Dec2024 02:10:59.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Straddle My Ol' Saddle]
+[27Dec2024 02:18:33.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/13001, l='ServerLevel[world]', x=-222.16, y=45.00, z=-273.65] died: Headless Warrior was slain by [ADMIN]☠ LordZand
+[27Dec2024 02:18:43.048] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[27Dec2024 02:18:48.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/13266, l='ServerLevel[world]', x=-217.59, y=41.00, z=-224.61] died: Headless Warrior was slain by [ADMIN]☠ LordZand
+[27Dec2024 02:18:59.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/13418, l='ServerLevel[world]', x=-216.78, y=48.31, z=-171.12] died: Headless Warrior was slain by [ADMIN]☠ LordZand

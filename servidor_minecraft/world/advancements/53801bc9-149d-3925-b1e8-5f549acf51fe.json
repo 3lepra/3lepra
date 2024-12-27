@@ -1379,5 +1379,24 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2024-12-27 02:06:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-27 02:07:49 +0000",
+      "junk": "2024-12-27 02:06:37 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-27 02:10:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
