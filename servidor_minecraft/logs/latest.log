@@ -846,3 +846,4 @@
 [28Dec2024 19:38:47.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/7115, l='ServerLevel[world]', x=-280.55, y=33.00, z=-242.25] died: Headless Warrior was slain by [MIEMBRO+]☠ Rodjes7
 [28Dec2024 19:38:51.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/6926, l='ServerLevel[world]', x=-276.09, y=33.00, z=-237.09] died: Headless Warrior was slain by [MIEMBRO+]☠ Rodjes7
 [28Dec2024 19:40:06.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/7574, l='ServerLevel[world]', x=-248.77, y=33.00, z=-236.02] died: Headless Warrior was slain by [MIEMBRO+]☠ Rodjes7
+[28Dec2024 19:53:11.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1061, y=66, z=-641} BlockPos{x=-1062, y=65, z=-641}
