@@ -847,3 +847,34 @@
 [28Dec2024 19:38:51.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/6926, l='ServerLevel[world]', x=-276.09, y=33.00, z=-237.09] died: Headless Warrior was slain by [MIEMBRO+]☠ Rodjes7
 [28Dec2024 19:40:06.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/7574, l='ServerLevel[world]', x=-248.77, y=33.00, z=-236.02] died: Headless Warrior was slain by [MIEMBRO+]☠ Rodjes7
 [28Dec2024 19:53:11.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1061, y=66, z=-641} BlockPos{x=-1062, y=65, z=-641}
+[28Dec2024 20:30:45.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[28Dec2024 20:30:45.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[28Dec2024 20:30:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[28Dec2024 20:30:45.838] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 20:31:00.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:61407] logged in with entity id 19877 at (-1076.650654086885, 67.28286488645183, -621.2535558665833)
+[28Dec2024 20:31:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[28Dec2024 20:31:00.815] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[28Dec2024 20:31:00.842] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[28Dec2024 20:31:00.842] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Dec2024 20:31:00.843] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[28Dec2024 20:31:59.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[28Dec2024 20:31:59.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[28Dec2024 20:31:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[28Dec2024 20:32:14.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:61507] logged in with entity id 20558 at (-1020.1305236646539, 111.86616120785892, -663.4116606054212)
+[28Dec2024 20:32:14.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[28Dec2024 20:32:14.539] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[28Dec2024 20:32:14.564] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[28Dec2024 20:32:14.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Dec2024 20:32:14.566] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[28Dec2024 20:36:56.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 0.5764058537806704,15.826138270849569,-7.011252490431275
+[28Dec2024 20:40:36.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[28Dec2024 20:40:36.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[28Dec2024 20:40:36.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[28Dec2024 20:41:11.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:62253] logged in with entity id 23117 at (-956.0672698923371, 92.6785241526436, -658.7762467253949)
+[28Dec2024 20:41:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[28Dec2024 20:41:11.723] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[28Dec2024 20:41:11.744] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[28Dec2024 20:41:11.744] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Dec2024 20:41:11.747] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[28Dec2024 20:49:34.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[28Dec2024 20:49:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
