@@ -822,3 +822,13 @@
 [29Dec2024 16:42:32.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 1.2427655288092865,10.464927287664224,-2.0570674075398756
 [29Dec2024 16:53:31.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [29Dec2024 16:58:28.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/13767, l='ServerLevel[world]', x=-212.38, y=48.00, z=156.40] died: Piglin Civilian suffocated in a wall
+[29Dec2024 16:59:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Piglin Pillage]
+[29Dec2024 17:02:31.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Toxic Personality]
+[29Dec2024 17:02:34.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14702, l='ServerLevel[world]', x=-24.21, y=91.00, z=-18.85] died: Toxic Slime was slain by [MIEMBRO+]☠ Rodjes7
+[29Dec2024 17:02:48.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14841, l='ServerLevel[world]', x=-9.98, y=92.00, z=-16.20] died: Toxic Slime was slain by [MIEMBRO+]☠ Rodjes7
+[29Dec2024 17:02:48.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14831, l='ServerLevel[world]', x=-10.85, y=92.00, z=-17.40] died: Toxic Slime was struck by lightning
+[29Dec2024 17:03:22.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-127, y=117, z=-64} BlockPos{x=-128, y=114, z=-64}
+[29Dec2024 17:03:22.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-127, y=117, z=-64} BlockPos{x=-127, y=113, z=-64}
+[29Dec2024 17:03:22.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=112, z=-64} BlockPos{x=-128, y=114, z=-64}
+[29Dec2024 17:12:16.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Dec2024 17:12:16.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
