@@ -1478,6 +1478,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-29 16:28:25 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll_warforge": {
     "criteria": {
       "find": "2024-12-29 16:19:53 +0000"
