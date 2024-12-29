@@ -820,3 +820,5 @@
 [29Dec2024 16:28:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [New Age Librarian]
 [29Dec2024 16:31:36.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [29Dec2024 16:42:32.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 1.2427655288092865,10.464927287664224,-2.0570674075398756
+[29Dec2024 16:53:31.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Dec2024 16:58:28.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/13767, l='ServerLevel[world]', x=-212.38, y=48.00, z=156.40] died: Piglin Civilian suffocated in a wall
