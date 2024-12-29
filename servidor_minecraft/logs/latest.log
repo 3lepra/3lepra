@@ -832,3 +832,6 @@
 [29Dec2024 17:03:22.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-129, y=112, z=-64} BlockPos{x=-128, y=114, z=-64}
 [29Dec2024 17:12:16.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [29Dec2024 17:12:16.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[29Dec2024 17:26:33.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=65, z=-578} BlockPos{x=-1049, y=63, z=-579}
+[29Dec2024 17:26:48.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=64, z=-574} BlockPos{x=-1039, y=63, z=-571}
+[29Dec2024 17:26:48.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=64, z=-574} BlockPos{x=-1039, y=63, z=-571}
