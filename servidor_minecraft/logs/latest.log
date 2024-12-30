@@ -924,3 +924,93 @@
 [30Dec2024 04:18:37.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 12.510056641897478,-2.4874113191519314,2.0986794207578896
 [30Dec2024 04:18:42.370] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 04:18:42.370] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:28:12.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Mother of Dragons]
+[30Dec2024 04:32:57.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/45790, l='ServerLevel[world]', x=826.56, y=83.56, z=-683.32] died, message: 'Mason was slain by Zombie'
+[30Dec2024 04:32:58.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:37:24.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:38:48.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 2.543032132152348,9.94052119252703,10.274183184931644
+[30Dec2024 04:39:46.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[30Dec2024 04:40:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [Dread Citadel]
+[30Dec2024 04:46:22.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:48:00.964] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:48:00.970] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:48:49.192] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=3386, y=65, z=127}
+[30Dec2024 04:49:01.065] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle]] from pos BlockPos{x=3403, y=69, z=37}
+[30Dec2024 04:49:05.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[30Dec2024 04:49:05.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 9.084163888034709,-0.7073098756579412,4.84121869208596
+[30Dec2024 04:53:04.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [An Ear-Shattering Roar]
+[30Dec2024 04:54:16.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:54:55.299] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp]] from pos BlockPos{x=3675, y=96, z=357}
+[30Dec2024 04:54:58.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[30Dec2024 04:55:41.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[30Dec2024 04:58:35.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:59:02.017] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=4011, y=74, z=715}
+[30Dec2024 04:59:05.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4011, y=74, z=715} but found not block entity block Block{minecraft:air} at location
+[30Dec2024 04:59:05.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=4011, y=74, z=715}
+[30Dec2024 05:01:10.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:01:18.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:01:29.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 2.484942673597743,6.296269267610356,-7.559685617804121
+[30Dec2024 05:01:36.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[30Dec2024 05:01:36.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -10.08795953472054,0.24918707874468282,0.32757165834328816
+[30Dec2024 05:02:07.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:02:59.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:03:20.251] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
+[30Dec2024 05:03:46.520] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 05:04:09.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:04:23.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -9.245608054423883,-1.3672060042503098,-4.254758094795534
+[30Dec2024 05:04:23.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
+[30Dec2024 05:04:51.787] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=4113, y=85, z=-798}
+[30Dec2024 05:05:12.381] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.381] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.382] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.429] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.436] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.437] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.437] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:12.438] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:05:48.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 8.345651314794395,3.842174945183473,4.493392364858096
+[30Dec2024 05:06:08.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:06:17.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 05:06:23.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 7.083397917369439,1.2491870787446828,6.9837844425839535
+[30Dec2024 05:06:23.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[30Dec2024 05:06:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [Tinker's Citadel]
+[30Dec2024 05:07:00.463] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 05:09:13.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -0.48551290488103405,14.962571469151726,-12.376870552878188
+[30Dec2024 05:09:13.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[30Dec2024 05:13:10.309] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 05:13:12.408] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.408] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.408] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.408] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.409] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.410] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.410] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.411] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.411] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.459] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.460] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.460] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.518] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.519] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.519] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 05:13:12.520] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.520] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.520] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:12.520] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:13.416] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:13.416] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:13.417] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 05:13:13.681] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:13.682] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:13.682] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:13:17.533] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.538] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=4505, y=82, z=-810}
+[30Dec2024 05:14:04.539] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=4504, y=82, z=-810}
+[30Dec2024 05:14:04.539] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.539] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.539] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.539] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.540] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:04.540] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 05:14:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Castle]

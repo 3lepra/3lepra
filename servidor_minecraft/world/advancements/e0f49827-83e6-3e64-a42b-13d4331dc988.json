@@ -114,6 +114,7 @@
       "minecraft:forest": "2024-12-10 15:04:45 +0000",
       "minecraft:lush_caves": "2024-12-10 01:02:00 +0000",
       "minecraft:deep_cold_ocean": "2024-12-16 01:31:42 +0000",
+      "minecraft:ice_spikes": "2024-12-30 04:38:41 +0000",
       "minecraft:frozen_ocean": "2024-12-10 21:15:32 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-16 01:32:42 +0000",
       "minecraft:ocean": "2024-12-15 05:57:03 +0000",
@@ -308,6 +309,7 @@
       "minecraft:piglin_brute": "2024-12-15 05:11:29 +0000",
       "minecraft:creeper": "2024-12-10 21:31:04 +0000",
       "minecraft:slime": "2024-12-10 20:25:26 +0000",
+      "quark:forgotten": "2024-12-30 05:08:10 +0000",
       "minecraft:phantom": "2024-12-10 20:32:02 +0000",
       "minecraft:witch": "2024-12-17 22:48:34 +0000",
       "minecraft:wither_skeleton": "2024-12-10 18:23:56 +0000",
@@ -1440,7 +1442,8 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "black": "2024-12-17 23:43:13 +0000"
+      "black": "2024-12-17 23:43:13 +0000",
+      "indigo": "2024-12-30 05:01:48 +0000"
     },
     "done": false
   },
@@ -1513,6 +1516,36 @@
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2024-12-30 03:19:18 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-30 05:14:42 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-12-30 05:06:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-30 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "idas:dread_citadel": {
+    "criteria": {
+      "in_dread_citadel": "2024-12-30 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-30 04:53:04 +0000"
     },
     "done": true
   },
