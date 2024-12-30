@@ -1466,9 +1466,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
-      "crying_obsidian": "2024-12-29 16:19:04 +0000"
+      "requirement": "2024-12-29 16:12:09 +0000"
     },
     "done": true
   },
@@ -1478,9 +1478,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "scroll_forge": "2024-12-29 16:28:25 +0000"
+      "crying_obsidian": "2024-12-29 16:19:04 +0000"
     },
     "done": true
   },
@@ -1490,21 +1490,21 @@
     },
     "done": true
   },
-  "incendium:toxic_heap/slime_poison": {
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
-      "poison": "2024-12-29 17:02:31 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2024-12-29 16:12:09 +0000"
+      "scroll_forge": "2024-12-29 16:28:25 +0000"
     },
     "done": true
   },
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:low": "2024-12-29 16:59:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2024-12-29 17:02:31 +0000"
     },
     "done": true
   },
