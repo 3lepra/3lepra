@@ -833,3 +833,9 @@
 [30Dec2024 03:03:17.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to PicaxeLlorona...
 [30Dec2024 03:03:17.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [30Dec2024 03:03:17.645] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to PicaxeLlorona
+[30Dec2024 03:07:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO+]☠ Rodjes7> -1086 -611
+[30Dec2024 03:10:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO] PicaxeLlorona> 5 0 -103
+[30Dec2024 03:12:24.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=5, z=-70} BlockPos{x=27, y=6, z=-70}
+[30Dec2024 03:12:24.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=4, z=-70} BlockPos{x=27, y=5, z=-70}
+[30Dec2024 03:14:18.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PicaxeLlorona lost connection: Disconnected
+[30Dec2024 03:14:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona left the game
