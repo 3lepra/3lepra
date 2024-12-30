@@ -839,3 +839,60 @@
 [30Dec2024 03:12:24.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=4, z=-70} BlockPos{x=27, y=5, z=-70}
 [30Dec2024 03:14:18.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PicaxeLlorona lost connection: Disconnected
 [30Dec2024 03:14:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona left the game
+[30Dec2024 03:14:45.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PicaxeLlorona[/10.147.18.161:59847] logged in with entity id 10179 at (9.5, 1.0, -105.5)
+[30Dec2024 03:14:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona joined the game
+[30Dec2024 03:14:45.155] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PicaxeLlorona
+[30Dec2024 03:14:45.179] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to PicaxeLlorona...
+[30Dec2024 03:14:45.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:14:45.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to PicaxeLlorona
+[30Dec2024 03:15:46.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=-16, z=-128} BlockPos{x=-17, y=-14, z=-129}
+[30Dec2024 03:15:46.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=-16, z=-128} BlockPos{x=-17, y=-14, z=-129}
+[30Dec2024 03:15:46.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=-16, z=-129} BlockPos{x=-17, y=-14, z=-129}
+[30Dec2024 03:15:46.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=-17, z=-129} BlockPos{x=-17, y=-14, z=-129}
+[30Dec2024 03:18:11.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 9.109558774857305,7.439835490208026,3.806358173276294
+[30Dec2024 03:18:17.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[30Dec2024 03:18:17.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[30Dec2024 03:18:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[30Dec2024 03:18:32.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57029] logged in with entity id 12535 at (-816.5189336162376, 137.68280177826858, -522.4151557069908)
+[30Dec2024 03:18:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[30Dec2024 03:18:32.713] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[30Dec2024 03:18:32.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[30Dec2024 03:18:32.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:18:32.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[30Dec2024 03:18:49.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 14.682180978105293,-5.043620683505992,13.179245232621327
+[30Dec2024 03:19:18.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [The Power of the Sun]
+[30Dec2024 03:19:36.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[30Dec2024 03:19:36.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[30Dec2024 03:19:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[30Dec2024 03:19:41.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona is bleeding. [MIEMBRO] PicaxeLlorona was slain by Enderman
+[30Dec2024 03:19:50.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57106] logged in with entity id 13720 at (-670.4692066276874, 151.11233211139728, -411.4627174187673)
+[30Dec2024 03:19:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[30Dec2024 03:19:50.148] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[30Dec2024 03:19:50.169] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[30Dec2024 03:19:50.169] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:19:50.170] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[30Dec2024 03:20:41.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona was slain by Enderman
+[30Dec2024 03:20:41.469] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for PicaxeLlorona at X: -35.18730599167216, Y: -14.0, Z: -145.5111573671906
+[30Dec2024 03:21:07.866] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player PicaxeLlorona picking up: PermanentItemEntity['Extradimensional Vessel'/14407, l='ServerLevel[world]', x=-35.19, y=-12.50, z=-145.51]
+[30Dec2024 03:21:07.867] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/14407, l='ServerLevel[world]', x=-35.19, y=-12.50, z=-145.51]
+[30Dec2024 03:21:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[30Dec2024 03:21:40.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[30Dec2024 03:21:40.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[30Dec2024 03:21:56.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57158] logged in with entity id 15324 at (-619.5054433496011, 142.964123189436, -371.3794114599605)
+[30Dec2024 03:21:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[30Dec2024 03:21:56.207] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[30Dec2024 03:21:56.228] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[30Dec2024 03:21:56.228] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:21:56.245] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[30Dec2024 03:23:01.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PicaxeLlorona lost connection: Disconnected
+[30Dec2024 03:23:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona left the game
+[30Dec2024 03:23:54.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ba80069[id=<null>,name=PicaxeLlorona,properties={},legacy=false] (/10.147.18.161:60064) lost connection: Disconnected
+[30Dec2024 03:24:13.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PicaxeLlorona[/10.147.18.161:60089] logged in with entity id 16518 at (-57.993574491280434, -9.0, -110.41804726640412)
+[30Dec2024 03:24:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona joined the game
+[30Dec2024 03:24:13.079] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PicaxeLlorona
+[30Dec2024 03:24:13.103] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to PicaxeLlorona...
+[30Dec2024 03:24:13.103] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:24:13.104] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to PicaxeLlorona
+[30Dec2024 03:25:37.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 03:32:02.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona has made the advancement [Dark Metallurgy]
+[30Dec2024 03:33:25.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona is bleeding. [MIEMBRO] PicaxeLlorona was obliterated by [MIEMBRO+]☠ Rodjes7's fireball
