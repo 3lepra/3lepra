@@ -920,3 +920,7 @@
 [30Dec2024 04:02:25.430] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/33447, l='ServerLevel[world]', x=-15.30, y=84.50, z=-122.80]
 [30Dec2024 04:07:16.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PicaxeLlorona lost connection: Disconnected
 [30Dec2024 04:07:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona left the game
+[30Dec2024 04:18:14.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:18:37.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 12.510056641897478,-2.4874113191519314,2.0986794207578896
+[30Dec2024 04:18:42.370] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:18:42.370] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
