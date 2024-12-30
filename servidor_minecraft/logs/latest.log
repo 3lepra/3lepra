@@ -819,3 +819,17 @@
 [30Dec2024 02:45:47.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
 [30Dec2024 02:46:38.922] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [30Dec2024 02:46:38.922] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md35f491$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[30Dec2024 03:02:05.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[30Dec2024 03:02:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[30Dec2024 03:02:55.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:56446] logged in with entity id 4561 at (-1082.1783416749943, 57.0, -608.9525790340012)
+[30Dec2024 03:02:55.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[30Dec2024 03:02:55.570] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[30Dec2024 03:02:55.603] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[30Dec2024 03:02:55.604] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:02:55.606] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[30Dec2024 03:03:17.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PicaxeLlorona[/10.147.18.161:59568] logged in with entity id 5023 at (2.699999988079071, -32.0, -155.22213193804782)
+[30Dec2024 03:03:17.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona joined the game
+[30Dec2024 03:03:17.596] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PicaxeLlorona
+[30Dec2024 03:03:17.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to PicaxeLlorona...
+[30Dec2024 03:03:17.644] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:03:17.645] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to PicaxeLlorona
