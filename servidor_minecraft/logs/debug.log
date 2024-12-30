@@ -12610,3 +12610,172 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Dec2024 16:34:57.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
 [30Dec2024 16:35:21.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_path
 [30Dec2024 16:35:21.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_stables
+[30Dec2024 16:37:51.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[30Dec2024 16:37:52.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse
+[30Dec2024 16:37:52.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse_path
+[30Dec2024 16:38:24.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[30Dec2024 16:38:29.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[30Dec2024 16:38:29.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[30Dec2024 16:38:29.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[30Dec2024 16:38:39.860] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_0 is being run through DFU (hash f4a1c04a06f046a307fad4edb28116ddcc7062a9acca30c9ab79ac5ad960f51f), this will cause launch time delays
+[30Dec2024 16:38:40.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[30Dec2024 16:38:40.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[30Dec2024 16:38:40.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[30Dec2024 16:38:40.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[30Dec2024 16:38:40.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 6.906446029623339,0.0,-7.587829921167383
+[30Dec2024 16:38:40.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 7.875909176775394,0.0,-8.402707840732376
+[30Dec2024 16:38:40.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 8.882053994976786,0.0,-9.157556499168834
+[30Dec2024 16:38:40.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[30Dec2024 16:38:40.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[30Dec2024 16:38:44.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[30Dec2024 16:38:53.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[30Dec2024 16:38:59.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[30Dec2024 16:39:38.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_sculk
+[30Dec2024 16:39:44.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:39:44.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:44:44.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:44:44.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:47:54.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[30Dec2024 16:47:54.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_02
+[30Dec2024 16:47:54.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_04
+[30Dec2024 16:47:54.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_02
+[30Dec2024 16:47:54.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[30Dec2024 16:47:54.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1
+[30Dec2024 16:47:54.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_06
+[30Dec2024 16:47:54.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_01
+[30Dec2024 16:47:54.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_05
+[30Dec2024 16:47:54.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2
+[30Dec2024 16:47:54.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_05
+[30Dec2024 16:47:54.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_01
+[30Dec2024 16:47:54.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_03
+[30Dec2024 16:47:54.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1
+[30Dec2024 16:47:54.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_03
+[30Dec2024 16:47:54.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1
+[30Dec2024 16:47:54.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/turn_01
+[30Dec2024 16:47:54.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_03
+[30Dec2024 16:47:54.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_04
+[30Dec2024 16:47:54.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_02
+[30Dec2024 16:47:54.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1
+[30Dec2024 16:47:54.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1
+[30Dec2024 16:47:54.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1
+[30Dec2024 16:47:54.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_02
+[30Dec2024 16:47:54.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1
+[30Dec2024 16:47:54.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5
+[30Dec2024 16:47:54.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1
+[30Dec2024 16:47:54.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_04
+[30Dec2024 16:47:54.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_03
+[30Dec2024 16:47:54.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_01
+[30Dec2024 16:48:27.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/ancient_portal1
+[30Dec2024 16:48:27.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/ancient_portal2
+[30Dec2024 16:48:50.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_a
+[30Dec2024 16:48:50.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined_cap
+[30Dec2024 16:48:50.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/vent
+[30Dec2024 16:48:50.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_3
+[30Dec2024 16:48:50.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway
+[30Dec2024 16:48:50.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/stonecutter_schematic
+[30Dec2024 16:48:50.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined
+[30Dec2024 16:48:50.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/transfer_unit
+[30Dec2024 16:48:50.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_c
+[30Dec2024 16:48:50.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_a
+[30Dec2024 16:48:50.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_2
+[30Dec2024 16:48:50.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[30Dec2024 16:48:50.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_5
+[30Dec2024 16:48:50.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_1
+[30Dec2024 16:48:50.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_debris
+[30Dec2024 16:48:50.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_2
+[30Dec2024 16:48:50.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_2
+[30Dec2024 16:48:50.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_1
+[30Dec2024 16:48:50.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/hammer
+[30Dec2024 16:48:50.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_1
+[30Dec2024 16:48:50.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_ruined
+[30Dec2024 16:48:50.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined
+[30Dec2024 16:48:50.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_1
+[30Dec2024 16:48:50.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_3
+[30Dec2024 16:48:50.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_3
+[30Dec2024 16:48:50.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up
+[30Dec2024 16:48:50.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_broken
+[30Dec2024 16:48:50.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_4
+[30Dec2024 16:48:50.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/spawner
+[30Dec2024 16:48:50.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_2
+[30Dec2024 16:48:50.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_1
+[30Dec2024 16:48:50.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large
+[30Dec2024 16:48:50.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_down
+[30Dec2024 16:48:50.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_2
+[30Dec2024 16:48:50.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_schematic
+[30Dec2024 16:48:50.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_contained
+[30Dec2024 16:48:50.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container
+[30Dec2024 16:48:50.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_b
+[30Dec2024 16:48:50.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_4
+[30Dec2024 16:48:50.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_2
+[30Dec2024 16:48:50.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container_large
+[30Dec2024 16:48:50.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_up
+[30Dec2024 16:48:59.926] [Worker-Main-34/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from integrated_api-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Dec2024 16:48:59.927] [Worker-Main-34/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Dec2024 16:48:59.933] [Worker-Main-34/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Dec2024 16:48:59.934] [Worker-Main-34/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Dec2024 16:48:59.941] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Dec2024 16:48:59.941] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Dec2024 16:49:00.481] [Worker-Main-65/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30Dec2024 16:49:00.507] [Worker-Main-35/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Dec2024 16:49:00.514] [Worker-Main-35/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Dec2024 16:49:00.515] [Worker-Main-35/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Dec2024 16:49:00.527] [Worker-Main-35/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Dec2024 16:49:00.527] [Worker-Main-35/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[30Dec2024 16:49:00.592] [Worker-Main-35/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Dec2024 16:49:00.592] [Worker-Main-35/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Dec2024 16:49:19.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[30Dec2024 16:49:22.020] [Worker-Main-34/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[30Dec2024 16:49:22.089] [Worker-Main-35/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[30Dec2024 16:49:22.089] [Worker-Main-35/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[30Dec2024 16:49:22.093] [Worker-Main-35/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[30Dec2024 16:49:22.094] [Worker-Main-35/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$cf5c80$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[30Dec2024 16:49:27.761] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[30Dec2024 16:49:44.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:49:44.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:50:03.037] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[30Dec2024 16:50:03.071] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[30Dec2024 16:50:13.607] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2139, y=77, z=69}
+[30Dec2024 16:50:21.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2139, y=77, z=69} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[30Dec2024 16:50:21.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2139, y=77, z=69}
+[30Dec2024 16:54:44.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:54:44.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 16:57:39.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[30Dec2024 16:57:39.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/corner_01
+[30Dec2024 16:57:39.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/villagers/nitwit
+[30Dec2024 16:57:39.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/villagers/unemployed
+[30Dec2024 16:57:39.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/villagers/baby
+[30Dec2024 16:57:39.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/straight_01
+[30Dec2024 16:57:39.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/turn_01
+[30Dec2024 16:57:39.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/crossroad_02
+[30Dec2024 16:57:39.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_butcher_and_mason_1
+[30Dec2024 16:57:39.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_fisher_and_leatherworker_1
+[30Dec2024 16:57:39.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_large_house_2
+[30Dec2024 16:57:39.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/straight_02
+[30Dec2024 16:57:39.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/streets/crossroad_01
+[30Dec2024 16:57:39.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_medium_house_3
+[30Dec2024 16:57:39.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_medium_house_2
+[30Dec2024 16:57:39.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/terminators/terminator_03
+[30Dec2024 16:57:39.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_medium_house_4
+[30Dec2024 16:57:39.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_small_house_3
+[30Dec2024 16:57:39.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_small_house_2
+[30Dec2024 16:57:39.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_small_house_1
+[30Dec2024 16:57:39.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/houses/swamp_b_armorer_and_toolsmith_1
+[30Dec2024 16:57:39.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/terminators/terminator_02
+[30Dec2024 16:57:39.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/terminators/terminator_01
+[30Dec2024 16:57:40.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[30Dec2024 16:57:40.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[30Dec2024 16:57:43.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[30Dec2024 16:57:43.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[30Dec2024 16:57:43.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[30Dec2024 16:57:43.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[30Dec2024 16:57:43.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[30Dec2024 16:57:43.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[30Dec2024 16:57:43.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[30Dec2024 16:57:43.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[30Dec2024 16:57:43.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[30Dec2024 16:57:43.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[30Dec2024 16:57:47.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -8.619875617110438,0.0,-6.023657816521325
+[30Dec2024 16:59:44.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 16:59:44.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 17:04:44.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 17:04:44.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
