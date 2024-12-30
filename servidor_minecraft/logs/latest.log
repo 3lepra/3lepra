@@ -896,3 +896,27 @@
 [30Dec2024 03:25:37.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [30Dec2024 03:32:02.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona has made the advancement [Dark Metallurgy]
 [30Dec2024 03:33:25.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona is bleeding. [MIEMBRO] PicaxeLlorona was obliterated by [MIEMBRO+]☠ Rodjes7's fireball
+[30Dec2024 03:38:19.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 03:38:45.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 03:39:11.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 9.418623392726204,-3.125934966495336,-5.229780426079287
+[30Dec2024 03:40:14.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona has made the advancement [Splintering II]
+[30Dec2024 03:53:03.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[30Dec2024 03:53:03.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[30Dec2024 03:53:03.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[30Dec2024 03:53:16.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:58183] logged in with entity id 29651 at (-62.729597281793005, 98.1232311029582, -1232.1486975013577)
+[30Dec2024 03:53:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[30Dec2024 03:53:16.824] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[30Dec2024 03:53:16.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[30Dec2024 03:53:16.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 03:53:16.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[30Dec2024 03:56:01.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=113, z=-1342} BlockPos{x=-160, y=114, z=-1342}
+[30Dec2024 03:56:01.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=113, z=-1342} BlockPos{x=-160, y=114, z=-1342}
+[30Dec2024 03:56:01.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=113, z=-1342} BlockPos{x=-160, y=114, z=-1342}
+[30Dec2024 03:59:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona is bleeding. [MIEMBRO] PicaxeLlorona was doomed to fall by Achale
+[30Dec2024 04:00:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona was doomed to fall by Achale
+[30Dec2024 04:00:09.411] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for PicaxeLlorona at X: -15.300000011920929, Y: 83.0, Z: -122.80220111331087
+[30Dec2024 04:02:06.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[30Dec2024 04:02:25.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player PicaxeLlorona picking up: PermanentItemEntity['Extradimensional Vessel'/33447, l='ServerLevel[world]', x=-15.30, y=84.50, z=-122.80]
+[30Dec2024 04:02:25.430] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/33447, l='ServerLevel[world]', x=-15.30, y=84.50, z=-122.80]
+[30Dec2024 04:07:16.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PicaxeLlorona lost connection: Disconnected
+[30Dec2024 04:07:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] PicaxeLlorona left the game
