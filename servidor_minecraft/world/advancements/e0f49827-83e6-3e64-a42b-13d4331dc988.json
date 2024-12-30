@@ -1519,18 +1519,6 @@
     },
     "done": true
   },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2024-12-30 05:14:42 +0000"
-    },
-    "done": true
-  },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2024-12-30 05:06:45 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-30 04:28:12 +0000"
@@ -1546,6 +1534,30 @@
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2024-12-30 04:53:04 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-12-30 05:06:45 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-30 05:14:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-30 05:54:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-30 05:55:18 +0000"
     },
     "done": true
   },
