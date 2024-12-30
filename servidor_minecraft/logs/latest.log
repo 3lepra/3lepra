@@ -825,3 +825,4 @@
 [30Dec2024 15:11:28.782] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
 [30Dec2024 15:12:51.465] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [30Dec2024 15:12:51.467] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdcf5c80$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[30Dec2024 15:27:03.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
