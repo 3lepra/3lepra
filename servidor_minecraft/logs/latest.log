@@ -14,3 +14,5 @@
 [31Dec2024 00:09:56.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44725, l='ServerLevel[world]', x=-1131.69, y=65.25, z=-565.13] died, message: 'Villager was slain by Zombie'
 [31Dec2024 00:16:44.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [The Heart and the Flame]
 [31Dec2024 00:19:01.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[31Dec2024 00:28:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Magic Mod Mechanic]
+[31Dec2024 00:33:51.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind

@@ -1585,6 +1585,12 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2024-12-31 00:28:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
       "core": "2024-12-31 00:16:44 +0000"
