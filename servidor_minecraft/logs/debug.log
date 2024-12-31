@@ -12354,3 +12354,90 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Dec2024 23:51:04.949] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
 [30Dec2024 23:51:04.950] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
 [30Dec2024 23:51:09.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33615, l='ServerLevel[world]', x=5833.56, y=73.94, z=1269.47] died, message: 'Villager was frozen by Ice Dragon'
+[30Dec2024 23:53:42.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:53:42.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:54:49.988] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=6128, y=64, z=1274}
+[30Dec2024 23:55:51.276] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[30Dec2024 23:56:54.828] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=6154, y=64, z=799}
+[30Dec2024 23:58:09.639] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[30Dec2024 23:58:09.641] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[30Dec2024 23:58:09.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[30Dec2024 23:58:09.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[30Dec2024 23:58:09.709] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[30Dec2024 23:58:09.718] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[30Dec2024 23:58:21.077] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:hunters_cabin/hunters_cabin
+[30Dec2024 23:58:42.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:58:42.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:01:40.354] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market]] from pos BlockPos{x=6117, y=75, z=1003}
+[31Dec2024 00:01:42.493] [Worker-Main-2/DEBUG] [ModernFix/]: Structure idas:redhorn_guild/redhorn_guild is being run through DFU (hash 85e911cbab9f6da64f3e0051a481913b38fdbab39e6a38b78ad536fdf7532799), this will cause launch time delays
+[31Dec2024 00:01:42.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[31Dec2024 00:01:42.825] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[31Dec2024 00:01:42.825] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[31Dec2024 00:01:42.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[31Dec2024 00:01:42.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[31Dec2024 00:01:42.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_5
+[31Dec2024 00:01:42.832] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_6
+[31Dec2024 00:01:42.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[31Dec2024 00:01:42.837] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_8
+[31Dec2024 00:01:42.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_1
+[31Dec2024 00:01:42.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_2
+[31Dec2024 00:01:42.839] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[31Dec2024 00:01:42.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_1
+[31Dec2024 00:01:42.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_2
+[31Dec2024 00:01:42.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[31Dec2024 00:01:42.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fletcher_1
+[31Dec2024 00:01:42.843] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_shepherd_1
+[31Dec2024 00:01:42.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_armorer_1
+[31Dec2024 00:01:42.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fisher_1
+[31Dec2024 00:01:42.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[31Dec2024 00:01:42.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_cartographer_1
+[31Dec2024 00:01:42.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_library_1
+[31Dec2024 00:01:42.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[31Dec2024 00:01:42.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[31Dec2024 00:01:42.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[31Dec2024 00:01:42.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_stable_1
+[31Dec2024 00:01:42.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[31Dec2024 00:01:42.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[31Dec2024 00:01:42.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[31Dec2024 00:01:42.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_2
+[31Dec2024 00:01:42.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[31Dec2024 00:01:42.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[31Dec2024 00:01:42.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[31Dec2024 00:01:42.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[31Dec2024 00:01:42.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[31Dec2024 00:01:42.862] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[31Dec2024 00:01:42.873] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[31Dec2024 00:01:42.883] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[31Dec2024 00:01:42.883] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[31Dec2024 00:01:42.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[31Dec2024 00:01:42.924] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[31Dec2024 00:01:42.924] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[31Dec2024 00:01:42.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[31Dec2024 00:01:42.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[31Dec2024 00:01:42.926] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[31Dec2024 00:01:42.927] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[31Dec2024 00:01:42.928] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[31Dec2024 00:01:42.928] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[31Dec2024 00:01:42.928] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[31Dec2024 00:01:42.929] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[31Dec2024 00:01:46.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
+[31Dec2024 00:02:26.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[31Dec2024 00:03:46.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:03:46.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:08:28.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[31Dec2024 00:08:46.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:08:46.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:08:46.949] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (15b5391c-0401-4bda-acd7-28f5175fe64a)
+[31Dec2024 00:08:47.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[31Dec2024 00:08:52.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -9.071831884747553,0.0,-5.126499412010617
+[31Dec2024 00:08:53.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 15.875705798308218,0.0,8.97137397101858
+[31Dec2024 00:08:53.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 14.741726812714774,0.0,8.330561544517252
+[31Dec2024 00:08:53.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 13.60774782712133,0.0,7.689749118015925
+[31Dec2024 00:08:53.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 12.473768841527885,0.0,7.048936691514598
+[31Dec2024 00:08:53.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 11.339789855934441,0.0,6.408124265013271
+[31Dec2024 00:08:53.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 10.205810870340997,0.0,5.767311838511944
+[31Dec2024 00:08:53.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 9.071831884747553,0.0,5.126499412010617
+[31Dec2024 00:08:56.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -7.44483919699519,0.0,-7.2568975179659105
+[31Dec2024 00:08:58.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[31Dec2024 00:08:58.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[31Dec2024 00:09:56.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44725, l='ServerLevel[world]', x=-1131.69, y=65.25, z=-565.13] died, message: 'Villager was slain by Zombie'
