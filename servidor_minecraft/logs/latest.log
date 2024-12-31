@@ -143,3 +143,26 @@
 [31Dec2024 02:15:20.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
 [31Dec2024 02:15:20.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
 [31Dec2024 02:15:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[31Dec2024 02:15:34.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:64319] logged in with entity id 85613 at (-904.0503794142311, 193.7523776473794, -2713.5201837466198)
+[31Dec2024 02:15:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[31Dec2024 02:15:34.518] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[31Dec2024 02:15:34.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[31Dec2024 02:15:34.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 02:15:34.595] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[31Dec2024 02:21:30.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 10.231015435166057,0.0,-2.689566727400006
+[31Dec2024 02:21:30.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 11.954632167340435,0.0,-3.068062102508293
+[31Dec2024 02:21:30.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 13.686018220704113,0.0,-3.408152354502704
+[31Dec2024 02:21:30.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 15.424260378725592,0.0,-3.7142478205524867
+[31Dec2024 02:21:30.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 17.16856480629491,0.0,-3.9898132592691127
+[31Dec2024 02:21:30.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 18.91828258788081,0.0,-4.234644238854003
+[31Dec2024 02:21:30.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 20.67274285220708,0.0,-4.446514516827392
+[31Dec2024 02:21:30.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 13.914997413476442,0.0,-2.350524921749752
+[31Dec2024 02:21:31.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 15.676178168669765,0.0,-2.485038489700969
+[31Dec2024 02:21:31.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 17.438552179182864,0.0,-2.5730434780979294
+[31Dec2024 02:21:31.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 19.201139297544216,0.0,-2.614767910494379
+[31Dec2024 02:21:38.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -3.3911882383627017,0.0,-10.219262274397238
+[31Dec2024 02:21:38.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -3.9885900644023877,0.0,-11.923650511150186
+[31Dec2024 02:21:38.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -4.592456695309693,0.0,-13.628275198984852
+[31Dec2024 02:21:39.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 3.6345402822699953,0.0,10.228162907159003
+[31Dec2024 02:21:39.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 3.6345402822699953,0.0,10.228162907159003
+[31Dec2024 02:21:39.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! 3.6345402822699953,0.0,10.228162907159003
