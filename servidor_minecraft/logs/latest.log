@@ -12,3 +12,5 @@
 [31Dec2024 00:08:56.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Rodjes7) moved too quickly! -7.44483919699519,0.0,-7.2568975179659105
 [31Dec2024 00:08:58.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [31Dec2024 00:09:56.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44725, l='ServerLevel[world]', x=-1131.69, y=65.25, z=-565.13] died, message: 'Villager was slain by Zombie'
+[31Dec2024 00:16:44.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [The Heart and the Flame]
+[31Dec2024 00:19:01.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
