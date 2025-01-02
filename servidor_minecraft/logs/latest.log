@@ -822,3 +822,9 @@
 [02Jan2025 21:39:46.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [02Jan2025 21:40:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Bukkit Bukkit]
 [02Jan2025 21:44:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Herc was on a Roll!]
+[02Jan2025 21:59:21.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/10.147.18.18:54952] logged in with entity id 15254 at (-1141.5884745632052, 65.0, -574.4645394595191)
+[02Jan2025 21:59:21.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii joined the game
+[02Jan2025 21:59:21.878] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[02Jan2025 21:59:21.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[02Jan2025 21:59:21.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 21:59:21.915] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
