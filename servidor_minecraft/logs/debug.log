@@ -10926,3 +10926,16 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 21:34:24.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
 [02Jan2025 21:39:00.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 21:39:00.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:39:46.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Jan2025 21:39:52.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[02Jan2025 21:39:52.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[02Jan2025 21:39:52.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[02Jan2025 21:40:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Bukkit Bukkit]
+[02Jan2025 21:44:00.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:44:00.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:44:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Herc was on a Roll!]
+[02Jan2025 21:48:13.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[02Jan2025 21:48:13.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[02Jan2025 21:48:13.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[02Jan2025 21:49:00.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:49:00.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

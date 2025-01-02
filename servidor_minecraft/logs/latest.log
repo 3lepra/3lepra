@@ -819,3 +819,6 @@
 [02Jan2025 21:19:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [What a Deal!]
 [02Jan2025 21:29:28.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Dark Forging]
 [02Jan2025 21:33:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has reached the goal [Exorcism]
+[02Jan2025 21:39:46.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Jan2025 21:40:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Bukkit Bukkit]
+[02Jan2025 21:44:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Herc was on a Roll!]
