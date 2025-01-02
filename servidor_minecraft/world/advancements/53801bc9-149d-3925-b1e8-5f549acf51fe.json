@@ -1410,6 +1410,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-01-02 21:29:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-02 21:33:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_0": "2025-01-02 21:37:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-02 21:19:35 +0000"
