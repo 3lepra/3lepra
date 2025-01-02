@@ -816,3 +816,4 @@
 [02Jan2025 21:00:32.604] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [02Jan2025 21:06:10.753] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [02Jan2025 21:06:10.754] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md37ba40$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[02Jan2025 21:19:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [What a Deal!]
