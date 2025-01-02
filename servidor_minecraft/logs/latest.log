@@ -828,3 +828,11 @@
 [02Jan2025 21:59:21.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
 [02Jan2025 21:59:21.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [02Jan2025 21:59:21.915] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[02Jan2025 22:03:33.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[02Jan2025 22:03:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[02Jan2025 22:04:07.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:63729] logged in with entity id 16310 at (-1140.156854400903, 66.0, -531.0340161718589)
+[02Jan2025 22:04:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[02Jan2025 22:04:07.906] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[02Jan2025 22:04:07.926] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[02Jan2025 22:04:07.926] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 22:04:07.928] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
