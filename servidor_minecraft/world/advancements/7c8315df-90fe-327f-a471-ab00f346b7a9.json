@@ -561,6 +561,7 @@
       "golden_apple": "2024-12-16 01:01:40 +0000",
       "bread": "2024-12-16 01:44:53 +0000",
       "glow_berries": "2024-12-12 02:30:40 +0000",
+      "golden_carrot": "2025-01-02 22:20:18 +0000",
       "mushroom_stew": "2024-12-12 03:12:49 +0000",
       "carrot": "2024-12-24 02:41:25 +0000"
     },
@@ -725,6 +726,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-24 02:52:22 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-01-02 22:20:51 +0000"
     },
     "done": true
   },
