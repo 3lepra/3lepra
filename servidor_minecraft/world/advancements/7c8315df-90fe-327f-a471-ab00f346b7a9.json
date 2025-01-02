@@ -741,5 +741,41 @@
     },
     "done": false
   },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:12 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:12 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-01-02 22:31:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

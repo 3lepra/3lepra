@@ -12052,3 +12052,28 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 22:29:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> z
 [02Jan2025 22:29:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> z
 [02Jan2025 22:29:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO+]☠ SayaMeiii> ZZZZZZZZZZZ
+[02Jan2025 22:31:10.434] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[02Jan2025 22:31:10.434] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40f0dd62-4904-4846-9585-dcce1b5f32ab)
+[02Jan2025 22:31:11.085] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cdd857be-0ce7-42e4-959c-f5cd71386981)
+[02Jan2025 22:31:11.094] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (22424af6-03f6-46f8-bbf8-146bd69f7215)
+[02Jan2025 22:31:11.731] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[02Jan2025 22:31:11.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii has made the advancement [Basic Tinkering (Tetra)]
+[02Jan2025 22:31:11.774] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/double_headed)
+[02Jan2025 22:31:11.775] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/root)
+[02Jan2025 22:31:11.775] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/tool_upgrade)
+[02Jan2025 22:31:11.775] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/hammer_2)
+[02Jan2025 22:31:11.775] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/sword_upgrade)
+[02Jan2025 22:31:11.775] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/repairs)
+[02Jan2025 22:31:11.776] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/shield_upgrade)
+[02Jan2025 22:31:11.784] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (22424af6-03f6-46f8-bbf8-146bd69f7215)
+[02Jan2025 22:31:11.828] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (22424af6-03f6-46f8-bbf8-146bd69f7215)
+[02Jan2025 22:31:12.632] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (22424af6-03f6-46f8-bbf8-146bd69f7215)
+[02Jan2025 22:31:12.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii has made the advancement [Bench mk II]
+[02Jan2025 22:31:12.672] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/hammer_3)
+[02Jan2025 22:31:12.673] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/sword_hone)
+[02Jan2025 22:31:12.673] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/sword_integrity)
+[02Jan2025 22:31:24.735] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[02Jan2025 22:34:00.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:34:00.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:39:00.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:39:00.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
