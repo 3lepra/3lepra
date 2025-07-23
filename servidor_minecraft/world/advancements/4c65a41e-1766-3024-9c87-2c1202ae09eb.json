@@ -809,6 +809,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-23 02:37:23 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-07-23 02:30:22 +0000"
@@ -818,6 +824,12 @@
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-07-23 02:33:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-07-23 02:42:17 +0000"
     },
     "done": true
   },

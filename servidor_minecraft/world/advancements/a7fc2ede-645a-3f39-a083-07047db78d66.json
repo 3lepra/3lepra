@@ -508,6 +508,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 01:32:52 +0000",
+      "minecraft:witch": "2025-07-23 02:42:59 +0000",
       "minecraft:zombie": "2025-07-23 01:25:01 +0000"
     },
     "done": false
@@ -617,6 +618,12 @@
   "tetra:upgrades/repairs": {
     "criteria": {
       "hammer": "2025-07-23 02:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-23 02:43:20 +0000"
     },
     "done": true
   },
