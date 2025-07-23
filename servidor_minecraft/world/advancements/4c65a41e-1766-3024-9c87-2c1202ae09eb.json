@@ -530,11 +530,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-07-22 03:00:06 +0000",
+      "sweet_berries": "2025-07-23 18:59:33 +0000",
       "cooked_beef": "2025-07-23 00:20:16 +0000",
       "beetroot_soup": "2025-07-22 23:01:53 +0000",
       "potato": "2025-07-22 22:41:19 +0000",
       "supplementaries:candy": "2025-07-23 18:03:40 +0000",
       "pumpkin_pie": "2025-07-23 03:44:53 +0000",
+      "mutton": "2025-07-23 19:22:06 +0000",
       "bread": "2025-07-22 23:15:51 +0000",
       "golden_apple": "2025-07-23 02:33:04 +0000",
       "rotten_flesh": "2025-07-22 01:42:53 +0000",
@@ -884,6 +886,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-07-23 19:17:09 +0000",
       "melon": "2025-07-23 03:21:03 +0000"
     },
     "done": false
@@ -975,6 +978,30 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-07-23 18:00:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-07-23 19:22:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 19:03:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-23 19:13:01 +0000"
     },
     "done": true
   },

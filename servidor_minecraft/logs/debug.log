@@ -12235,3 +12235,91 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [23Jul2025 18:54:16.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 18:54:17.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Ghost
 [23Jul2025 18:54:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Ghost
+[23Jul2025 18:54:49.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:54:49.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:55:36.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:55:36.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:55:36.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:55:36.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 18:56:19.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:56:19.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 18:59:16.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 18:59:16.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:01:11.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.3420943859291583
+[23Jul2025 19:01:11.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.5048889055951804
+[23Jul2025 19:01:11.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.6436005304572063
+[23Jul2025 19:03:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Sea? Not a Problem]
+[23Jul2025 19:04:16.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:04:16.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:04:44.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 19:08:01.858] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/33207, l='ServerLevel[world]', x=-1737.68, y=64.50, z=3869.77]
+[23Jul2025 19:08:01.858] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/33207, l='ServerLevel[world]', x=-1737.68, y=64.50, z=3869.77]
+[23Jul2025 19:08:23.982] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 19:08:23.982] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 19:08:49.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.7215319638389784
+[23Jul2025 19:08:49.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.7786844474876262
+[23Jul2025 19:08:56.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.8223946316563405
+[23Jul2025 19:08:58.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.5755489254152566
+[23Jul2025 19:08:58.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.6056341480451267
+[23Jul2025 19:08:58.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.67621568066601
+[23Jul2025 19:08:59.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.609533324758861
+[23Jul2025 19:08:59.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3228252466160741
+[23Jul2025 19:08:59.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.38589556416519577
+[23Jul2025 19:08:59.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4383598885915063
+[23Jul2025 19:08:59.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.5614439727578086
+[23Jul2025 19:09:00.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.43477126860005055
+[23Jul2025 19:09:00.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.5286664295177153
+[23Jul2025 19:09:01.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.6234059065811846
+[23Jul2025 19:09:01.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.7051770973578977
+[23Jul2025 19:09:02.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.551924137386516
+[23Jul2025 19:09:16.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:09:16.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:09:58.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.8300804158193141
+[23Jul2025 19:09:58.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.8302123716127595
+[23Jul2025 19:09:58.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.8302467673072158
+[23Jul2025 19:12:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Cyclops
+[23Jul2025 19:12:24.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Cyclops
+[23Jul2025 19:12:24.996] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1654.8368938081753, Y: 64.0, Z: 3938.922864143782
+[23Jul2025 19:13:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Cyclops
+[23Jul2025 19:13:52.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Cyclops
+[23Jul2025 19:14:16.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:14:16.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:15:33.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 19:15:56.899] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/38465, l='ServerLevel[world]', x=-1654.84, y=65.50, z=3938.92]
+[23Jul2025 19:15:56.900] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/38465, l='ServerLevel[world]', x=-1654.84, y=65.50, z=3938.92]
+[23Jul2025 19:15:58.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE hit the ground too hard whilst trying to escape Cyclops
+[23Jul2025 19:16:21.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE hit the ground too hard
+[23Jul2025 19:16:21.125] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1656.3405118801834, Y: 64.0, Z: 3927.300000011921
+[23Jul2025 19:17:24.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/39803, l='ServerLevel[world]', x=-1656.34, y=65.50, z=3927.30]
+[23Jul2025 19:17:24.555] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/39803, l='ServerLevel[world]', x=-1656.34, y=65.50, z=3927.30]
+[23Jul2025 19:17:39.958] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 19:17:39.959] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 19:18:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Cyclops
+[23Jul2025 19:18:55.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Cyclops
+[23Jul2025 19:18:55.781] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1644.4420505098155, Y: 64.0, Z: 3942.729252092939
+[23Jul2025 19:19:16.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:19:16.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:19:26.398] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/40858, l='ServerLevel[world]', x=-1644.44, y=65.50, z=3942.73]
+[23Jul2025 19:19:26.398] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/40858, l='ServerLevel[world]', x=-1644.44, y=65.50, z=3942.73]
+[23Jul2025 19:20:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [My Name is Nobody]
+[23Jul2025 19:22:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Guns and Roses]
+[23Jul2025 19:23:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[23Jul2025 19:24:12.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Skeleton
+[23Jul2025 19:24:12.763] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1748.2189234441391, Y: 63.0, Z: 3849.8837453862093
+[23Jul2025 19:24:16.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:24:16.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:24:19.353] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/43225, l='ServerLevel[world]', x=-1748.22, y=64.50, z=3849.88]
+[23Jul2025 19:24:19.353] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/43225, l='ServerLevel[world]', x=-1748.22, y=64.50, z=3849.88]
+[23Jul2025 19:26:06.314] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 19:26:06.315] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 19:28:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was killed trying to hurt Skeleton
+[23Jul2025 19:29:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was killed trying to hurt Skeleton
+[23Jul2025 19:29:08.705] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1763.300000011921, Y: 65.0, Z: 3850.9960780090078
+[23Jul2025 19:29:16.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:29:16.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:32:06.849] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/44371, l='ServerLevel[world]', x=-1763.30, y=66.50, z=3851.00]
+[23Jul2025 19:32:06.849] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/44371, l='ServerLevel[world]', x=-1763.30, y=66.50, z=3851.00]
+[23Jul2025 19:33:53.846] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 19:33:53.847] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 19:34:16.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:34:16.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
