@@ -849,3 +849,23 @@
 [23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 18:35:32.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:38:25.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:45:19.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:45:19.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:47:44.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.5734050375617077
+[23Jul2025 18:49:43.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 1.2150024927757386,0.0,-10.088042747630425
+[23Jul2025 18:49:43.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.9464027340977736,0.0,-10.350077686003715
+[23Jul2025 18:49:43.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.7094977469439527,0.0,-10.58119250164873
+[23Jul2025 18:49:43.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.5005475482741986,0.0,-10.785035769047681
+[23Jul2025 18:49:43.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.31625347304748175,0.0,-10.96482553089345
+[23Jul2025 18:49:43.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.15370609869751206,0.0,-11.123400100841536
+[23Jul2025 18:49:43.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! 0.01033931452093384,0.0,-11.263262871535971
+[23Jul2025 18:49:43.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -0.1161101891227645,0.0,-11.386621835288224
+[23Jul2025 18:49:43.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -0.22763865133651962,0.0,-11.495424441317937
+[23Jul2025 18:51:30.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3528409371775476
+[23Jul2025 18:51:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE withered away whilst fighting Skeleton
+[23Jul2025 18:52:18.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE withered away
+[23Jul2025 18:52:18.250] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1737.6772425493075, Y: 63.0, Z: 3869.7743582432277
+[23Jul2025 18:54:17.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Ghost
+[23Jul2025 18:54:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Ghost
