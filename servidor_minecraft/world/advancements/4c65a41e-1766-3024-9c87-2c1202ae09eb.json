@@ -490,6 +490,7 @@
       "minecraft:skeleton": "2025-07-22 01:32:40 +0000",
       "minecraft:spider": "2025-07-22 02:54:52 +0000",
       "minecraft:creeper": "2025-07-22 01:33:19 +0000",
+      "minecraft:witch": "2025-07-23 20:09:31 +0000",
       "minecraft:husk": "2025-07-22 03:01:06 +0000",
       "minecraft:cave_spider": "2025-07-23 17:59:37 +0000",
       "quark:wraith": "2025-07-23 17:54:34 +0000",
@@ -990,6 +991,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-07-23 19:03:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-07-23 20:13:16 +0000"
     },
     "done": true
   },
