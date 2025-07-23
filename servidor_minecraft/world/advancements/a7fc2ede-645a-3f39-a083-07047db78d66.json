@@ -475,7 +475,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-07-23 01:14:20 +0000"
+      "minecraft:river": "2025-07-23 01:14:20 +0000",
+      "minecraft:dripstone_caves": "2025-07-23 03:09:40 +0000"
     },
     "done": false
   },
@@ -525,15 +526,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pieceof_chaos": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "pieceof_chaos_0": "2025-07-23 02:48:26 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2025-07-23 02:11:55 +0000"
+      "iron": "2025-07-23 01:29:08 +0000"
     },
     "done": true
   },
@@ -543,15 +538,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-23 01:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-23 01:46:47 +0000"
     },
     "done": true
   },
-  "tetra:upgrades/sword_upgrade": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "module": "2025-07-23 02:35:32 +0000"
+      "junior_summoner_0": "2025-07-23 01:48:13 +0000"
     },
     "done": true
   },
@@ -561,15 +562,9 @@
     },
     "done": true
   },
-  "tetra:recipes/string": {
+  "immersive_paintings:misc/graffiti": {
     "criteria": {
-      "got_string": "2025-07-23 02:56:15 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2025-07-23 02:21:07 +0000"
+      "has_item": "2025-07-23 02:04:32 +0000"
     },
     "done": true
   },
@@ -579,9 +574,9 @@
     },
     "done": true
   },
-  "immersive_paintings:misc/graffiti": {
+  "tetra:spelunking/root": {
     "criteria": {
-      "has_item": "2025-07-23 02:04:32 +0000"
+      "spelunking": "2025-07-23 02:11:55 +0000"
     },
     "done": true
   },
@@ -591,27 +586,9 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "tetra:spelunking/geode": {
     "criteria": {
-      "iron": "2025-07-23 01:29:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-23 01:45:56 +0000"
-    },
-    "done": true
-  },
-  "tetra:upgrades/workbench": {
-    "criteria": {
-      "hammer": "2025-07-23 02:26:30 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/workbench": {
-    "criteria": {
-      "hammer": "2025-07-23 02:26:30 +0000"
+      "get_geode": "2025-07-23 02:21:07 +0000"
     },
     "done": true
   },
@@ -621,21 +598,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/geode_open": {
-    "criteria": {
-      "consume_geode": "2025-07-23 02:26:47 +0000"
-    },
-    "done": true
-  },
   "tetra:upgrades/repairs": {
     "criteria": {
       "hammer": "2025-07-23 02:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-07-23 02:43:20 +0000"
     },
     "done": true
   },
@@ -651,9 +616,51 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "tetra:upgrades/workbench": {
     "criteria": {
-      "junior_summoner_0": "2025-07-23 01:48:13 +0000"
+      "hammer": "2025-07-23 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2025-07-23 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode_open": {
+    "criteria": {
+      "consume_geode": "2025-07-23 02:26:47 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2025-07-23 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-23 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-07-23 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-07-23 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-07-23 03:27:35 +0000"
     },
     "done": true
   },

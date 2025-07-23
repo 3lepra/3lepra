@@ -516,9 +516,11 @@
       "cooked_beef": "2025-07-23 00:30:28 +0000",
       "beef": "2025-07-23 02:54:35 +0000",
       "apple": "2025-07-22 02:42:20 +0000",
+      "pumpkin_pie": "2025-07-23 03:15:55 +0000",
       "bread": "2025-07-22 01:04:56 +0000",
       "glow_berries": "2025-07-22 02:53:53 +0000",
       "salmon": "2025-07-23 01:55:10 +0000",
+      "melon_slice": "2025-07-23 03:19:02 +0000",
       "carrot": "2025-07-22 02:41:15 +0000"
     },
     "done": false
@@ -537,8 +539,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-23 03:22:04 +0000",
       "minecraft:dark_forest": "2025-07-22 01:12:44 +0000",
+      "minecraft:sparse_jungle": "2025-07-23 03:14:41 +0000",
       "minecraft:river": "2025-07-22 01:05:45 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-23 03:22:42 +0000",
       "minecraft:dripstone_caves": "2025-07-23 02:24:20 +0000",
       "minecraft:lush_caves": "2025-07-22 01:16:33 +0000",
       "minecraft:desert": "2025-07-23 01:43:51 +0000",
@@ -782,6 +787,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-07-23 02:56:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "honey_glazed_ham": "2025-07-23 02:56:43 +0000"
@@ -794,9 +805,39 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_feast": {
+  "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
-      "honey_glazed_ham": "2025-07-23 02:56:17 +0000"
+      "bowfor_wizards_0": "2025-07-23 03:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-23 03:23:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-07-23 03:24:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-07-23 03:23:41 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_fruit_grower": {
+    "criteria": {
+      "advancement_fruit_grower_0": "2025-07-23 03:24:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-23 03:24:53 +0000"
     },
     "done": true
   },

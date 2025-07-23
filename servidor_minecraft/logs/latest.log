@@ -942,3 +942,172 @@
 [23Jul2025 03:10:09.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
 [23Jul2025 03:10:09.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [23Jul2025 03:10:09.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[23Jul2025 03:11:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Double Trouble]
+[23Jul2025 03:11:59.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[23Jul2025 03:12:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Junior Summoner]
+[23Jul2025 03:12:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Bow for Wizards]
+[23Jul2025 03:12:39.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Jul2025 03:12:58.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has reached the goal [Fighting Nightmares]
+[23Jul2025 03:13:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Bow for Wizards]
+[23Jul2025 03:14:36.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23Jul2025 03:14:57.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5502ms or 110 ticks behind
+[23Jul2025 03:15:14.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[23Jul2025 03:16:57.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 is bleeding. RicardoAxel3 was shot by Supreme Bonescaller
+[23Jul2025 03:17:11.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/197855, l='ServerLevel[world]', x=-773.49, y=65.00, z=3306.30] died, message: 'Fisherman was slain by Zombie'
+[23Jul2025 03:17:15.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Jul2025 03:17:33.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[23Jul2025 03:17:49.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 was shot by Supreme Bonescaller
+[23Jul2025 03:17:49.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for RicardoAxel3 at X: 192.51579642421208, Y: -34.0, Z: -394.4396112887188
+[23Jul2025 03:17:52.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[23Jul2025 03:17:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[23Jul2025 03:19:10.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:60454] logged in with entity id 203247 at (192.51579642421208, -34.0, -394.4396112887188)
+[23Jul2025 03:19:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[23Jul2025 03:19:10.023] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[23Jul2025 03:19:10.042] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[23Jul2025 03:19:10.042] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:19:10.042] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[23Jul2025 03:19:25.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 03:19:25.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 03:19:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 03:19:38.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:56007] logged in with entity id 203720 at (-782.1068062327178, 103.36674385640572, 3295.419638106874)
+[23Jul2025 03:19:38.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 03:19:38.501] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 03:19:38.515] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 03:19:38.515] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:19:38.515] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 03:20:00.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 03:20:00.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 03:20:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 03:20:13.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:56027] logged in with entity id 204280 at (-795.0799850375106, 80.64582392761547, 3294.7509168955794)
+[23Jul2025 03:20:13.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 03:20:13.889] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 03:20:13.909] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 03:20:13.909] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:20:13.909] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 03:20:23.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 03:20:34.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player RicardoAxel3 picking up: PermanentItemEntity['Extradimensional Vessel'/203251, l='ServerLevel[world]', x=192.52, y=-32.50, z=-394.44]
+[23Jul2025 03:20:34.746] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/203251, l='ServerLevel[world]', x=192.52, y=-32.50, z=-394.44]
+[23Jul2025 03:21:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [A Seedy Place]
+[23Jul2025 03:21:06.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Into Fire]
+[23Jul2025 03:21:26.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[23Jul2025 03:21:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[23Jul2025 03:22:03.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76ae2262[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:60628) lost connection: Disconnected
+[23Jul2025 03:22:38.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[23Jul2025 03:22:45.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5200d42d[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:60673) lost connection: Timed out
+[23Jul2025 03:23:17.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
+[23Jul2025 03:23:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Free Willy]
+[23Jul2025 03:23:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Best Friends Forever]
+[23Jul2025 03:23:43.969] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4667bac9[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:60732) lost connection: Disconnected
+[23Jul2025 03:24:25.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8027120174146616
+[23Jul2025 03:24:26.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 2.9574050534290524
+[23Jul2025 03:24:41.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f83a0b5[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:60801) lost connection: Disconnected
+[23Jul2025 03:24:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Gone Bananas!]
+[23Jul2025 03:24:52.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Fruit Grower]
+[23Jul2025 03:24:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Mine? Mine? Mine?]
+[23Jul2025 03:25:07.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2728985003474175
+[23Jul2025 03:25:07.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2728985003474175
+[23Jul2025 03:25:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Mine? Mine? Mine?]
+[23Jul2025 03:25:11.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8905501676313179
+[23Jul2025 03:25:11.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.4387955550513425
+[23Jul2025 03:25:11.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.48597067395041904
+[23Jul2025 03:25:11.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 2.0005771071006393
+[23Jul2025 03:25:11.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.8030718577308562
+[23Jul2025 03:25:11.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 2.558374423436362
+[23Jul2025 03:25:11.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.8493285010775935
+[23Jul2025 03:25:11.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.40709902301762213
+[23Jul2025 03:25:11.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.4066207804697797
+[23Jul2025 03:25:11.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.889746189121297
+[23Jul2025 03:25:11.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.3926539123993962
+[23Jul2025 03:25:11.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.37696125918637335
+[23Jul2025 03:25:11.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.34758445454872344
+[23Jul2025 03:25:11.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.32167411285820435
+[23Jul2025 03:25:11.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2882165865509023
+[23Jul2025 03:25:11.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.637061712864579
+[23Jul2025 03:25:11.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.637061712864579
+[23Jul2025 03:25:11.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.4601170359742355
+[23Jul2025 03:25:11.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.37787555856903055
+[23Jul2025 03:25:25.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5145170370046799
+[23Jul2025 03:25:25.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.9773918125325736
+[23Jul2025 03:25:25.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.2265281127725984
+[23Jul2025 03:25:25.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.8502714052829106
+[23Jul2025 03:25:37.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5968861470129118
+[23Jul2025 03:25:38.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2606725004669872
+[23Jul2025 03:25:41.247] [pool-8-thread-8/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=1349, y=78, z=-1483}
+[23Jul2025 03:25:44.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1349, y=78, z=-1483} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[23Jul2025 03:25:44.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=1349, y=78, z=-1483}
+[23Jul2025 03:25:51.306] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.248] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.248] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.248] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.506] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.506] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:25:56.508] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 03:26:04.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:60954] logged in with entity id 211045 at (187.69999998807907, -30.0, -428.30000001192093)
+[23Jul2025 03:26:04.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[23Jul2025 03:26:04.823] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[23Jul2025 03:26:04.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[23Jul2025 03:26:04.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:26:04.840] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[23Jul2025 03:26:09.928] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.928] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.928] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.928] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.929] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.929] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.930] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.930] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.930] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.954] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.954] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.954] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.987] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.988] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.988] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 03:26:09.989] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.989] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.989] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:09.989] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:26:10.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 moved too quickly! -2.7206044218035004,-0.6709083839322858,9.67842400076006
+[23Jul2025 03:26:13.378] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 03:26:31.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 03:26:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Castle]
+[23Jul2025 03:26:49.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/211329, l='ServerLevel[world]', x=1232.49, y=76.00, z=-1500.70] died, message: 'Fisherman was slain by Fire Dragon'
+[23Jul2025 03:27:23.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/211305, l='ServerLevel[world]', x=1231.65, y=76.00, z=-1501.80] died, message: 'Farmer burned to death'
+[23Jul2025 03:27:28.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 03:27:28.618] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1124, y=76, z=3649}
+[23Jul2025 03:27:28.625] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1124, y=76, z=3649}
+[23Jul2025 03:27:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has reached the goal [Senior Summoner]
+[23Jul2025 03:27:45.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[23Jul2025 03:27:47.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/211196, l='ServerLevel[world]', x=1259.87, y=76.00, z=-1480.08] died, message: 'Villager walked into fire whilst fighting Fire Dragon'
+[23Jul2025 03:27:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Re-acquired Knowledge]
+[23Jul2025 03:27:57.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/211301, l='ServerLevel[world]', x=1265.78, y=76.00, z=-1471.45] died, message: 'Farmer burned to death'
+[23Jul2025 03:28:02.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/211200, l='ServerLevel[world]', x=1263.48, y=84.00, z=-1485.49] died, message: 'Shepherd went up in flames'
+[23Jul2025 03:28:04.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
+[23Jul2025 03:28:07.144] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=67, z=3672}
+[23Jul2025 03:28:07.145] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=67, z=3668}
+[23Jul2025 03:28:07.146] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=67, z=3672}
+[23Jul2025 03:28:07.146] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=67, z=3668}
+[23Jul2025 03:28:07.147] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=68, z=3672}
+[23Jul2025 03:28:07.147] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=68, z=3668}
+[23Jul2025 03:28:07.147] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=68, z=3672}
+[23Jul2025 03:28:07.148] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=68, z=3668}
+[23Jul2025 03:28:07.148] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=69, z=3672}
+[23Jul2025 03:28:07.148] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=69, z=3672}
+[23Jul2025 03:28:07.149] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=67, z=3672}
+[23Jul2025 03:28:07.150] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=67, z=3668}
+[23Jul2025 03:28:07.150] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=67, z=3672}
+[23Jul2025 03:28:07.150] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=67, z=3668}
+[23Jul2025 03:28:07.151] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=68, z=3672}
+[23Jul2025 03:28:07.151] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=68, z=3668}
+[23Jul2025 03:28:07.151] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=68, z=3672}
+[23Jul2025 03:28:07.152] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=68, z=3668}
+[23Jul2025 03:28:07.152] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=69, z=3672}
+[23Jul2025 03:28:07.152] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1129, y=69, z=3672}
+[23Jul2025 03:28:22.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[23Jul2025 03:28:36.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/211195, l='ServerLevel[world]', x=1264.52, y=84.92, z=-1487.64] died, message: 'Librarian burned to death'
+[23Jul2025 03:28:59.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Jul2025 03:29:24.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[23Jul2025 03:29:56.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23Jul2025 03:30:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Rodjes7
+[23Jul2025 03:30:47.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 03:31:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Dragonslayer]
