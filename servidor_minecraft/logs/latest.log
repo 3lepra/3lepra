@@ -955,3 +955,14 @@
 [23Jul2025 21:11:34.397] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
 [23Jul2025 21:11:34.398] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
 [23Jul2025 21:26:48.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Howling Blades]
+[23Jul2025 21:43:02.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[23Jul2025 21:43:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Skeleton
+[23Jul2025 21:43:21.445] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1728.6503190516112, Y: 125.0, Z: 3818.4275695588417
+[23Jul2025 21:43:23.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[23Jul2025 21:43:23.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[23Jul2025 21:44:38.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:51489] logged in with entity id 68108 at (-1728.6544168701862, 125.0, 3818.4275695588417)
+[23Jul2025 21:44:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[23Jul2025 21:44:38.529] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[23Jul2025 21:44:38.547] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[23Jul2025 21:44:38.547] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 21:44:38.548] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
