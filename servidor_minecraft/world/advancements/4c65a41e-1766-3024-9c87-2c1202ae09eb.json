@@ -544,6 +544,7 @@
       "rotten_flesh": "2025-07-22 01:42:53 +0000",
       "cookie": "2025-07-22 23:54:23 +0000",
       "melon_slice": "2025-07-23 03:20:55 +0000",
+      "golden_carrot": "2025-07-23 21:28:53 +0000",
       "rabbit_stew": "2025-07-23 00:01:20 +0000",
       "carrot": "2025-07-23 00:06:43 +0000"
     },
@@ -1004,6 +1005,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-07-23 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2025-07-23 21:26:48 +0000"
     },
     "done": true
   },

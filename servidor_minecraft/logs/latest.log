@@ -954,3 +954,4 @@
 [23Jul2025 21:11:26.844] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1770.6292420566492, Y: 153.0, Z: 3795.726653118484
 [23Jul2025 21:11:34.397] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
 [23Jul2025 21:11:34.398] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
+[23Jul2025 21:26:48.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Howling Blades]
