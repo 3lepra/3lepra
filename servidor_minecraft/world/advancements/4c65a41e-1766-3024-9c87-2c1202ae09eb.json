@@ -521,7 +521,10 @@
       "beetroot_soup": "2025-07-22 23:01:53 +0000",
       "potato": "2025-07-22 22:41:19 +0000",
       "bread": "2025-07-22 23:15:51 +0000",
-      "rotten_flesh": "2025-07-22 01:42:53 +0000"
+      "rotten_flesh": "2025-07-22 01:42:53 +0000",
+      "cookie": "2025-07-22 23:54:23 +0000",
+      "rabbit_stew": "2025-07-23 00:01:20 +0000",
+      "carrot": "2025-07-23 00:06:43 +0000"
     },
     "done": false
   },
@@ -621,6 +624,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_it_all_looks_delicious": {
+    "criteria": {
+      "advancement_it_all_looks_delicious_0": "2025-07-23 00:11:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-07-22 23:38:17 +0000"
@@ -666,6 +675,12 @@
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-07-22 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-07-22 23:48:50 +0000"
     },
     "done": true
   },
