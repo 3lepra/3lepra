@@ -913,3 +913,32 @@
 [23Jul2025 03:00:41.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
 [23Jul2025 03:00:54.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Take Aim]
 [23Jul2025 03:00:59.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[23Jul2025 03:01:19.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[23Jul2025 03:01:24.209] [pool-8-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp]] from pos BlockPos{x=955, y=74, z=-165}
+[23Jul2025 03:01:27.956] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=955, y=74, z=-165} but found not block entity block Block{minecraft:air} at location
+[23Jul2025 03:01:27.956] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=955, y=74, z=-165}
+[23Jul2025 03:01:37.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[23Jul2025 03:02:13.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 03:02:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Ol' Betsy]
+[23Jul2025 03:02:32.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4513ms or 90 ticks behind
+[23Jul2025 03:02:53.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
+[23Jul2025 03:03:03.109] [Worker-Main-11/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-771, y=66, z=3332}
+[23Jul2025 03:03:03.131] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:03:10.602] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:03:10.665] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:03:10.682] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:03:14.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
+[23Jul2025 03:03:34.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5377ms or 107 ticks behind
+[23Jul2025 03:03:51.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[23Jul2025 03:04:27.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[23Jul2025 03:04:27.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[23Jul2025 03:07:00.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/191773, l='ServerLevel[world]', x=-418.48, y=56.55, z=3067.50] died, message: 'Villager drowned'
+[23Jul2025 03:07:41.096] [pool-8-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=-533, y=69, z=3461}
+[23Jul2025 03:07:45.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[23Jul2025 03:09:02.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-488, y=70, z=3270} BlockPos{x=-489, y=68, z=3269}
+[23Jul2025 03:10:09.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:52881] logged in with entity id 194538 at (786.0410246022283, 67.0, -238.87862736727166)
+[23Jul2025 03:10:09.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[23Jul2025 03:10:09.673] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[23Jul2025 03:10:09.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[23Jul2025 03:10:09.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:10:09.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902

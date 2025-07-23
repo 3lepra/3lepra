@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-23 02:57:44 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-07-23 02:30:22 +0000"
@@ -831,6 +837,12 @@
   "born_in_chaos_v1:compact_necromancy": {
     "criteria": {
       "compact_necromancy_0": "2025-07-23 02:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-23 03:02:25 +0000"
     },
     "done": true
   },
