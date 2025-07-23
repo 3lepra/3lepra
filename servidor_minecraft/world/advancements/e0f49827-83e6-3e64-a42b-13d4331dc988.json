@@ -511,6 +511,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-23 01:27:44 +0000",
       "cooked_beef": "2025-07-23 00:30:28 +0000",
       "apple": "2025-07-22 02:42:20 +0000",
       "bread": "2025-07-22 01:04:56 +0000",
@@ -535,7 +536,8 @@
     "criteria": {
       "minecraft:dark_forest": "2025-07-22 01:12:44 +0000",
       "minecraft:river": "2025-07-22 01:05:45 +0000",
-      "minecraft:lush_caves": "2025-07-22 01:16:33 +0000"
+      "minecraft:lush_caves": "2025-07-22 01:16:33 +0000",
+      "minecraft:jungle": "2025-07-23 01:36:42 +0000"
     },
     "done": false
   },
@@ -704,6 +706,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-07-23 00:28:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-07-23 01:29:37 +0000"
     },
     "done": true
   },

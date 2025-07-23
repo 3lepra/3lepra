@@ -168,3 +168,36 @@
 [23Jul2025 01:27:29.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
 [23Jul2025 01:27:29.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [23Jul2025 01:27:29.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[23Jul2025 01:29:08.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Acquire Hardware]
+[23Jul2025 01:29:25.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -180 1331
+[23Jul2025 01:29:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [It's an Emu!!!]
+[23Jul2025 01:29:37.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [It's an Emu!!!]
+[23Jul2025 01:29:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[23Jul2025 01:30:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Skeleton
+[23Jul2025 01:30:13.790] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: 160.17114807145347, Y: 73.0, Z: -277.30315766356676
+[23Jul2025 01:30:16.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[23Jul2025 01:30:16.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[23Jul2025 01:30:19.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Double Trouble]
+[23Jul2025 01:31:46.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:54466] logged in with entity id 106832 at (160.17114807145347, 73.0, -277.30315766356676)
+[23Jul2025 01:31:46.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[23Jul2025 01:31:46.697] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[23Jul2025 01:31:46.717] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[23Jul2025 01:31:46.717] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:31:46.717] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[23Jul2025 01:31:57.290] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player RicardoAxel3 picking up: PermanentItemEntity['Extradimensional Vessel'/98208, l='ServerLevel[world]', x=158.77, y=75.50, z=-297.61]
+[23Jul2025 01:31:57.291] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/98208, l='ServerLevel[world]', x=158.77, y=75.50, z=-297.61]
+[23Jul2025 01:32:02.888] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player RicardoAxel3 picking up: PermanentItemEntity['Extradimensional Vessel'/105877, l='ServerLevel[world]', x=160.17, y=74.50, z=-277.30]
+[23Jul2025 01:32:02.888] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/105877, l='ServerLevel[world]', x=160.17, y=74.50, z=-277.30]
+[23Jul2025 01:33:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Suit Up]
+[23Jul2025 01:34:44.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:34:44.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[23Jul2025 01:34:44.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:34:58.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:49475] logged in with entity id 109096 at (-251.56876138109348, 68.16610926093821, 1873.748219311781)
+[23Jul2025 01:34:58.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:34:58.247] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:34:58.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:34:58.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:34:58.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:34:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> -180 1331
+[23Jul2025 01:37:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -358 1960
+[23Jul2025 01:38:23.351] [pool-8-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=-523, y=93, z=2213}
