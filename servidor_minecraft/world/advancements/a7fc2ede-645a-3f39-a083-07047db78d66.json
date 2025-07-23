@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-07-23 02:21:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-07-23 02:05:44 +0000"
@@ -557,6 +563,12 @@
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-07-23 02:04:32 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-07-23 02:20:17 +0000"
     },
     "done": true
   },

@@ -618,5 +618,17 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-07-23 02:21:27 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:assassin_class": {
+    "criteria": {
+      "assassin_class_0": "2025-07-23 02:22:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
