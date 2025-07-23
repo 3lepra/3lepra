@@ -583,12 +583,14 @@
       "minecraft:spider": "2025-07-22 01:23:50 +0000",
       "minecraft:creeper": "2025-07-23 00:23:42 +0000",
       "minecraft:evoker": "2025-07-23 22:38:33 +0000",
+      "quark:forgotten": "2025-07-23 22:58:15 +0000",
       "minecraft:witch": "2025-07-23 22:38:02 +0000",
       "minecraft:husk": "2025-07-23 01:43:55 +0000",
       "minecraft:cave_spider": "2025-07-23 02:28:54 +0000",
       "quark:wraith": "2025-07-23 22:55:32 +0000",
       "minecraft:piglin": "2025-07-22 01:09:00 +0000",
       "minecraft:enderman": "2025-07-23 03:42:04 +0000",
+      "minecraft:stray": "2025-07-23 23:10:55 +0000",
       "minecraft:zombie": "2025-07-22 02:26:06 +0000",
       "minecraft:zombie_villager": "2025-07-23 00:03:55 +0000"
     },
@@ -909,6 +911,18 @@
   "idas:ruins_of_the_deep": {
     "criteria": {
       "in_ruins_of_the_deep": "2025-07-23 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-07-23 22:58:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-07-23 23:13:25 +0000"
     },
     "done": true
   },
