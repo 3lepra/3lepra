@@ -1008,3 +1008,155 @@
 [23Jul2025 22:38:39.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
 [23Jul2025 22:38:40.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
 [23Jul2025 22:38:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 22:39:51.838] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 22:39:51.895] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 22:39:51.905] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 22:39:55.605] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 22:39:55.687] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1668, y=65, z=-5102}
+[23Jul2025 22:40:02.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 22:40:02.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 22:40:11.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.764861760394932
+[23Jul2025 22:40:15.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.7305564617527411
+[23Jul2025 22:40:54.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.27899312626532297
+[23Jul2025 22:41:02.628] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1518535274,-937737865,-1439854583,409123321],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jul2025 22:41:04.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-350721355,69748965,-1640192367,1079161554],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jul2025 22:41:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Hot Stuff]
+[23Jul2025 22:42:02.340] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market]] from pos BlockPos{x=-1813, y=104, z=3403}
+[23Jul2025 22:42:05.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[23Jul2025 22:42:05.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.2018523176623148,0.0,10.720459111214495
+[23Jul2025 22:42:05.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.284139010171657,0.0,11.448071345004337
+[23Jul2025 22:42:05.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.356715872964969,0.0,12.089825335207024
+[23Jul2025 22:42:05.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.4207286659486726,0.0,12.655852354565923
+[23Jul2025 22:42:05.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.488269832322203,0.0,13.2524595998334
+[23Jul2025 22:42:05.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.5589230240257166,0.0,13.876038604351834
+[23Jul2025 22:42:05.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.632321022070073,0.0,14.523406700529904
+[23Jul2025 22:42:05.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.7081399393071024,0.0,15.191756775551767
+[23Jul2025 22:42:05.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.7860941072722198,0.0,15.878612955913923
+[23Jul2025 22:42:05.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.8659315663792313,0.0,16.581791521186005
+[23Jul2025 22:42:05.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.947430088273677,0.0,17.299366429948805
+[23Jul2025 22:42:05.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.0303936675463774,0.0,18.02963891367017
+[23Jul2025 22:42:05.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.1146494274269116,0.0,18.771110658505222
+[23Jul2025 22:42:05.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.2000448906035217,0.0,19.522460151642463
+[23Jul2025 22:42:05.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.286445572087132,0.0,20.282521818782243
+[23Jul2025 22:42:05.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.3737328561176128,0.0,21.0502676233923
+[23Jul2025 22:42:05.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.4618021235944525,0.0,21.824790837251385
+[23Jul2025 22:42:05.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.5505611004709863,0.0,22.605291726067662
+[23Jul2025 22:42:05.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.639928401037878,0.0,23.3910649241966
+[23Jul2025 22:42:05.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.7298322430999633,0.0,24.18148829913889
+[23Jul2025 22:42:05.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.820209314760632,0.0,24.97601313003088
+[23Jul2025 22:42:05.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.911003774927167,0.0,25.77415544507039
+[23Jul2025 22:42:05.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.9567642008994426,0.0,26.57204309694862
+[23Jul2025 22:42:05.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.962804608712304,0.0,27.369706135918477
+[23Jul2025 22:42:05.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.933811960508365,0.0,28.167171066303126
+[23Jul2025 22:42:05.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.8739201568978388,0.0,28.96446126491537
+[23Jul2025 22:42:05.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.786775298218572,0.0,29.761597350104694
+[23Jul2025 22:42:05.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.7209954158254277,0.0,30.56204279143458
+[23Jul2025 22:42:05.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.6740594425166364,0.0,31.36540708488019
+[23Jul2025 22:42:05.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.6437437970203064,0.0,32.17134580589209
+[23Jul2025 22:42:05.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -2.6280872806544266,0.0,32.97955517201717
+[23Jul2025 22:42:05.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.516803368257797,0.0,23.894265317085683
+[23Jul2025 22:42:05.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.5278852512196863,0.0,24.706243781529793
+[23Jul2025 22:42:05.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.5487413549540179,0.0,25.519780201362664
+[23Jul2025 22:42:05.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.5782183214096221,0.0,26.334690737847723
+[23Jul2025 22:42:05.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved too quickly! -1.6152988887854463,0.0,27.150813245220434
+[23Jul2025 22:43:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 was slain by Husk
+[23Jul2025 22:43:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 was slain by Husk
+[23Jul2025 22:43:30.797] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Starsh1p1902 at X: 1712.300000011921, Y: 63.0, Z: -5009.699999988079
+[23Jul2025 22:43:32.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[23Jul2025 22:43:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[23Jul2025 22:43:34.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4294794732113587
+[23Jul2025 22:43:34.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 1.0830101047067728
+[23Jul2025 22:43:34.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 1.736182329737403
+[23Jul2025 22:43:34.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 2.3887219785726757
+[23Jul2025 22:43:34.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.42999521178580835
+[23Jul2025 22:43:34.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4295031155816105
+[23Jul2025 22:43:34.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4290690867296689
+[23Jul2025 22:43:34.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4286862732819827
+[23Jul2025 22:43:35.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4276976647970514
+[23Jul2025 22:43:35.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4256754053722034
+[23Jul2025 22:43:35.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4230574251635062
+[23Jul2025 22:43:35.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4207483666193639
+[23Jul2025 22:43:35.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.41871177698340034
+[23Jul2025 22:43:35.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4169155049244182
+[23Jul2025 22:43:35.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4153311929685515
+[23Jul2025 22:43:35.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4139338298234634
+[23Jul2025 22:43:35.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.4111604031515981
+[23Jul2025 22:43:35.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.36899805018356346
+[23Jul2025 22:43:35.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3640981904509317
+[23Jul2025 22:43:35.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3640981904509317
+[23Jul2025 22:43:35.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3640981904509317
+[23Jul2025 22:43:47.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.410386410150295
+[23Jul2025 22:43:47.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.9262829190604407
+[23Jul2025 22:43:47.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 1.478364680728646
+[23Jul2025 22:43:47.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 1.976023004371882
+[23Jul2025 22:43:47.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.37445090636447276
+[23Jul2025 22:43:47.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.3226566186731361
+[23Jul2025 22:43:47.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.27697405692924804
+[23Jul2025 22:44:37.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:52129] logged in with entity id 35638 at (1712.300000011921, 63.0, -5009.699999988079)
+[23Jul2025 22:44:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[23Jul2025 22:44:37.338] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[23Jul2025 22:44:37.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[23Jul2025 22:44:37.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 22:44:37.362] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[23Jul2025 22:44:55.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 22:44:55.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 22:44:55.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 22:44:55.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 22:45:14.240] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Starsh1p1902 picking up: PermanentItemEntity['Extradimensional Vessel'/36688, l='ServerLevel[world]', x=1712.30, y=64.50, z=-5009.70]
+[23Jul2025 22:45:14.241] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/36688, l='ServerLevel[world]', x=1712.30, y=64.50, z=-5009.70]
+[23Jul2025 22:46:14.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[23Jul2025 22:46:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[23Jul2025 22:46:21.648] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 22:48:51.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:58188] logged in with entity id 40135 at (-2138.500277458529, 99.0625, 3714.564201546431)
+[23Jul2025 22:48:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 22:48:51.362] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 22:48:51.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 22:48:51.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 22:48:51.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 22:49:55.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 22:49:55.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 22:49:55.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 22:50:08.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:58325] logged in with entity id 41810 at (-2194.128691032079, 63.4726596611749, 3675.6282755849347)
+[23Jul2025 22:50:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 22:50:08.521] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 22:50:08.542] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 22:50:08.542] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 22:50:08.543] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 22:51:25.233] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:26.100] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:29.061] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:29.148] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:29.149] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:29.273] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:29.274] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:30.837] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:30.838] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:30.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:30.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:30.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 22:51:33.395] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2700, y=76, z=3710}
+[23Jul2025 22:51:33.396] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2692, y=76, z=3710}
+[23Jul2025 22:51:33.396] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2700, y=76, z=3710}
+[23Jul2025 22:51:33.396] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2692, y=76, z=3710}
+[23Jul2025 22:51:33.663] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2696, y=76, z=3724}
+[23Jul2025 22:51:33.664] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2696, y=76, z=3724}
+[23Jul2025 22:51:38.108] [pool-8-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / idas:farmhouse]] from pos BlockPos{x=-2693, y=103, z=3669}
+[23Jul2025 22:51:42.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[23Jul2025 22:52:00.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Jul2025 22:52:07.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [This Must be a Sign!]
+[23Jul2025 22:52:17.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[23Jul2025 22:52:18.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [Ruins of the Deep]
+[23Jul2025 22:52:36.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Jul2025 22:52:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Re-acquired Knowledge]
+[23Jul2025 22:54:05.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 22:54:05.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 22:54:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 22:54:15.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Howling Blades]
+[23Jul2025 22:54:17.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:58771] logged in with entity id 46425 at (-2674.6575504329203, 71.35544871299048, 3713.416467325565)
+[23Jul2025 22:54:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 22:54:17.904] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 22:54:17.922] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 22:54:17.922] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 22:54:17.922] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 22:54:43.285] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jul2025 22:58:17.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [This Belongs in a Museum]
