@@ -511,11 +511,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-23 01:59:00 +0000",
       "cooked_mutton": "2025-07-23 01:27:44 +0000",
       "cooked_beef": "2025-07-23 00:30:28 +0000",
       "apple": "2025-07-22 02:42:20 +0000",
       "bread": "2025-07-22 01:04:56 +0000",
       "glow_berries": "2025-07-22 02:53:53 +0000",
+      "salmon": "2025-07-23 01:55:10 +0000",
       "carrot": "2025-07-22 02:41:15 +0000"
     },
     "done": false
@@ -537,6 +539,7 @@
       "minecraft:dark_forest": "2025-07-22 01:12:44 +0000",
       "minecraft:river": "2025-07-22 01:05:45 +0000",
       "minecraft:lush_caves": "2025-07-22 01:16:33 +0000",
+      "minecraft:desert": "2025-07-23 01:43:51 +0000",
       "minecraft:jungle": "2025-07-23 01:36:42 +0000"
     },
     "done": false
@@ -565,6 +568,7 @@
       "minecraft:skeleton": "2025-07-22 01:18:08 +0000",
       "minecraft:spider": "2025-07-22 01:23:50 +0000",
       "minecraft:creeper": "2025-07-23 00:23:42 +0000",
+      "minecraft:husk": "2025-07-23 01:43:55 +0000",
       "minecraft:piglin": "2025-07-22 01:09:00 +0000",
       "minecraft:zombie": "2025-07-22 02:26:06 +0000",
       "minecraft:zombie_villager": "2025-07-23 00:03:55 +0000"
@@ -712,6 +716,48 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed": "2025-07-23 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-23 01:43:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "interact": "2025-07-23 01:45:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-23 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-07-23 01:46:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-23 02:05:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/ichor_bottle": {
+    "criteria": {
+      "has_items": "2025-07-23 02:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-23 01:59:47 +0000"
     },
     "done": true
   },

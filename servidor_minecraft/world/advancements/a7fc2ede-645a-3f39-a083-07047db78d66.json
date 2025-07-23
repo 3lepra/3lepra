@@ -482,7 +482,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-23 01:28:45 +0000",
-      "porkchop": "2025-07-23 01:15:58 +0000"
+      "porkchop": "2025-07-23 01:15:58 +0000",
+      "bread": "2025-07-23 01:44:07 +0000"
     },
     "done": false
   },
@@ -523,15 +524,57 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-07-23 02:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-23 01:33:18 +0000"
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-23 01:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-23 01:49:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-23 02:05:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-07-23 02:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-23 01:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-23 01:45:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-23 01:48:13 +0000"
     },
     "done": true
   },

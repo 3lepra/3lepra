@@ -201,3 +201,454 @@
 [23Jul2025 01:34:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> -180 1331
 [23Jul2025 01:37:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -358 1960
 [23Jul2025 01:38:23.351] [pool-8-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=-523, y=93, z=2213}
+[23Jul2025 01:42:43.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 01:42:49.321] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:42:49.325] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:43:38.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Take Aim]
+[23Jul2025 01:43:40.878] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:43:41.130] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:43:44.823] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.922] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.923] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.923] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.924] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.924] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.924] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.926] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:43:44.926] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:43:44.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:43:45.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:43:51.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[23Jul2025 01:43:51.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 7.863128626599348,1.0,6.739480222997372
+[23Jul2025 01:43:51.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 4.046502257375664,1.604424101326714,9.15335985438469
+[23Jul2025 01:44:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Wind Darkening]
+[23Jul2025 01:45:18.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [No Step on Snake]
+[23Jul2025 01:45:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Dark Metallurgy]
+[23Jul2025 01:45:56.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Sweet Dreams]
+[23Jul2025 01:46:06.175] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-511, y=-4, z=689}
+[23Jul2025 01:46:06.176] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-511, y=-4, z=688}
+[23Jul2025 01:46:09.943] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-522, y=26, z=671}
+[23Jul2025 01:46:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [The day of the Dead]
+[23Jul2025 01:46:47.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Not Today, Thank You]
+[23Jul2025 01:47:27.687] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:47:27.689] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:47:32.625] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:47:32.681] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 01:47:35.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[23Jul2025 01:48:13.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Junior Summoner]
+[23Jul2025 01:48:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand withered away whilst fighting Nightmare Stalker
+[23Jul2025 01:48:24.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:48:27.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:48:28.930] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:48:29.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:48:30.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jul2025 01:48:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 is bleeding. Rodjes7 withered away whilst fighting Nightmare Stalker
+[23Jul2025 01:48:56.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -560 2629
+[23Jul2025 01:49:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand withered away
+[23Jul2025 01:49:13.919] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -559.9477216128322, Y: 106.0, Z: 2632.699999988079
+[23Jul2025 01:49:20.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 withered away
+[23Jul2025 01:49:20.271] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Rodjes7 at X: -554.9747220892759, Y: 104.0, Z: 2623.0927507060705
+[23Jul2025 01:49:25.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[23Jul2025 01:49:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 01:49:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Isn't It Iron Pick]
+[23Jul2025 01:49:54.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[23Jul2025 01:49:54.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:51:31.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60586] logged in with entity id 124872 at (-76.5, 74.0, 1088.5)
+[23Jul2025 01:51:31.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:51:31.619] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:51:31.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:51:31.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:51:31.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:51:40.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:52195] logged in with entity id 125331 at (-555.06215853245, 104.0, 2622.8811304467145)
+[23Jul2025 01:51:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 01:51:40.579] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 01:51:40.593] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 01:51:40.594] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:51:40.594] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 01:52:18.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 01:52:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:52:31.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60605] logged in with entity id 126092 at (-76.5, 74.0, 1088.5)
+[23Jul2025 01:52:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:52:31.562] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:52:31.578] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:52:31.579] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:52:31.579] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:54:05.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:05.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:06.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:07.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:08.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:09.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:10.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:11.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:12.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:13.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:14.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:54:15.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 01:54:15.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:54:49.608] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63b87b26[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60618) lost connection: Timed out
+[23Jul2025 01:55:02.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3960ms or 79 ticks behind
+[23Jul2025 01:55:08.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60623] logged in with entity id 128955 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 01:55:08.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:55:08.734] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:55:08.751] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:55:08.752] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:55:08.752] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:56:02.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 01:56:02.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:56:19.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60630] logged in with entity id 130419 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 01:56:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:56:19.332] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:56:19.345] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:56:19.346] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:56:19.346] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:56:45.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Jul2025 01:57:06.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5486ms or 109 ticks behind
+[23Jul2025 01:57:18.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 01:57:18.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:57:24.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[23Jul2025 01:57:52.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[23Jul2025 01:58:14.065] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22a28de4[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60641) lost connection: Disconnected
+[23Jul2025 01:58:52.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Rodjes7 picking up: PermanentItemEntity['Extradimensional Vessel'/132146, l='ServerLevel[world]', x=-554.97, y=105.50, z=2623.09]
+[23Jul2025 01:58:52.581] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/132146, l='ServerLevel[world]', x=-554.97, y=105.50, z=2623.09]
+[23Jul2025 01:59:02.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@191e2d0e[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60657) lost connection: Disconnected
+[23Jul2025 01:59:32.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60662] logged in with entity id 134126 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 01:59:32.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:59:32.783] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:59:32.803] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:59:32.803] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:59:32.804] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:59:47.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Cover Me with Diamonds]
+[23Jul2025 01:59:47.874] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Rodjes7 picking up: PermanentItemEntity['Extradimensional Vessel'/132213, l='ServerLevel[world]', x=-559.95, y=107.50, z=2632.70]
+[23Jul2025 01:59:47.874] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/132213, l='ServerLevel[world]', x=-559.95, y=107.50, z=2632.70]
+[23Jul2025 01:59:50.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:00:07.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[23Jul2025 02:00:24.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:00:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:00:45.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was struck with lightning by Lightning Dragon
+[23Jul2025 02:01:46.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was struck with lightning by a dragon
+[23Jul2025 02:01:46.285] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -601.8117573425446, Y: 66.0, Z: 1324.4440374102815
+[23Jul2025 02:02:21.702] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/136552, l='ServerLevel[world]', x=-601.81, y=67.50, z=1324.44]
+[23Jul2025 02:02:21.702] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/136552, l='ServerLevel[world]', x=-601.81, y=67.50, z=1324.44]
+[23Jul2025 02:03:27.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 02:03:27.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 02:03:27.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 02:03:48.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 02:03:48.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 02:03:48.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 02:04:23.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.334177196932842
+[23Jul2025 02:04:23.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.3825709040579568
+[23Jul2025 02:04:23.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.5256206019685549
+[23Jul2025 02:04:34.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Take Aim]
+[23Jul2025 02:05:03.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was struck with lightning by Lightning Dragon
+[23Jul2025 02:05:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was energized by a dragon
+[23Jul2025 02:05:32.892] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -602.1911476556628, Y: 63.0, Z: 1330.300000011921
+[23Jul2025 02:05:35.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[23Jul2025 02:05:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[23Jul2025 02:05:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Good Demoman]
+[23Jul2025 02:05:44.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Double Trouble]
+[23Jul2025 02:07:07.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b4b4e4a[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:56159) lost connection: Disconnected
+[23Jul2025 02:07:21.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:56199] logged in with entity id 142095 at (-602.1911476556628, 63.0, 1330.300000011921)
+[23Jul2025 02:07:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[23Jul2025 02:07:21.613] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[23Jul2025 02:07:21.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[23Jul2025 02:07:21.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:07:21.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[23Jul2025 02:07:42.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60706] logged in with entity id 142834 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:07:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:07:42.652] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:07:42.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:07:42.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:07:42.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:07:43.579] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/142135, l='ServerLevel[world]', x=-602.19, y=64.50, z=1330.30]
+[23Jul2025 02:07:43.580] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/142135, l='ServerLevel[world]', x=-602.19, y=64.50, z=1330.30]
+[23Jul2025 02:08:38.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:08:38.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:09:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was energized by Lightning Dragon
+[23Jul2025 02:09:14.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4465644f[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60720) lost connection: Disconnected
+[23Jul2025 02:09:31.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was struck with lightning by a dragon
+[23Jul2025 02:09:31.706] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -614.992680495797, Y: 67.0, Z: 1324.6181094046322
+[23Jul2025 02:09:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> z
+[23Jul2025 02:09:33.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[23Jul2025 02:09:33.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[23Jul2025 02:09:48.628] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@598c148b[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60725): Took too long to log in
+[23Jul2025 02:09:48.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@598c148b[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:60725) lost connection: Took too long to log in
+[23Jul2025 02:09:48.678] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jul2025 02:10:41.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:50837] logged in with entity id 144843 at (-651.6948902941316, 72.0, 485.60932030118164)
+[23Jul2025 02:10:41.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[23Jul2025 02:10:41.218] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[23Jul2025 02:10:41.232] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[23Jul2025 02:10:41.233] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:10:41.233] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[23Jul2025 02:10:59.455] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68251fb8[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:52790) lost connection: Disconnected
+[23Jul2025 02:11:03.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:55033] logged in with entity id 145515 at (-614.992680495797, 67.0, 1324.6181094046322)
+[23Jul2025 02:11:03.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[23Jul2025 02:11:03.329] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[23Jul2025 02:11:03.343] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[23Jul2025 02:11:03.343] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:11:03.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[23Jul2025 02:11:33.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f3b15f8[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:52795) lost connection: Disconnected
+[23Jul2025 02:11:35.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was struck with lightning by Lightning Dragon
+[23Jul2025 02:11:36.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23Jul2025 02:11:41.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was struck with lightning by a dragon
+[23Jul2025 02:11:47.784] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/145540, l='ServerLevel[world]', x=-614.99, y=68.50, z=1324.62]
+[23Jul2025 02:11:47.785] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/145540, l='ServerLevel[world]', x=-614.99, y=68.50, z=1324.62]
+[23Jul2025 02:11:54.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Jul2025 02:11:57.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52800] logged in with entity id 146751 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:11:57.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:11:57.977] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:11:57.995] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:11:57.995] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:11:57.995] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:12:12.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[23Jul2025 02:12:13.937] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[23Jul2025 02:12:31.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[23Jul2025 02:12:49.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[23Jul2025 02:12:52.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:12:52.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:13:07.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[23Jul2025 02:13:16.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52808] logged in with entity id 147564 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:13:16.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:13:16.230] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:13:16.244] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:13:16.245] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:13:16.245] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:13:21.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[23Jul2025 02:13:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[23Jul2025 02:13:24.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[23Jul2025 02:13:50.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:50938] logged in with entity id 147858 at (-645.8728056179606, 96.24853884593999, 484.8774605633819)
+[23Jul2025 02:13:50.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[23Jul2025 02:13:50.058] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[23Jul2025 02:13:50.072] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[23Jul2025 02:13:50.072] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:13:50.073] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[23Jul2025 02:14:05.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Jul2025 02:14:16.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:14:16.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:14:23.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[23Jul2025 02:14:40.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23Jul2025 02:14:57.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[23Jul2025 02:15:04.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f9e6989[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:52820) lost connection: Disconnected
+[23Jul2025 02:15:14.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[23Jul2025 02:15:31.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[23Jul2025 02:15:48.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:16:06.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Jul2025 02:16:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Dragonslayer]
+[23Jul2025 02:16:34.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:16:38.430] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@305ff912[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:52829) lost connection: Disconnected
+[23Jul2025 02:16:58.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:17:04.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52838] logged in with entity id 150015 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:17:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:17:04.162] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:17:04.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:17:04.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:17:04.177] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:17:16.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[23Jul2025 02:17:33.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[23Jul2025 02:17:50.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[23Jul2025 02:18:00.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:18:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:18:08.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[23Jul2025 02:18:11.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52845] logged in with entity id 151124 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:18:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:18:11.362] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:18:11.380] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:18:11.380] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:18:11.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:18:25.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2530ms or 50 ticks behind
+[23Jul2025 02:18:43.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[23Jul2025 02:19:02.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[23Jul2025 02:19:04.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[23Jul2025 02:19:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 02:19:20.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 02:19:22.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52862] logged in with entity id 152205 at (-240.2780818526451, 72.79673560066871, 1271.6832460941268)
+[23Jul2025 02:19:22.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 02:19:22.603] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 02:19:22.621] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 02:19:22.622] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 02:19:22.622] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 02:19:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by Rodjes7
+[23Jul2025 02:19:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand was slain by Rodjes7

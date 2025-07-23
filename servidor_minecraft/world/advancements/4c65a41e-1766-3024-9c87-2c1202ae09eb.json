@@ -510,6 +510,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-07-23 01:40:23 +0000",
       "minecraft:river": "2025-07-22 02:58:29 +0000",
       "minecraft:lush_caves": "2025-07-22 01:40:41 +0000"
     },
@@ -766,6 +767,30 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-23 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-23 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-23 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-23 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-07-23 02:16:14 +0000"
     },
     "done": true
   },
