@@ -842,3 +842,10 @@
 [23Jul2025 18:16:24.270] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1125.6399205174448, Y: 67.0, Z: 3665.210151306058
 [23Jul2025 18:16:32.703] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/8368, l='ServerLevel[world]', x=-1125.64, y=68.50, z=3665.21]
 [23Jul2025 18:16:32.703] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/8368, l='ServerLevel[world]', x=-1125.64, y=68.50, z=3665.21]
+[23Jul2025 18:25:30.334] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 18:27:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
