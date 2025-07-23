@@ -133,3 +133,38 @@
 [23Jul2025 01:14:23.580] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/92377, l='ServerLevel[world]', x=33.58, y=65.50, z=-19.96]
 [23Jul2025 01:17:20.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Stone Age]
 [23Jul2025 01:17:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Getting an Upgrade]
+[23Jul2025 01:19:37.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:53688] logged in with entity id 98160 at (241.83860352694754, 74.0, -284.68497614765226)
+[23Jul2025 01:19:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[23Jul2025 01:19:37.397] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[23Jul2025 01:19:37.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[23Jul2025 01:19:37.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:19:37.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[23Jul2025 01:20:48.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:50796] logged in with entity id 99374 at (-142.40768243050266, 73.0, 1038.5719553682948)
+[23Jul2025 01:20:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 01:20:48.919] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 01:20:48.939] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 01:20:48.940] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:20:48.940] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 01:20:55.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Not Today, Thank You]
+[23Jul2025 01:24:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [Fighting Nightmares]
+[23Jul2025 01:24:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand fell from a high place
+[23Jul2025 01:25:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Monster Hunter]
+[23Jul2025 01:25:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has reached the goal [Exorcism]
+[23Jul2025 01:26:11.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> gg
+[23Jul2025 01:26:50.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[23Jul2025 01:26:50.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[23Jul2025 01:26:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[23Jul2025 01:27:00.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[23Jul2025 01:27:00.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[23Jul2025 01:27:03.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:49442] logged in with entity id 103844 at (-208.2347501295317, 83.7531999805212, 1118.6683499324226)
+[23Jul2025 01:27:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[23Jul2025 01:27:03.563] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[23Jul2025 01:27:03.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[23Jul2025 01:27:03.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:27:03.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[23Jul2025 01:27:29.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:53610] logged in with entity id 104059 at (7.785639048707311, 67.0, -285.60367853765814)
+[23Jul2025 01:27:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[23Jul2025 01:27:29.138] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[23Jul2025 01:27:29.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[23Jul2025 01:27:29.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 01:27:29.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3

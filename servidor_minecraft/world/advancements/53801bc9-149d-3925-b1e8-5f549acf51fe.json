@@ -510,6 +510,7 @@
       "cooked_beef": "2025-07-22 02:20:24 +0000",
       "apple": "2025-07-22 02:31:18 +0000",
       "bread": "2025-07-22 01:03:56 +0000",
+      "golden_apple": "2025-07-23 01:22:26 +0000",
       "rotten_flesh": "2025-07-22 03:01:41 +0000",
       "glow_berries": "2025-07-22 23:59:58 +0000",
       "cod": "2025-07-23 00:27:15 +0000"
@@ -569,7 +570,8 @@
       "minecraft:slime": "2025-07-22 23:54:13 +0000",
       "minecraft:witch": "2025-07-22 03:01:07 +0000",
       "minecraft:cave_spider": "2025-07-22 23:49:28 +0000",
-      "minecraft:zombie": "2025-07-22 01:16:44 +0000"
+      "minecraft:zombie": "2025-07-22 01:16:44 +0000",
+      "minecraft:zombie_villager": "2025-07-23 01:26:34 +0000"
     },
     "done": false
   },
@@ -645,15 +647,39 @@
     },
     "done": true
   },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-07-22 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-23 00:08:31 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-07-23 00:11:05 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2025-07-23 00:11:14 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:pieceof_chaos": {
+  "tetra:spelunking/find_scroll_throwing": {
     "criteria": {
-      "pieceof_chaos_0": "2025-07-23 00:47:24 +0000"
+      "find": "2025-07-23 00:11:14 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-07-23 00:12:04 +0000"
     },
     "done": true
   },
@@ -663,27 +689,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "cave_book": "2025-07-23 00:59:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-07-23 00:48:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-07-23 00:51:12 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-07-23 01:02:54 +0000"
+      "find_artifact": "2025-07-23 00:15:33 +0000"
     },
     "done": true
   },
@@ -699,9 +707,9 @@
     },
     "done": true
   },
-  "boliviamod:advancement_mineral_wealth": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "advancement_mineral_wealth_0": "2025-07-22 23:59:22 +0000"
+      "the_wind_darkening_0": "2025-07-23 00:45:00 +0000"
     },
     "done": true
   },
@@ -711,33 +719,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "born_in_chaos_v1:pieceof_chaos": {
     "criteria": {
-      "diamond_chestplate": "2025-07-23 00:08:31 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll_throwing": {
-    "criteria": {
-      "find": "2025-07-23 00:11:14 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-07-23 00:11:05 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-07-23 00:15:33 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/earth_heart": {
-    "criteria": {
-      "has_items": "2025-07-23 00:12:04 +0000"
+      "pieceof_chaos_0": "2025-07-23 00:47:24 +0000"
     },
     "done": true
   },
@@ -747,15 +731,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-23 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-07-23 00:51:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-07-23 00:59:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-07-23 00:59:55 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "the_wind_darkening_0": "2025-07-23 00:45:00 +0000"
+      "cave_codex": "2025-07-23 01:02:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-23 01:24:13 +0000"
     },
     "done": true
   },
