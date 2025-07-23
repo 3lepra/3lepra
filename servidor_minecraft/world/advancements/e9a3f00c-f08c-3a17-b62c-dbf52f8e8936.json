@@ -565,6 +565,7 @@
       "minecraft:skeleton": "2025-07-22 02:47:13 +0000",
       "minecraft:spider": "2025-07-22 02:46:50 +0000",
       "minecraft:creeper": "2025-07-22 02:58:14 +0000",
+      "minecraft:piglin": "2025-07-23 02:48:41 +0000",
       "minecraft:zombie": "2025-07-22 02:55:46 +0000"
     },
     "done": false
@@ -630,27 +631,15 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-23 02:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-23 02:34:15 +0000"
-    },
-    "done": true
-  },
-  "idas:bearclaw_inn": {
-    "criteria": {
-      "in_bearclaw_inn": "2025-07-23 02:43:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-07-23 02:46:45 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-07-23 02:46:31 +0000"
     },
     "done": true
   },
@@ -660,15 +649,33 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "idas:bearclaw_inn": {
     "criteria": {
-      "find_artifact": "2025-07-23 02:31:37 +0000"
+      "in_bearclaw_inn": "2025-07-23 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-23 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-23 02:46:45 +0000"
     },
     "done": true
   },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-07-23 02:46:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2025-07-23 02:47:57 +0000"
     },
     "done": true
   },

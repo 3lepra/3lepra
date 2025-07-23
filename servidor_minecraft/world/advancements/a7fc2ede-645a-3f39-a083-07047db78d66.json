@@ -525,6 +525,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2025-07-23 02:48:26 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/root": {
     "criteria": {
       "spelunking": "2025-07-23 02:11:55 +0000"
@@ -552,6 +558,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-23 01:49:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-07-23 02:56:15 +0000"
     },
     "done": true
   },
