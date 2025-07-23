@@ -949,3 +949,8 @@
 [23Jul2025 20:31:56.198] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1788.699999988079, Y: 138.0, Z: 3846.132543063927
 [23Jul2025 20:32:09.450] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/54964, l='ServerLevel[world]', x=-1788.70, y=139.50, z=3846.13]
 [23Jul2025 20:32:09.450] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/54964, l='ServerLevel[world]', x=-1788.70, y=139.50, z=3846.13]
+[23Jul2025 21:11:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[23Jul2025 21:11:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Skeleton
+[23Jul2025 21:11:26.844] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1770.6292420566492, Y: 153.0, Z: 3795.726653118484
+[23Jul2025 21:11:34.397] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
+[23Jul2025 21:11:34.398] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/62044, l='ServerLevel[world]', x=-1770.63, y=154.50, z=3795.73]
