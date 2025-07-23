@@ -13323,3 +13323,108 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [23Jul2025 00:17:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand suffocated in a wall
 [23Jul2025 00:17:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand suffocated in a wall
 [23Jul2025 00:17:37.993] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -525.3000000119209, Y: 5.0, Z: -126.69999998807907
+[23Jul2025 00:19:27.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[23Jul2025 00:21:20.794] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 00:21:20.796] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 00:22:18.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 00:22:18.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 00:23:28.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/51302, l='ServerLevel[world]', x=-525.30, y=6.50, z=-126.70]
+[23Jul2025 00:23:28.217] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/51302, l='ServerLevel[world]', x=-525.30, y=6.50, z=-126.70]
+[23Jul2025 00:23:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Enchanting Tower]
+[23Jul2025 00:24:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Not a Fluid!]
+[23Jul2025 00:24:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Imbued]
+[23Jul2025 00:25:59.342] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-84, y=-43, z=680}
+[23Jul2025 00:26:20.105] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_inactive
+[23Jul2025 00:26:20.108] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large
+[23Jul2025 00:26:20.109] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_1
+[23Jul2025 00:26:20.110] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_b
+[23Jul2025 00:26:20.111] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined_cap
+[23Jul2025 00:26:20.113] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[23Jul2025 00:26:20.116] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_a
+[23Jul2025 00:26:20.119] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_c
+[23Jul2025 00:26:20.120] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_down_small
+[23Jul2025 00:26:20.121] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_up
+[23Jul2025 00:26:20.122] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up_small
+[23Jul2025 00:26:20.124] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up
+[23Jul2025 00:26:20.125] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_down
+[23Jul2025 00:26:20.126] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined
+[23Jul2025 00:26:20.128] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_1
+[23Jul2025 00:26:20.128] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_ruined
+[23Jul2025 00:26:20.130] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_b
+[23Jul2025 00:26:20.130] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_3
+[23Jul2025 00:26:20.131] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_2
+[23Jul2025 00:26:20.131] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_2
+[23Jul2025 00:26:20.133] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_1
+[23Jul2025 00:26:20.134] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_4
+[23Jul2025 00:26:20.136] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_4
+[23Jul2025 00:26:20.137] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_3
+[23Jul2025 00:26:20.137] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_2
+[23Jul2025 00:26:20.138] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_1
+[23Jul2025 00:26:20.139] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_a
+[23Jul2025 00:26:20.140] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_2
+[23Jul2025 00:26:20.140] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/vent
+[23Jul2025 00:26:20.141] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_debris
+[23Jul2025 00:26:20.143] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_3
+[23Jul2025 00:26:20.143] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_broken
+[23Jul2025 00:26:20.145] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_1
+[23Jul2025 00:26:20.146] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_3
+[23Jul2025 00:26:20.149] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway
+[23Jul2025 00:26:20.151] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_3
+[23Jul2025 00:26:20.152] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_contained
+[23Jul2025 00:26:20.153] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_1
+[23Jul2025 00:26:20.154] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_5
+[23Jul2025 00:26:20.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container
+[23Jul2025 00:26:20.159] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined
+[23Jul2025 00:26:20.161] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_2
+[23Jul2025 00:26:20.185] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/transfer_unit
+[23Jul2025 00:26:20.200] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/hammer
+[23Jul2025 00:26:20.208] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_2
+[23Jul2025 00:26:24.859] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[23Jul2025 00:26:29.075] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[23Jul2025 00:26:29.085] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[23Jul2025 00:26:29.148] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[23Jul2025 00:26:29.170] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[23Jul2025 00:26:30.852] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[23Jul2025 00:26:31.199] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[23Jul2025 00:26:31.283] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[23Jul2025 00:26:31.297] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[23Jul2025 00:26:31.337] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[23Jul2025 00:26:31.357] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[23Jul2025 00:26:31.374] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[23Jul2025 00:26:31.390] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[23Jul2025 00:26:31.404] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[23Jul2025 00:26:31.455] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[23Jul2025 00:26:31.656] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[23Jul2025 00:26:31.735] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[23Jul2025 00:26:31.748] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[23Jul2025 00:26:31.782] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[23Jul2025 00:26:31.838] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[23Jul2025 00:26:31.880] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[23Jul2025 00:26:31.901] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[23Jul2025 00:26:31.983] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[23Jul2025 00:26:32.020] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[23Jul2025 00:26:32.158] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[23Jul2025 00:26:32.250] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[23Jul2025 00:26:32.280] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[23Jul2025 00:26:32.302] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[23Jul2025 00:26:32.325] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[23Jul2025 00:26:32.351] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[23Jul2025 00:26:32.379] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[23Jul2025 00:26:32.428] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[23Jul2025 00:26:36.215] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[23Jul2025 00:26:36.219] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d5074c20-6bbf-4dc7-b561-2f689a5918cc)
+[23Jul2025 00:26:52.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[23Jul2025 00:26:54.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[23Jul2025 00:27:00.333] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/ancient_portal1
+[23Jul2025 00:27:10.064] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[23Jul2025 00:27:10.076] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[23Jul2025 00:27:10.093] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[23Jul2025 00:27:10.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[23Jul2025 00:27:10.117] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0 is being run through DFU (hash 9336d663b637d660a35406b57f5adc6e83752fbd4b72862c2498411c40245398), this will cause launch time delays
+[23Jul2025 00:27:10.682] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0 is being run through DFU (hash 3713743dd59fdcaa5def3a18f38b05b1b7676b223ad995b9372d55019a1dcb07), this will cause launch time delays
+[23Jul2025 00:27:10.704] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[23Jul2025 00:27:20.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 00:27:20.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 00:27:38.456] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[23Jul2025 00:27:38.479] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[23Jul2025 00:27:38.503] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3

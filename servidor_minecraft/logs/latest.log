@@ -27,3 +27,10 @@
 [23Jul2025 00:17:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand suffocated in a wall
 [23Jul2025 00:17:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand suffocated in a wall
 [23Jul2025 00:17:37.993] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -525.3000000119209, Y: 5.0, Z: -126.69999998807907
+[23Jul2025 00:23:28.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/51302, l='ServerLevel[world]', x=-525.30, y=6.50, z=-126.70]
+[23Jul2025 00:23:28.217] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/51302, l='ServerLevel[world]', x=-525.30, y=6.50, z=-126.70]
+[23Jul2025 00:23:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Enchanting Tower]
+[23Jul2025 00:24:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Not a Fluid!]
+[23Jul2025 00:24:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Imbued]
+[23Jul2025 00:25:59.342] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-84, y=-43, z=680}
+[23Jul2025 00:26:54.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
