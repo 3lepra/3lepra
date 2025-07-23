@@ -488,6 +488,7 @@
       "minecraft:lukewarm_ocean": "2025-07-23 03:00:24 +0000",
       "minecraft:lush_caves": "2025-07-22 02:24:06 +0000",
       "minecraft:ocean": "2025-07-23 03:46:41 +0000",
+      "minecraft:flower_forest": "2025-07-23 03:59:29 +0000",
       "minecraft:savanna": "2025-07-23 02:58:29 +0000",
       "minecraft:plains": "2025-07-23 02:58:38 +0000"
     },
@@ -567,11 +568,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-23 03:50:50 +0000",
       "minecraft:skeleton": "2025-07-22 02:47:13 +0000",
       "minecraft:spider": "2025-07-22 02:46:50 +0000",
       "minecraft:creeper": "2025-07-22 02:58:14 +0000",
       "minecraft:piglin": "2025-07-23 02:48:41 +0000",
-      "minecraft:zombie": "2025-07-22 02:55:46 +0000"
+      "minecraft:zombie": "2025-07-22 02:55:46 +0000",
+      "minecraft:drowned": "2025-07-23 04:01:17 +0000"
     },
     "done": false
   },
@@ -692,21 +695,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "location0": "2025-07-23 03:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-23 03:43:27 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:achievement_wealth_of_nature": {
-    "criteria": {
-      "achievement_wealth_of_nature_0": "2025-07-23 03:47:31 +0000"
+      "fighting_nightmares_0": "2025-07-23 03:12:58 +0000"
     },
     "done": true
   },
@@ -716,21 +707,33 @@
     },
     "done": true
   },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2025-07-23 03:26:39 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:book/brewing/molten_heart_potion": {
     "criteria": {
       "has_items": "2025-07-23 03:21:06 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "idas:castle": {
     "criteria": {
-      "fighting_nightmares_0": "2025-07-23 03:12:58 +0000"
+      "in_castle": "2025-07-23 03:26:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 03:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-23 03:43:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-23 03:44:24 +0000"
     },
     "done": true
   },
@@ -740,15 +743,57 @@
     },
     "done": true
   },
+  "boliviamod:achievement_wealth_of_nature": {
+    "criteria": {
+      "achievement_wealth_of_nature_0": "2025-07-23 03:47:31 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-07-23 03:47:34 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-23 03:31:50 +0000"
+      "voluntary_exile": "2025-07-23 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-23 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-23 04:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-07-23 04:07:08 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-07-23 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-07-23 04:09:19 +0000"
     },
     "done": true
   },
