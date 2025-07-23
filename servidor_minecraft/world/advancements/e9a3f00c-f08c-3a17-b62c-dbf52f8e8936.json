@@ -596,7 +596,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-22 02:47:38 +0000",
       "cooked_beef": "2025-07-23 03:10:38 +0000",
-      "apple": "2025-07-23 02:12:31 +0000"
+      "apple": "2025-07-23 02:12:31 +0000",
+      "bread": "2025-07-23 03:37:13 +0000"
     },
     "done": false
   },
@@ -711,6 +712,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-23 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 03:31:50 +0000"
     },
     "done": true
   },

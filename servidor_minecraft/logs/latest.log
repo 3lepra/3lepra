@@ -1111,3 +1111,31 @@
 [23Jul2025 03:30:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Rodjes7
 [23Jul2025 03:30:47.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [23Jul2025 03:31:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Dragonslayer]
+[23Jul2025 03:31:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Re-acquired Knowledge]
+[23Jul2025 03:32:01.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 03:34:30.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Magnificence]
+[23Jul2025 03:35:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Nightmare Stalker
+[23Jul2025 03:36:52.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Nightmare Stalker
+[23Jul2025 03:36:52.606] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -1024.0075696631045, Y: 87.0, Z: 3464.7000607534283
+[23Jul2025 03:36:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Cover Me with Diamonds]
+[23Jul2025 03:37:00.925] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/218869, l='ServerLevel[world]', x=-1024.01, y=88.50, z=3464.70]
+[23Jul2025 03:37:00.925] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/218869, l='ServerLevel[world]', x=-1024.01, y=88.50, z=3464.70]
+[23Jul2025 03:37:15.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 03:37:15.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 03:37:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 03:37:28.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57394] logged in with entity id 219230 at (-988.112968601045, 121.52799512181389, 3437.3900580605527)
+[23Jul2025 03:37:28.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 03:37:28.671] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 03:37:28.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 03:37:28.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:37:28.687] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 03:37:37.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 03:37:37.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 03:37:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 03:37:50.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57408] logged in with entity id 219452 at (-982.0978498848295, 100.37891561448868, 3432.591025564789)
+[23Jul2025 03:37:50.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 03:37:50.265] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 03:37:50.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 03:37:50.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 03:37:50.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 03:40:54.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Only Good Bug...]
