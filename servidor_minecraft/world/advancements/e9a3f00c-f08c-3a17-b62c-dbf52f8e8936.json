@@ -487,6 +487,7 @@
       "minecraft:river": "2025-07-22 02:15:57 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 03:00:24 +0000",
       "minecraft:lush_caves": "2025-07-22 02:24:06 +0000",
+      "minecraft:ocean": "2025-07-23 03:46:41 +0000",
       "minecraft:savanna": "2025-07-23 02:58:29 +0000",
       "minecraft:plains": "2025-07-23 02:58:38 +0000"
     },
@@ -691,6 +692,24 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-23 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-23 03:43:27 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:achievement_wealth_of_nature": {
+    "criteria": {
+      "achievement_wealth_of_nature_0": "2025-07-23 03:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-23 03:21:06 +0000"
@@ -712,6 +731,18 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-23 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2025-07-23 03:44:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-23 03:47:34 +0000"
     },
     "done": true
   },

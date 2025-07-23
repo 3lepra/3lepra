@@ -1139,3 +1139,90 @@
 [23Jul2025 03:37:50.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [23Jul2025 03:37:50.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
 [23Jul2025 03:40:54.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Only Good Bug...]
+[23Jul2025 03:42:37.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.3824381851737826
+[23Jul2025 03:42:37.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8889607633946071
+[23Jul2025 03:42:37.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.3833173707779451
+[23Jul2025 03:42:37.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.8678890574798288
+[23Jul2025 03:42:37.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.33438785417217787
+[23Jul2025 03:42:37.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7057244727377565
+[23Jul2025 03:42:51.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 03:42:53.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5882017903413725
+[23Jul2025 03:42:53.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.2125139148814696
+[23Jul2025 03:42:53.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.4048440559148503
+[23Jul2025 03:42:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.740265810166079
+[23Jul2025 03:42:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.6641989808701965
+[23Jul2025 03:42:53.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 2.1792563715087
+[23Jul2025 03:42:53.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ALANBRE) moved wrongly! 0.9277887230231272
+[23Jul2025 03:42:53.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2596689012056004
+[23Jul2025 03:42:53.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5513223940661192
+[23Jul2025 03:43:00.745] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-965, y=4, z=3743}
+[23Jul2025 03:43:00.764] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-990, y=14, z=3739}
+[23Jul2025 03:43:08.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[23Jul2025 03:43:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Ice Bucket Challenge]
+[23Jul2025 03:43:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [We Just Want our Hat Back]
+[23Jul2025 03:43:45.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Jul2025 03:43:47.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [We Just Want our Hat Back]
+[23Jul2025 03:43:50.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [A Bone to Pick]
+[23Jul2025 03:44:19.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 03:44:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [The Lighthouse]
+[23Jul2025 03:44:26.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has reached the goal [Millennial Leaf]
+[23Jul2025 03:44:32.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8165702910067016
+[23Jul2025 03:44:32.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8160150854438378
+[23Jul2025 03:44:35.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.8332191136413745
+[23Jul2025 03:44:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.6023307765912598
+[23Jul2025 03:44:38.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
+[23Jul2025 03:44:39.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.6603916313547081
+[23Jul2025 03:44:40.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7228188437176414
+[23Jul2025 03:44:41.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7895407538695839
+[23Jul2025 03:44:41.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.79507753061097
+[23Jul2025 03:44:41.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7976206453187978
+[23Jul2025 03:44:42.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved too quickly! 4.674230390050866,0.2443968837241428,9.40337589362025
+[23Jul2025 03:44:42.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved too quickly! 4.7771519752942595,0.25140384677692396,10.16550278674822
+[23Jul2025 03:44:56.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.2660338235788231
+[23Jul2025 03:44:57.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5048136241882294
+[23Jul2025 03:44:57.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 1.3727729654048062
+[23Jul2025 03:44:57.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7650362568685978
+[23Jul2025 03:44:59.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7538721718697013
+[23Jul2025 03:44:59.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7175742621253607
+[23Jul2025 03:45:05.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.6459449459302925
+[23Jul2025 03:45:06.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7319469341751362
+[23Jul2025 03:45:06.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7553973606632153
+[23Jul2025 03:45:06.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.7833121815392715
+[23Jul2025 03:45:06.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.800590785525725
+[23Jul2025 03:45:06.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.800590785525725
+[23Jul2025 03:45:06.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.800590785525725
+[23Jul2025 03:45:29.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23Jul2025 03:45:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Free Willy]
+[23Jul2025 03:45:47.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ALANBRE) moved wrongly! 0.30128496998741583
+[23Jul2025 03:45:48.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4224ms or 84 ticks behind
+[23Jul2025 03:46:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [You Are A Pirate]
+[23Jul2025 03:46:07.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind
+[23Jul2025 03:46:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Tie me to the Mast]
+[23Jul2025 03:46:25.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[23Jul2025 03:47:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [You Are A Pirate]
+[23Jul2025 03:47:25.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 03:47:31.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Wealth Of Nature]
+[23Jul2025 03:47:34.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Mine? Mine? Mine?]
+[23Jul2025 03:47:39.840] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:47:42.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[23Jul2025 03:47:48.217] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:47:48.218] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 03:47:48.803] [Worker-Main-55/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1525245269,1540113467,-1220055943,-1016494837],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jul2025 03:47:59.036] [pool-8-thread-9/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga]] from pos BlockPos{x=1653, y=87, z=-1493}
+[23Jul2025 03:48:02.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Jul2025 03:48:07.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-914, y=63, z=3906} BlockPos{x=-915, y=63, z=3905}
+[23Jul2025 03:48:19.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1712, y=-28, z=-1425} but found not block entity block Block{minecraft:lava}[level=6] at location
+[23Jul2025 03:48:19.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=6] but failed at location BlockPos{x=1712, y=-28, z=-1425}
+[23Jul2025 03:48:22.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[23Jul2025 03:48:39.573] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 03:48:47.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Jul2025 03:48:57.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Rodjes7) moved wrongly! 0.5032517353124577
+[23Jul2025 03:49:04.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Vindicator
+[23Jul2025 03:49:07.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Jul2025 03:49:47.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[23Jul2025 03:49:49.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Who's the Pillager Now?]
+[23Jul2025 03:50:17.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 03:50:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Voluntary Exile]
+[23Jul2025 03:51:41.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 03:52:02.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/238394, l='ServerLevel[world]', x=-968.50, y=22.00, z=3989.50]
+[23Jul2025 03:52:18.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

@@ -539,6 +539,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-23 03:45:33 +0000",
       "minecraft:beach": "2025-07-23 03:22:04 +0000",
       "minecraft:dark_forest": "2025-07-22 01:12:44 +0000",
       "minecraft:sparse_jungle": "2025-07-23 03:14:41 +0000",
@@ -547,7 +548,8 @@
       "minecraft:dripstone_caves": "2025-07-23 02:24:20 +0000",
       "minecraft:lush_caves": "2025-07-22 01:16:33 +0000",
       "minecraft:desert": "2025-07-23 01:43:51 +0000",
-      "minecraft:jungle": "2025-07-23 01:36:42 +0000"
+      "minecraft:jungle": "2025-07-23 01:36:42 +0000",
+      "minecraft:ocean": "2025-07-23 03:42:48 +0000"
     },
     "done": false
   },
@@ -573,11 +575,13 @@
     "criteria": {
       "minecraft:pillager": "2025-07-22 01:28:59 +0000",
       "minecraft:skeleton": "2025-07-22 01:18:08 +0000",
+      "minecraft:vindicator": "2025-07-23 03:47:54 +0000",
       "minecraft:spider": "2025-07-22 01:23:50 +0000",
       "minecraft:creeper": "2025-07-23 00:23:42 +0000",
       "minecraft:husk": "2025-07-23 01:43:55 +0000",
       "minecraft:cave_spider": "2025-07-23 02:28:54 +0000",
       "minecraft:piglin": "2025-07-22 01:09:00 +0000",
+      "minecraft:enderman": "2025-07-23 03:42:04 +0000",
       "minecraft:zombie": "2025-07-22 02:26:06 +0000",
       "minecraft:zombie_villager": "2025-07-23 00:03:55 +0000"
     },
@@ -850,6 +854,30 @@
   "tetra:spelunking/find_scroll_sturdy": {
     "criteria": {
       "find": "2025-07-23 03:31:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-07-23 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-07-23 03:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-07-23 03:49:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-07-23 03:43:47 +0000"
     },
     "done": true
   },
