@@ -630,5 +630,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-23 02:34:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-23 02:31:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

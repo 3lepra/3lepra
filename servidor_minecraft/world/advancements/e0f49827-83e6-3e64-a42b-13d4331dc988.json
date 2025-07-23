@@ -570,6 +570,7 @@
       "minecraft:spider": "2025-07-22 01:23:50 +0000",
       "minecraft:creeper": "2025-07-23 00:23:42 +0000",
       "minecraft:husk": "2025-07-23 01:43:55 +0000",
+      "minecraft:cave_spider": "2025-07-23 02:28:54 +0000",
       "minecraft:piglin": "2025-07-22 01:09:00 +0000",
       "minecraft:zombie": "2025-07-22 02:26:06 +0000",
       "minecraft:zombie_villager": "2025-07-23 00:03:55 +0000"
@@ -744,6 +745,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-23 02:37:55 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-07-23 02:05:43 +0000"
@@ -759,6 +832,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-07-23 01:59:47 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-07-23 02:29:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-23 02:33:45 +0000"
     },
     "done": true
   },
