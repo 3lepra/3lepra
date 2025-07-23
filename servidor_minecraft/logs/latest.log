@@ -1229,3 +1229,26 @@
 [23Jul2025 23:18:43.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [23Jul2025 23:19:41.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/50807, l='ServerLevel[world]', x=-2093.70, y=66.00, z=3976.70] died, message: 'Fletcher was slain by Zombie Villager'
 [23Jul2025 23:20:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Exorcism]
+[23Jul2025 23:22:06.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50548, l='ServerLevel[world]', x=-2058.32, y=68.17, z=3956.10] died, message: 'Villager was slain by Zombie'
+[23Jul2025 23:23:51.242] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[23Jul2025 23:25:21.415] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jul2025 23:25:21.417] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Jul2025 23:26:12.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [What a Deal!]
+[23Jul2025 23:28:14.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[23Jul2025 23:28:14.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[23Jul2025 23:28:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[23Jul2025 23:28:51.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77ce9548[id=<null>,name=Rodjes7,properties={},legacy=false] (/10.147.18.237:62305) lost connection: Disconnected
+[23Jul2025 23:29:12.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:62392] logged in with entity id 67857 at (-3406.355227668571, 122.15744203333273, 4053.538663964276)
+[23Jul2025 23:29:12.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[23Jul2025 23:29:12.704] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[23Jul2025 23:29:12.724] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[23Jul2025 23:29:12.724] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jul2025 23:29:12.724] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[23Jul2025 23:36:20.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zz
+[23Jul2025 23:37:33.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/50618, l='ServerLevel[world]', x=-2066.59, y=68.00, z=3992.38] died, message: 'Fisherman was slain by Iron Golem'
+[23Jul2025 23:38:52.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 23:38:52.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[23Jul2025 23:39:27.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[23Jul2025 23:40:20.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jul2025 23:40:20.342] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jul2025 23:40:26.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind

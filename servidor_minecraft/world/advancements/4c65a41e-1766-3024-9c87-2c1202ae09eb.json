@@ -1045,5 +1045,17 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-23 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-23 23:26:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
