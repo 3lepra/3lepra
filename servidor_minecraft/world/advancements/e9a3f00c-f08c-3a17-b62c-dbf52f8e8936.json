@@ -484,8 +484,10 @@
       "minecraft:mushroom_fields": "2025-07-23 22:34:58 +0000",
       "minecraft:deep_ocean": "2025-07-23 04:17:37 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 22:59:36 +0000",
+      "minecraft:wooded_badlands": "2025-07-24 21:37:14 +0000",
       "minecraft:beach": "2025-07-23 03:00:11 +0000",
       "minecraft:dark_forest": "2025-07-22 02:15:42 +0000",
+      "minecraft:stony_peaks": "2025-07-24 21:39:45 +0000",
       "minecraft:sparse_jungle": "2025-07-22 02:15:55 +0000",
       "minecraft:river": "2025-07-22 02:15:57 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 03:00:24 +0000",
@@ -904,6 +906,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-07-24 21:33:26 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-07-24 21:17:14 +0000"
@@ -913,6 +921,12 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-07-24 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-24 21:26:11 +0000"
     },
     "done": true
   },

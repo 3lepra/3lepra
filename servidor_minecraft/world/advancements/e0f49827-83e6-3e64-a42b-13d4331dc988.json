@@ -583,6 +583,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-22 01:28:59 +0000",
+      "minecraft:blaze": "2025-07-24 21:38:25 +0000",
       "minecraft:skeleton": "2025-07-22 01:18:08 +0000",
       "minecraft:vindicator": "2025-07-23 03:47:54 +0000",
       "minecraft:magma_cube": "2025-07-24 02:26:11 +0000",
@@ -996,7 +997,9 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-07-24 02:22:01 +0000"
+      "incendium:ash_barrens": "2025-07-24 02:22:01 +0000",
+      "incendium:quartz_flats": "2025-07-24 21:29:41 +0000",
+      "incendium:toxic_heap": "2025-07-24 21:31:20 +0000"
     },
     "done": false
   },
@@ -1008,7 +1011,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:warped_forest": "2025-07-24 02:23:13 +0000"
+      "minecraft:crimson_forest": "2025-07-24 21:29:06 +0000",
+      "minecraft:nether_wastes": "2025-07-24 21:28:41 +0000",
+      "minecraft:warped_forest": "2025-07-24 02:23:13 +0000",
+      "minecraft:basalt_deltas": "2025-07-24 21:26:28 +0000"
     },
     "done": false
   },
@@ -1039,6 +1045,60 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-24 21:26:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-07-24 21:31:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-07-24 21:33:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-07-24 21:40:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "junk": "2025-07-24 21:33:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-24 21:29:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-07-24 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-24 21:41:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-07-24 21:38:25 +0000"
     },
     "done": true
   },

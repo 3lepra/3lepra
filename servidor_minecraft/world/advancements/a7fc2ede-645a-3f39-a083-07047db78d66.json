@@ -476,7 +476,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-23 01:14:20 +0000",
-      "minecraft:dripstone_caves": "2025-07-23 03:09:40 +0000"
+      "minecraft:dripstone_caves": "2025-07-23 03:09:40 +0000",
+      "minecraft:plains": "2025-07-24 21:33:44 +0000"
     },
     "done": false
   },
@@ -484,6 +485,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-23 01:28:45 +0000",
       "porkchop": "2025-07-23 01:15:58 +0000",
+      "apple": "2025-07-24 21:42:38 +0000",
       "bread": "2025-07-23 01:44:07 +0000"
     },
     "done": false
@@ -509,8 +511,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-23 01:32:52 +0000",
+      "minecraft:spider": "2025-07-24 21:27:14 +0000",
       "minecraft:witch": "2025-07-23 02:42:59 +0000",
       "minecraft:cave_spider": "2025-07-24 00:16:43 +0000",
+      "minecraft:stray": "2025-07-24 21:35:06 +0000",
       "minecraft:zombie": "2025-07-23 01:25:01 +0000"
     },
     "done": false
