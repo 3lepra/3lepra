@@ -483,7 +483,8 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-07-22 02:48:19 +0000",
       "minecraft:river": "2025-07-22 02:35:24 +0000",
-      "minecraft:dripstone_caves": "2025-07-24 02:19:10 +0000"
+      "minecraft:dripstone_caves": "2025-07-24 02:19:10 +0000",
+      "minecraft:plains": "2025-07-24 02:56:27 +0000"
     },
     "done": false
   },
@@ -531,6 +532,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-24 02:57:44 +0000",
       "minecraft:zombie": "2025-07-22 02:46:21 +0000"
     },
     "done": false
@@ -543,6 +545,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-24 03:10:52 +0000",
       "rotten_flesh": "2025-07-24 02:22:06 +0000",
       "cooked_salmon": "2025-07-24 02:45:43 +0000"
     },
@@ -554,15 +557,45 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-24 02:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-24 02:42:51 +0000"
     },
     "done": true
   },
-  "create:copper": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "0": "2025-07-24 02:40:18 +0000"
+      "deflected_projectile": "2025-07-24 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-24 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-24 02:58:15 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-24 03:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-24 03:08:23 +0000"
     },
     "done": true
   },
