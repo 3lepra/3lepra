@@ -686,7 +686,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-07-22 23:52:17 +0000"
+      "glow_berries": "2025-07-22 23:52:17 +0000",
+      "wheat": "2025-07-24 00:19:11 +0000"
     },
     "done": false
   },
@@ -939,6 +940,12 @@
   "born_in_chaos_v1:compact_necromancy": {
     "criteria": {
       "compact_necromancy_0": "2025-07-23 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-24 00:19:11 +0000"
     },
     "done": true
   },

@@ -458,7 +458,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2025-07-24 00:12:08 +0000",
-      "minecraft:river": "2025-07-24 00:04:00 +0000"
+      "minecraft:river": "2025-07-24 00:04:00 +0000",
+      "minecraft:lush_caves": "2025-07-24 00:16:59 +0000"
     },
     "done": false
   },
@@ -471,6 +472,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-24 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-24 00:21:56 +0000"
     },
     "done": true
   },
@@ -495,6 +502,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-24 00:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-24 00:21:20 +0000"
     },
     "done": true
   },
