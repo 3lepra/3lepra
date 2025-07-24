@@ -990,3 +990,56 @@
 [24Jul2025 15:20:26.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20224, l='ServerLevel[world]', x=1909.54, y=63.00, z=-5753.65] died, message: 'Villager was slain by Zombie Bruiser'
 [24Jul2025 15:20:34.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
 [24Jul2025 15:20:51.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[24Jul2025 15:21:10.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[24Jul2025 15:21:29.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[24Jul2025 15:21:48.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3651ms or 73 ticks behind
+[24Jul2025 15:22:06.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[24Jul2025 15:22:24.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[24Jul2025 15:22:47.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7532ms or 150 ticks behind
+[24Jul2025 15:23:04.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/214, l='ServerLevel[world]', x=-2103.33, y=65.00, z=3973.90] died, message: 'Villager was slain by Door Knight'
+[24Jul2025 15:23:05.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[24Jul2025 15:23:23.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[24Jul2025 15:23:26.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[24Jul2025 15:23:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[24Jul2025 15:33:05.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Tools of the Trade]
+[24Jul2025 15:40:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Magery]
+[24Jul2025 15:47:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Quaint Scribe]
+[24Jul2025 15:51:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Good Demoman]
+[24Jul2025 15:55:06.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Voluntary Exile]
+[24Jul2025 16:06:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> estabas en una dungeon full grande??
+[24Jul2025 16:06:47.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> sip
+[24Jul2025 16:06:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -1752 3870
+[24Jul2025 16:06:51.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> por ahi
+[24Jul2025 16:06:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ??
+[24Jul2025 16:06:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> cerca habia una aldea
+[24Jul2025 16:07:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> looteaste todo?
+[24Jul2025 16:07:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> pa entrar
+[24Jul2025 16:07:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ajam
+[24Jul2025 16:07:35.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Guns and Roses]
+[24Jul2025 16:11:50.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tienes amatistaaaa?
+[24Jul2025 16:11:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> nanai
+[24Jul2025 16:12:06.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> dsc?
+[24Jul2025 16:14:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Chest Slayer]
+[24Jul2025 16:14:16.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Amateur Archaeologist]
+[24Jul2025 16:20:12.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 16:21:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:21:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:21:53.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:23:19.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 16:23:50.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:23:50.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:23:50.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:23:50.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 16:26:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> vives en la aldea que tiene una puta muralla jsjaj?
+[24Jul2025 16:29:38.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [Ruins of the Deep]
+[24Jul2025 16:32:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> me voy a comerrrrr
+[24Jul2025 16:32:06.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[24Jul2025 16:32:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[24Jul2025 16:32:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 16:32:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hhhh<--[HERE]
+[24Jul2025 16:37:14.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [This Belongs in a Museum]
+[24Jul2025 16:47:44.737] [Worker-Main-32/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2227, y=109, z=3220}
+[24Jul2025 16:48:11.160] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jul2025 16:48:11.222] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jul2025 16:48:11.233] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jul2025 16:48:36.100] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
