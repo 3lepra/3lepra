@@ -508,6 +508,7 @@
       "cooked_porkchop": "2025-07-23 00:42:23 +0000",
       "cooked_mutton": "2025-07-22 01:27:26 +0000",
       "cooked_beef": "2025-07-22 02:20:24 +0000",
+      "baked_potato": "2025-07-24 00:31:47 +0000",
       "apple": "2025-07-22 02:31:18 +0000",
       "bread": "2025-07-22 01:03:56 +0000",
       "golden_apple": "2025-07-23 01:22:26 +0000",
@@ -541,9 +542,14 @@
       "minecraft:sparse_jungle": "2025-07-22 01:39:26 +0000",
       "minecraft:river": "2025-07-22 01:06:26 +0000",
       "minecraft:dripstone_caves": "2025-07-23 00:49:34 +0000",
+      "minecraft:forest": "2025-07-24 00:41:54 +0000",
       "minecraft:lush_caves": "2025-07-22 01:34:50 +0000",
       "minecraft:desert": "2025-07-23 01:43:57 +0000",
-      "minecraft:jungle": "2025-07-22 01:39:31 +0000"
+      "minecraft:jungle": "2025-07-22 01:39:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-24 00:41:38 +0000",
+      "minecraft:meadow": "2025-07-24 00:45:12 +0000",
+      "minecraft:savanna": "2025-07-24 00:49:10 +0000",
+      "minecraft:plains": "2025-07-24 00:44:28 +0000"
     },
     "done": false
   },
@@ -795,6 +801,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-07-24 00:27:11 +0000",
+      "charm_collector_4": "2025-07-24 00:27:08 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-07-24 00:11:51 +0000"
@@ -804,6 +817,18 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-07-24 00:16:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-24 00:27:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-07-24 00:38:36 +0000"
     },
     "done": true
   },
