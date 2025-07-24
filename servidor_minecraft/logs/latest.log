@@ -16146,3 +16146,25 @@
 [24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [24Jul2025 01:50:51.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/184701, l='ServerLevel[world]', x=-2439.51, y=68.00, z=2509.52] died, message: 'Butcher was slain by LordZand'
+[24Jul2025 01:53:12.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/184772, l='ServerLevel[world]', x=-2450.62, y=69.00, z=2513.69] died, message: 'Cleric was slain by Vindicator'
+[24Jul2025 01:53:19.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:61050] logged in with entity id 188077 at (-3353.711166217995, 225.0, 2583.0187937189107)
+[24Jul2025 01:53:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[24Jul2025 01:53:19.171] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[24Jul2025 01:53:19.191] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[24Jul2025 01:53:19.191] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Jul2025 01:53:19.192] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[24Jul2025 01:53:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[24Jul2025 01:54:09.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/184845, l='ServerLevel[world]', x=-2433.04, y=67.00, z=2511.83] died, message: 'Farmer was shot by Pillager'
+[24Jul2025 01:54:36.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/184851, l='ServerLevel[world]', x=-2439.51, y=68.00, z=2531.46] died, message: 'Cartographer was shot by Pillager'
+[24Jul2025 01:55:38.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by Ravager
+[24Jul2025 01:55:57.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2475 2495
+[24Jul2025 01:56:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand was slain by Ravager
+[24Jul2025 01:56:03.255] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -2475.300000011921, Y: 64.0, Z: 2495.676311502545
+[24Jul2025 01:57:00.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/189961, l='ServerLevel[world]', x=-2596.30, y=76.00, z=2804.30] died, message: 'Villager was slain by Zombie Villager'
+[24Jul2025 01:58:58.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:58:58.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:58:58.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:58:58.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 01:59:17.547] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/191093, l='ServerLevel[world]', x=-2475.30, y=65.50, z=2495.68]
+[24Jul2025 01:59:17.548] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/191093, l='ServerLevel[world]', x=-2475.30, y=65.50, z=2495.68]
+[24Jul2025 01:59:35.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
