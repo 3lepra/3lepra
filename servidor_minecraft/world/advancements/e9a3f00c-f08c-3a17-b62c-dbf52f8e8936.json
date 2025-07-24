@@ -824,78 +824,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-23 23:04:27 +0000"
-    },
-    "done": false
-  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2025-07-23 22:52:44 +0000"
@@ -917,6 +845,30 @@
   "enigmaticlegacy:book/materials/earth_heart": {
     "criteria": {
       "has_items": "2025-07-23 23:03:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-07-24 15:03:53 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2025-07-24 15:03:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-07-24 15:03:53 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-07-24 15:03:53 +0000"
     },
     "done": true
   },
