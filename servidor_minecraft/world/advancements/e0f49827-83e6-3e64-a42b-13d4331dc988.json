@@ -585,6 +585,7 @@
       "minecraft:pillager": "2025-07-22 01:28:59 +0000",
       "minecraft:skeleton": "2025-07-22 01:18:08 +0000",
       "minecraft:vindicator": "2025-07-23 03:47:54 +0000",
+      "minecraft:magma_cube": "2025-07-24 02:26:11 +0000",
       "minecraft:spider": "2025-07-22 01:23:50 +0000",
       "minecraft:creeper": "2025-07-23 00:23:42 +0000",
       "minecraft:evoker": "2025-07-23 22:38:33 +0000",
@@ -963,6 +964,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-07-24 02:20:47 +0000"
+    },
+    "done": true
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-07-24 02:21:58 +0000"
@@ -975,21 +982,15 @@
     },
     "done": true
   },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-07-24 02:22:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-24 02:21:58 +0000"
     },
     "done": true
   },
-  "ars_nouveau:novice_spell_book": {
+  "incendium:misc/root": {
     "criteria": {
-      "has_novice_spell_book": "2025-07-24 02:20:47 +0000"
+      "incendium:ash_barrens": "2025-07-24 02:22:01 +0000"
     },
     "done": true
   },
@@ -1002,6 +1003,24 @@
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-07-24 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-07-24 02:23:13 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-07-24 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-24 02:29:13 +0000"
     },
     "done": true
   },
