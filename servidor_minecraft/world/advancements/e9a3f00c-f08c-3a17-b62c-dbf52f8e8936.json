@@ -491,6 +491,7 @@
       "minecraft:lukewarm_ocean": "2025-07-23 03:00:24 +0000",
       "minecraft:forest": "2025-07-23 04:22:56 +0000",
       "minecraft:lush_caves": "2025-07-22 02:24:06 +0000",
+      "minecraft:desert": "2025-07-24 15:13:32 +0000",
       "minecraft:ocean": "2025-07-23 03:46:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-23 22:34:46 +0000",
       "minecraft:flower_forest": "2025-07-23 03:59:29 +0000",
@@ -845,6 +846,30 @@
   "enigmaticlegacy:book/materials/earth_heart": {
     "criteria": {
       "has_items": "2025-07-23 23:03:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-07-24 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-24 15:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-07-24 15:17:57 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-07-24 15:07:20 +0000"
     },
     "done": true
   },
