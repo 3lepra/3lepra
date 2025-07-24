@@ -539,13 +539,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-24 01:04:39 +0000",
+      "minecraft:beach": "2025-07-24 00:57:49 +0000",
       "minecraft:sparse_jungle": "2025-07-22 01:39:26 +0000",
       "minecraft:river": "2025-07-22 01:06:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-24 01:15:45 +0000",
       "minecraft:dripstone_caves": "2025-07-23 00:49:34 +0000",
       "minecraft:forest": "2025-07-24 00:41:54 +0000",
       "minecraft:lush_caves": "2025-07-22 01:34:50 +0000",
       "minecraft:desert": "2025-07-23 01:43:57 +0000",
       "minecraft:jungle": "2025-07-22 01:39:31 +0000",
+      "minecraft:ocean": "2025-07-24 00:58:28 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-24 01:07:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 00:41:38 +0000",
       "minecraft:meadow": "2025-07-24 00:45:12 +0000",
       "minecraft:savanna": "2025-07-24 00:49:10 +0000",
@@ -573,6 +578,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-24 01:47:28 +0000",
       "minecraft:skeleton": "2025-07-22 01:31:11 +0000",
       "minecraft:spider": "2025-07-22 02:55:39 +0000",
       "minecraft:creeper": "2025-07-24 00:21:53 +0000",
@@ -801,13 +807,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_1": "2025-07-24 00:27:11 +0000",
-      "charm_collector_4": "2025-07-24 00:27:08 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-07-24 00:11:51 +0000"
@@ -826,9 +825,58 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-07-24 00:27:11 +0000",
+      "charm_collector_4": "2025-07-24 00:27:08 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2025-07-24 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-24 00:57:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-24 00:59:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-07-24 01:01:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-07-24 01:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-24 01:13:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-24 01:50:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-24 01:47:28 +0000"
     },
     "done": true
   },

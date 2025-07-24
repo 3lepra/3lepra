@@ -16022,3 +16022,127 @@
 [24Jul2025 00:51:56.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [24Jul2025 00:51:57.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zz
 [24Jul2025 00:52:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzzz
+[24Jul2025 00:52:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zzz
+[24Jul2025 00:52:30.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Jul2025 00:52:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzzzzzzzzzz
+[24Jul2025 00:52:48.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[24Jul2025 00:52:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[24Jul2025 00:52:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzzzz
+[24Jul2025 00:53:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[24Jul2025 00:53:16.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzz
+[24Jul2025 00:53:17.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzz
+[24Jul2025 00:53:17.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zz
+[24Jul2025 00:53:18.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 00:53:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zz
+[24Jul2025 00:53:38.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Jul2025 00:54:00.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[24Jul2025 00:54:36.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:55:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was pierced by Necromancer's icicle
+[24Jul2025 00:55:04.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2629, y=64, z=2289} but found not block entity block Block{minecraft:air} at location
+[24Jul2025 00:55:04.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2629, y=64, z=2289}
+[24Jul2025 00:55:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was pierced by Necromancer's icicle
+[24Jul2025 00:55:17.049] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2134.1883015909466, Y: 63.0, Z: 3940.8601232935025
+[24Jul2025 00:55:23.577] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/153576, l='ServerLevel[world]', x=-2134.19, y=64.50, z=3940.86]
+[24Jul2025 00:55:23.577] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/153576, l='ServerLevel[world]', x=-2134.19, y=64.50, z=3940.86]
+[24Jul2025 00:56:03.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 00:57:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Mine? Mine? Mine?]
+[24Jul2025 00:57:40.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 00:58:49.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.4119803893736389
+[24Jul2025 00:58:50.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.4441421956007616
+[24Jul2025 00:58:50.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.724643059070786
+[24Jul2025 00:59:47.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Tie me to the Mast]
+[24Jul2025 01:00:45.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[24Jul2025 01:00:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rodjes7: The difficulty has been set to Hard]
+[24Jul2025 01:01:16.902] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/158313, l='ServerLevel[world]', x=-3315.50, y=49.00, z=2512.50]
+[24Jul2025 01:01:55.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [We Just Want our Hat Back]
+[24Jul2025 01:02:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [A Bone to Pick]
+[24Jul2025 01:05:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzzz
+[24Jul2025 01:06:24.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 01:06:24.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:06:24.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:06:24.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 01:06:39.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzz
+[24Jul2025 01:07:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzzzzzzzzz
+[24Jul2025 01:10:46.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[24Jul2025 01:10:46.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[24Jul2025 01:11:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Unbreaking X]
+[24Jul2025 01:13:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Incendium]
+[24Jul2025 01:13:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [We Need to Go Deeper]
+[24Jul2025 01:13:37.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -0.13495041827763998,-9.997376034679895,0.9189615134559972
+[24Jul2025 01:13:37.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12529ms or 250 ticks behind
+[24Jul2025 01:13:45.786] [Worker-Main-1/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[24Jul2025 01:13:54.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Not Today, Thank You]
+[24Jul2025 01:13:56.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/167024, l='ServerLevel[world]', x=-292.38, y=58.00, z=426.40] died: Piglin Civilian suffocated in a wall
+[24Jul2025 01:14:04.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/167136, l='ServerLevel[world]', x=-334.38, y=39.00, z=390.40] died: Village Guard suffocated in a wall
+[24Jul2025 01:16:56.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Mage's Spell Book]
+[24Jul2025 01:18:02.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.6193564234240512
+[24Jul2025 01:18:02.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.807346830321876
+[24Jul2025 01:18:02.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.7302465061088697
+[24Jul2025 01:18:02.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LordZand) moved wrongly! 0.7474764396356477
+[24Jul2025 01:18:59.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:18:59.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:18:59.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:18:59.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:19:39.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:19:47.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:19:47.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:19:47.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 01:19:51.083] [pool-8-thread-10/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga]] from pos BlockPos{x=-2293, y=69, z=4283}
+[24Jul2025 01:19:53.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[24Jul2025 01:19:53.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[24Jul2025 01:23:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Zombie
+[24Jul2025 01:23:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Zombie
+[24Jul2025 01:23:54.816] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2333.7866435513956, Y: 68.0, Z: 4214.321293111621
+[24Jul2025 01:24:00.118] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/176293, l='ServerLevel[world]', x=-2333.79, y=69.50, z=4214.32]
+[24Jul2025 01:24:00.118] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/176293, l='ServerLevel[world]', x=-2333.79, y=69.50, z=4214.32]
+[24Jul2025 01:30:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was shot by Stray
+[24Jul2025 01:30:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was shot by Stray
+[24Jul2025 01:30:56.445] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2325.7412235082734, Y: 68.0, Z: 4209.269306144726
+[24Jul2025 01:31:00.815] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/177669, l='ServerLevel[world]', x=-2325.74, y=69.50, z=4209.27]
+[24Jul2025 01:31:00.815] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/177669, l='ServerLevel[world]', x=-2325.74, y=69.50, z=4209.27]
+[24Jul2025 01:33:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Vex
+[24Jul2025 01:33:43.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Vex
+[24Jul2025 01:33:43.962] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2326.9468318770905, Y: 68.0, Z: 4218.435915460545
+[24Jul2025 01:33:46.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[24Jul2025 01:33:46.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[24Jul2025 01:35:11.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:58296] logged in with entity id 178151 at (-2326.8712154178907, 68.0, 4218.55005321294)
+[24Jul2025 01:35:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[24Jul2025 01:35:11.883] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[24Jul2025 01:35:11.902] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[24Jul2025 01:35:11.902] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Jul2025 01:35:11.903] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[24Jul2025 01:35:37.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/178204, l='ServerLevel[world]', x=-2326.95, y=69.50, z=4218.44]
+[24Jul2025 01:35:37.313] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/178204, l='ServerLevel[world]', x=-2326.95, y=69.50, z=4218.44]
+[24Jul2025 01:37:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Vex
+[24Jul2025 01:37:32.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Vex
+[24Jul2025 01:37:32.645] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2331.454332072252, Y: 68.0, Z: 4214.4156727503905
+[24Jul2025 01:37:38.414] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/178998, l='ServerLevel[world]', x=-2331.45, y=69.50, z=4214.42]
+[24Jul2025 01:37:38.414] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/178998, l='ServerLevel[world]', x=-2331.45, y=69.50, z=4214.42]
+[24Jul2025 01:38:26.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:50780] logged in with entity id 179328 at (-3159.733935983125, 63.08576431274414, 2677.837593935898)
+[24Jul2025 01:38:26.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[24Jul2025 01:38:26.358] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[24Jul2025 01:38:26.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[24Jul2025 01:38:26.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Jul2025 01:38:26.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[24Jul2025 01:39:08.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:39:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -23228
+[24Jul2025 01:39:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -2328 4213
+[24Jul2025 01:40:57.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180683, l='ServerLevel[world]', x=-2888.88, y=119.00, z=2962.13] died, message: 'Villager was turned into KFC by Fire Dragon'
+[24Jul2025 01:41:08.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/180682, l='ServerLevel[world]', x=-2875.07, y=111.00, z=2935.37] died, message: 'Cartographer was incinerated by Fire Dragon'
+[24Jul2025 01:43:00.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was shot by Stray
+[24Jul2025 01:43:25.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was shot by Stray
+[24Jul2025 01:43:25.376] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2329.2524455965354, Y: 68.0, Z: 4214.431045448653
+[24Jul2025 01:43:46.573] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/182742, l='ServerLevel[world]', x=-2329.25, y=69.50, z=4214.43]
+[24Jul2025 01:43:46.574] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/182742, l='ServerLevel[world]', x=-2329.25, y=69.50, z=4214.43]
+[24Jul2025 01:44:44.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/180764, l='ServerLevel[world]', x=-2691.67, y=106.00, z=2720.70] died, message: 'Farmer was slain by Decaying Zombie'
+[24Jul2025 01:45:58.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was shot by Supreme Bonescaller
+[24Jul2025 01:46:45.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was shot by Supreme Bonescaller
+[24Jul2025 01:46:45.222] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2326.302360483405, Y: 72.0, Z: 4215.300000011921
+[24Jul2025 01:46:53.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/184903, l='ServerLevel[world]', x=-2326.30, y=73.50, z=4215.30]
+[24Jul2025 01:46:53.274] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/184903, l='ServerLevel[world]', x=-2326.30, y=73.50, z=4215.30]
+[24Jul2025 01:47:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Voluntary Exile]
+[24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[24Jul2025 01:49:36.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[24Jul2025 01:50:51.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/184701, l='ServerLevel[world]', x=-2439.51, y=68.00, z=2509.52] died, message: 'Butcher was slain by LordZand'
