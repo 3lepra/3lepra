@@ -905,6 +905,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-07-23 19:17:09 +0000",
+      "sugar_cane": "2025-07-25 04:31:52 +0000",
       "nether_wart": "2025-07-25 02:32:14 +0000",
       "melon": "2025-07-23 03:21:03 +0000"
     },
@@ -1209,6 +1210,12 @@
       "location0": "2025-07-25 01:27:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-25 04:32:56 +0000"
+    },
+    "done": false
   },
   "create:chute": {
     "criteria": {
