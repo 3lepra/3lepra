@@ -965,15 +965,21 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2025-07-25 01:35:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-25 01:38:43 +0000"
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll_howling": {
+  "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "find": "2025-07-25 01:35:01 +0000"
+      "has_novice_spell_book": "2025-07-25 01:45:51 +0000"
     },
     "done": true
   },

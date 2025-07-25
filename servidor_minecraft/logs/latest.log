@@ -990,3 +990,34 @@
 [25Jul2025 01:42:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> sip
 [25Jul2025 01:43:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tienes el libro del ars?
 [25Jul2025 01:43:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> no
+[25Jul2025 01:44:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> craftealo
+[25Jul2025 01:44:24.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> mina un poquito mas rapido
+[25Jul2025 01:44:26.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> como se llama
+[25Jul2025 01:44:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> grimorio
+[25Jul2025 01:45:51.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Unbreaking X]
+[25Jul2025 01:45:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> aqui esta
+[25Jul2025 01:46:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> jeje
+[25Jul2025 01:46:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> que hago
+[25Jul2025 01:46:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> con el libro en tu mano
+[25Jul2025 01:46:30.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> pulsa c
+[25Jul2025 01:46:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> pera
+[25Jul2025 01:46:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> recupera tus cosas
+[25Jul2025 01:46:49.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> y configura un morao de disparo con des
+[25Jul2025 01:46:52.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> voy
+[25Jul2025 01:46:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> voy a traer mi cena
+[25Jul2025 01:47:02.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[25Jul2025 01:47:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 01:48:21.041] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ALANBRE picking up: PermanentItemEntity['Extradimensional Vessel'/32678, l='ServerLevel[world]', x=-2641.22, y=-47.50, z=3352.87]
+[25Jul2025 01:48:21.041] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/32678, l='ServerLevel[world]', x=-2641.22, y=-47.50, z=3352.87]
+[25Jul2025 01:52:57.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59246] logged in with entity id 36811 at (-2700.710847040548, -31.0, 3402.112633309608)
+[25Jul2025 01:52:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 01:52:57.537] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 01:52:57.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 01:52:57.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 01:52:57.562] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 01:53:15.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> como vas
+[25Jul2025 01:53:20.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ya toi
+[25Jul2025 01:53:27.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:53:42.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 01:53:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> y el dragon?
+[25Jul2025 01:53:57.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> arriba
