@@ -542,6 +542,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-25 00:54:04 +0000",
       "minecraft:deep_ocean": "2025-07-24 01:04:39 +0000",
+      "minecraft:bamboo_jungle": "2025-07-25 02:24:40 +0000",
       "minecraft:beach": "2025-07-24 00:57:49 +0000",
       "minecraft:dark_forest": "2025-07-24 02:50:42 +0000",
       "minecraft:mangrove_swamp": "2025-07-24 02:53:21 +0000",
@@ -980,6 +981,24 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-07-25 01:45:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-07-25 01:57:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-07-25 01:57:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-25 02:14:41 +0000"
     },
     "done": true
   },

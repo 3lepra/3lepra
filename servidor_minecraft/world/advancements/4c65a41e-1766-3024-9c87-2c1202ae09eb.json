@@ -848,6 +848,7 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_0": "2025-07-23 02:34:23 +0000",
+      "charm_collector_4": "2025-07-25 02:07:22 +0000",
       "charm_collector_3": "2025-07-23 02:34:23 +0000"
     },
     "done": false
@@ -1207,9 +1208,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-07-25 01:58:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-07-25 01:58:36 +0000"
+    },
+    "done": true
+  },
   "idas:tinkers_citadel": {
     "criteria": {
       "in_tinkers_citadel": "2025-07-25 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-25 02:13:48 +0000"
     },
     "done": true
   },
