@@ -1075,6 +1075,7 @@
   },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
+      "waste": "2025-07-25 02:28:28 +0000",
       "junk": "2025-07-24 21:33:11 +0000",
       "treasure": "2025-07-25 02:24:38 +0000"
     },
@@ -1101,6 +1102,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-07-24 21:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-25 02:29:26 +0000"
     },
     "done": true
   },

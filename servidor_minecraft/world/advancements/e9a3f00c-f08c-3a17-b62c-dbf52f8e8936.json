@@ -483,6 +483,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-07-23 22:34:58 +0000",
       "minecraft:deep_ocean": "2025-07-23 04:17:37 +0000",
+      "minecraft:cherry_grove": "2025-07-25 02:30:34 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 22:59:36 +0000",
       "minecraft:wooded_badlands": "2025-07-24 21:37:14 +0000",
       "minecraft:beach": "2025-07-23 03:00:11 +0000",
@@ -958,6 +959,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-25 02:22:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-25 02:27:18 +0000"
     },
     "done": true
   },
