@@ -1211,12 +1211,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-25 04:32:56 +0000"
-    },
-    "done": false
-  },
   "create:chute": {
     "criteria": {
       "0": "2025-07-25 03:53:03 +0000"
