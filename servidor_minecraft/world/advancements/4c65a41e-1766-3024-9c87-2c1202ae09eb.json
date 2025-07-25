@@ -1185,5 +1185,17 @@
     },
     "done": true
   },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:butcher": "2025-07-24 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-07-24 22:10:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

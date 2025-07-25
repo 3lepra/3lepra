@@ -612,6 +612,7 @@
       "cooked_porkchop": "2025-07-22 02:47:38 +0000",
       "cooked_mutton": "2025-07-23 22:00:26 +0000",
       "cooked_beef": "2025-07-23 03:10:38 +0000",
+      "baked_potato": "2025-07-24 22:00:22 +0000",
       "apple": "2025-07-23 02:12:31 +0000",
       "bread": "2025-07-23 03:37:13 +0000",
       "golden_apple": "2025-07-23 22:40:55 +0000"
@@ -906,27 +907,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed_by": "2025-07-24 21:33:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-07-24 21:17:14 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-07-24 21:10:06 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-07-24 21:26:11 +0000"
     },
     "done": true
   },
@@ -936,9 +919,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-24 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-24 21:26:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-07-24 21:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-24 21:46:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-07-24 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-07-24 22:07:29 +0000"
     },
     "done": true
   },
