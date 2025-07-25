@@ -1209,12 +1209,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-25 02:57:23 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-07-25 01:58:23 +0000"

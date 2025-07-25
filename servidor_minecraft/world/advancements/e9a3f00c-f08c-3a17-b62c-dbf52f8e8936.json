@@ -484,6 +484,7 @@
       "minecraft:mushroom_fields": "2025-07-23 22:34:58 +0000",
       "minecraft:deep_ocean": "2025-07-23 04:17:37 +0000",
       "minecraft:cherry_grove": "2025-07-25 02:30:34 +0000",
+      "minecraft:birch_forest": "2025-07-25 03:10:59 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 22:59:36 +0000",
       "minecraft:wooded_badlands": "2025-07-24 21:37:14 +0000",
       "minecraft:beach": "2025-07-23 03:00:11 +0000",
@@ -615,8 +616,10 @@
       "cooked_beef": "2025-07-23 03:10:38 +0000",
       "baked_potato": "2025-07-24 22:00:22 +0000",
       "apple": "2025-07-23 02:12:31 +0000",
+      "mutton": "2025-07-25 03:04:36 +0000",
       "bread": "2025-07-23 03:37:13 +0000",
-      "golden_apple": "2025-07-23 22:40:55 +0000"
+      "golden_apple": "2025-07-23 22:40:55 +0000",
+      "rotten_flesh": "2025-07-25 02:58:06 +0000"
     },
     "done": false
   },
