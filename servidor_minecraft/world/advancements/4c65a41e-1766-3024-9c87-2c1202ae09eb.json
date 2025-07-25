@@ -904,6 +904,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-07-23 19:17:09 +0000",
+      "nether_wart": "2025-07-25 02:32:14 +0000",
       "melon": "2025-07-23 03:21:03 +0000"
     },
     "done": false

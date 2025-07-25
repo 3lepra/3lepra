@@ -551,14 +551,18 @@
       "minecraft:lukewarm_ocean": "2025-07-23 03:22:42 +0000",
       "minecraft:dripstone_caves": "2025-07-23 02:24:20 +0000",
       "minecraft:swamp": "2025-07-23 22:51:11 +0000",
+      "minecraft:cold_ocean": "2025-07-25 02:40:38 +0000",
       "minecraft:forest": "2025-07-23 23:39:32 +0000",
       "minecraft:lush_caves": "2025-07-22 01:16:33 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-25 02:41:15 +0000",
+      "minecraft:frozen_ocean": "2025-07-25 02:42:48 +0000",
       "minecraft:desert": "2025-07-23 01:43:51 +0000",
       "minecraft:jungle": "2025-07-23 01:36:42 +0000",
       "minecraft:ocean": "2025-07-23 03:42:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-23 22:51:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-23 23:41:32 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-23 23:39:31 +0000"
+      "minecraft:old_growth_birch_forest": "2025-07-23 23:39:31 +0000",
+      "minecraft:plains": "2025-07-25 02:40:55 +0000"
     },
     "done": false
   },
@@ -1105,15 +1109,27 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-25 02:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-07-25 02:29:26 +0000"
     },
     "done": true
   },
-  "incendium:volcanic_deltas/root": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "incendium:volcanic_deltas": "2025-07-25 02:23:41 +0000"
+      "killed_fire_dragon": "2025-07-25 02:36:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-25 02:41:20 +0000"
     },
     "done": true
   },
