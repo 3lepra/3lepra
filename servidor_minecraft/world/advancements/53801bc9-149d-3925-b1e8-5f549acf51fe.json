@@ -1008,5 +1008,17 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-07-25 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 03:37:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
