@@ -2271,3 +2271,73 @@
 [25Jul2025 03:29:47.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5229ms or 104 ticks behind
 [25Jul2025 03:30:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zz
 [25Jul2025 03:30:16.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[25Jul2025 03:30:20.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Jul2025 03:30:21.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zzzzzzzzzzzz
+[25Jul2025 03:30:22.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 03:30:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 03:30:39.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[25Jul2025 03:30:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zz
+[25Jul2025 03:30:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[25Jul2025 03:30:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zz
+[25Jul2025 03:31:00.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:51822] logged in with entity id 152182 at (1944.6756702766775, 76.0, -6873.662726846833)
+[25Jul2025 03:31:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 03:31:00.544] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 03:31:00.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 03:31:00.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 03:31:00.561] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 03:31:23.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[25Jul2025 03:31:41.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[25Jul2025 03:32:01.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 03:33:24.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:53978] logged in with entity id 153851 at (423.67474541027707, 93.0, -371.89375001192093)
+[25Jul2025 03:33:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[25Jul2025 03:33:24.362] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[25Jul2025 03:33:24.379] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[25Jul2025 03:33:24.380] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 03:33:24.380] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[25Jul2025 03:33:36.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[25Jul2025 03:33:55.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[25Jul2025 03:34:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 was turned into KFC by Fire Dragon
+[25Jul2025 03:34:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 was turned into KFC by Fire Dragon
+[25Jul2025 03:34:07.900] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Starsh1p1902 at X: 1986.1999049884694, Y: 73.0, Z: -6806.3282227508
+[25Jul2025 03:34:09.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 03:34:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 03:34:13.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[25Jul2025 03:34:49.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[25Jul2025 03:34:49.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[25Jul2025 03:35:02.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:54004] logged in with entity id 154721 at (424.33503067574185, 93.0, -377.73890559432095)
+[25Jul2025 03:35:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[25Jul2025 03:35:02.342] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[25Jul2025 03:35:02.357] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[25Jul2025 03:35:02.357] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 03:35:02.357] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[25Jul2025 03:35:06.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:51984] logged in with entity id 154824 at (1986.1999049884694, 73.0, -6806.3282227508)
+[25Jul2025 03:35:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 03:35:06.784] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 03:35:06.801] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 03:35:06.801] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 03:35:06.802] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 03:35:27.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Jul2025 03:35:46.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[25Jul2025 03:36:08.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6616ms or 132 ticks behind
+[25Jul2025 03:36:30.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[25Jul2025 03:36:52.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6546ms or 130 ticks behind
+[25Jul2025 03:37:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Enchanter]
+[25Jul2025 03:37:14.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7051ms or 141 ticks behind
+[25Jul2025 03:37:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 was incinerated by Fire Dragon
+[25Jul2025 03:37:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 was turned into KFC by a dragon
+[25Jul2025 03:37:34.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[25Jul2025 03:37:53.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
+[25Jul2025 03:38:12.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4572ms or 91 ticks behind
+[25Jul2025 03:38:32.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[25Jul2025 03:38:52.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5518ms or 110 ticks behind
+[25Jul2025 03:39:13.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5666ms or 113 ticks behind
+[25Jul2025 03:39:34.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5628ms or 112 ticks behind
+[25Jul2025 03:39:54.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5373ms or 107 ticks behind
+[25Jul2025 03:39:57.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 03:39:58.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Dark Metallurgy]
+[25Jul2025 03:40:16.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
+[25Jul2025 03:40:37.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6781ms or 135 ticks behind
+[25Jul2025 03:40:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> alaaaaan
+[25Jul2025 03:40:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> tienes lapiz?
+[25Jul2025 03:40:58.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5485ms or 109 ticks behind
+[25Jul2025 03:41:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> si loco pero pareces hembra loco
