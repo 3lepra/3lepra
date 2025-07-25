@@ -812,3 +812,33 @@
 [25Jul2025 18:01:00.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [25Jul2025 18:01:00.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [25Jul2025 18:02:24.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Magery]
+[25Jul2025 18:06:11.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:07:43.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Splintering II]
+[25Jul2025 18:08:51.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:53989] logged in with entity id 3830 at (-104.0498577506986, 107.0, -515.768991063958)
+[25Jul2025 18:08:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 18:08:51.210] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 18:08:51.246] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 18:08:51.246] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 18:08:51.247] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 18:10:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [A Flaming Sword]
+[25Jul2025 18:11:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Surge Protector]
+[25Jul2025 18:11:05.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[25Jul2025 18:11:05.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[25Jul2025 18:11:05.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 18:11:05.895] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jul2025 18:11:41.785] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@768e96d1[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54004) lost connection: Disconnected
+[25Jul2025 18:12:21.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46c465d[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54016) lost connection: Disconnected
+[25Jul2025 18:13:01.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:13:01.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:13:01.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:13:01.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:13:03.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11a0d590[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54029) lost connection: Timed out
+[25Jul2025 18:13:57.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79eac7d2[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54038) lost connection: Disconnected
+[25Jul2025 18:14:31.282] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@372de3ea[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54050) lost connection: Disconnected
+[25Jul2025 18:15:08.084] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ac53dc2[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54071) lost connection: Disconnected
+[25Jul2025 18:15:49.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:15:49.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:15:49.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:15:49.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:15:49.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 18:15:49.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
