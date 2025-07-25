@@ -2755,3 +2755,64 @@
 [25Jul2025 04:43:16.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> se te ofrece algo chiquillo?
 [25Jul2025 04:43:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> alan
 [25Jul2025 04:43:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> me muero de hambre
+[25Jul2025 04:43:58.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Jul2025 04:44:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> sube
+[25Jul2025 04:44:17.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
+[25Jul2025 04:44:34.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[25Jul2025 04:44:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> carlos?
+[25Jul2025 04:45:10.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 was slain by Nightmare Stalker
+[25Jul2025 04:45:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> gracias
+[25Jul2025 04:45:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 was slain by Nightmare Stalker
+[25Jul2025 04:45:16.806] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Starsh1p1902 at X: 1658.184658197669, Y: 99.0, Z: -6996.168710253697
+[25Jul2025 04:45:18.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 04:45:18.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 04:45:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> provecho muchacho
+[25Jul2025 04:45:47.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/205749, l='ServerLevel[world]', x=-2215.37, y=55.00, z=4055.51] died, message: 'Villager was slain by Zombie Lumberjack'
+[25Jul2025 04:45:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> me voy, pido no me roben q les doy lo q necesitan pero pidan
+[25Jul2025 04:46:05.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/205748, l='ServerLevel[world]', x=-2222.70, y=57.31, z=4055.03] died, message: 'Villager was slain by Zombie Lumberjack'
+[25Jul2025 04:46:19.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:53340] logged in with entity id 230190 at (1658.184658197669, 99.0, -6996.168710253697)
+[25Jul2025 04:46:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 04:46:19.033] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 04:46:19.048] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 04:46:19.048] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 04:46:19.048] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 04:46:27.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/205747, l='ServerLevel[world]', x=-2207.30, y=55.00, z=4063.34] died, message: 'Villager was slain by Zombie Lumberjack'
+[25Jul2025 04:46:37.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> Z
+[25Jul2025 04:46:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> Z
+[25Jul2025 04:47:13.617] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Starsh1p1902 picking up: PermanentItemEntity['Extradimensional Vessel'/230321, l='ServerLevel[world]', x=1658.18, y=100.50, z=-6996.17]
+[25Jul2025 04:47:13.617] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/230321, l='ServerLevel[world]', x=1658.18, y=100.50, z=-6996.17]
+[25Jul2025 04:47:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zzzzzzzzzz
+[25Jul2025 04:47:59.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jul2025 04:48:22.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[25Jul2025 04:48:24.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/61782, l='ServerLevel[world]', x=-2121.22, y=69.56, z=4091.62] died, message: 'Mason withered away'
+[25Jul2025 04:48:43.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[25Jul2025 04:48:44.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzz
+[25Jul2025 04:49:00.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[25Jul2025 04:49:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzzz
+[25Jul2025 04:49:20.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Life turned out to be a comedy]
+[25Jul2025 04:49:26.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[25Jul2025 04:49:57.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[25Jul2025 04:49:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[25Jul2025 04:50:20.741] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/61203, l='ServerLevel[world]', x=-2125.54, y=68.00, z=4043.97] died, message: 'Weaponsmith was slain by Zombie'
+[25Jul2025 04:50:28.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[25Jul2025 04:50:49.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jul2025 04:51:16.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[25Jul2025 04:51:52.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[25Jul2025 04:51:52.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[25Jul2025 04:51:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 04:52:01.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has reached the goal [Big Boy]
+[25Jul2025 04:52:06.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59690] logged in with entity id 234073 at (-2091.8160671469805, 93.8818702747448, 4047.6902223684397)
+[25Jul2025 04:52:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 04:52:06.749] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 04:52:06.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 04:52:06.771] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 04:52:06.771] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 04:53:26.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> quiero eso
+[25Jul2025 04:53:28.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 04:53:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 04:53:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> me lo consigues ?
+[25Jul2025 04:53:39.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ni idea yo
+[25Jul2025 04:53:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> carlitooo
+[25Jul2025 04:53:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> decile al señor mago
+[25Jul2025 04:54:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> te lo vendo por lapis
+[25Jul2025 04:54:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> mucho
