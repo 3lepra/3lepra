@@ -2816,3 +2816,92 @@
 [25Jul2025 04:53:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> decile al señor mago
 [25Jul2025 04:54:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> te lo vendo por lapis
 [25Jul2025 04:54:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> mucho
+[25Jul2025 04:54:45.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:53552] logged in with entity id 235348 at (1665.3926113644657, 112.0, -7041.912780373295)
+[25Jul2025 04:54:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 04:54:45.189] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 04:54:45.203] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 04:54:45.203] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 04:54:45.204] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 04:54:52.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 was slain by Umvuthana
+[25Jul2025 04:54:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> aver tanto lapiz no tengo la verdad
+[25Jul2025 04:54:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> lapis lazuli
+[25Jul2025 04:54:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 was slain by Umvuthana
+[25Jul2025 04:54:59.181] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Starsh1p1902 at X: 1665.3043109040282, Y: 112.0, Z: -7043.255935286042
+[25Jul2025 04:55:01.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 04:55:01.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 04:56:06.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:53612] logged in with entity id 236050 at (1665.3043109040282, 112.0, -7043.255935286042)
+[25Jul2025 04:56:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 04:56:06.642] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 04:56:06.656] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 04:56:06.656] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 04:56:06.656] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 04:56:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> todito
+[25Jul2025 04:56:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> es el de salto?
+[25Jul2025 04:56:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> o es otro?
+[25Jul2025 04:56:38.171] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Starsh1p1902 picking up: PermanentItemEntity['Extradimensional Vessel'/236191, l='ServerLevel[world]', x=1665.30, y=113.50, z=-7043.26]
+[25Jul2025 04:56:38.171] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/236191, l='ServerLevel[world]', x=1665.30, y=113.50, z=-7043.26]
+[25Jul2025 04:56:39.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[25Jul2025 04:56:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[25Jul2025 04:56:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> le crasheo
+[25Jul2025 04:56:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> JAJAJAJA
+[25Jul2025 04:56:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> hizo magia
+[25Jul2025 04:57:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> JAJAJAJA
+[25Jul2025 05:00:18.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 05:00:52.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Jul2025 05:00:58.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[25Jul2025 05:00:58.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[25Jul2025 05:02:05.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:50444] logged in with entity id 239718 at (-2016.9535385052409, 67.0, 3985.364158575978)
+[25Jul2025 05:02:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[25Jul2025 05:02:05.210] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[25Jul2025 05:02:05.226] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[25Jul2025 05:02:05.226] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 05:02:05.227] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[25Jul2025 05:02:57.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Jul2025 05:03:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dark Forging]
+[25Jul2025 05:03:31.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [Dark Blacksmith]
+[25Jul2025 05:05:35.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 05:05:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 05:06:03.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[25Jul2025 05:06:03.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[25Jul2025 05:06:03.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 05:06:15.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59717] logged in with entity id 241967 at (-1966.0475843343693, 79.86131268091384, 4000.8120765516173)
+[25Jul2025 05:06:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 05:06:15.176] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 05:06:15.192] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 05:06:15.192] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 05:06:15.192] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 05:06:29.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:53843] logged in with entity id 242066 at (1708.7365728447212, 91.0, -7074.699999988079)
+[25Jul2025 05:06:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[25Jul2025 05:06:29.048] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[25Jul2025 05:06:29.071] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[25Jul2025 05:06:29.072] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 05:06:29.072] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[25Jul2025 05:07:43.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 moved wrongly!
+[25Jul2025 05:07:54.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[25Jul2025 05:08:11.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Jul2025 05:08:26.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has completed the challenge [Praise the Sun]
+[25Jul2025 05:08:35.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 05:08:35.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 05:08:43.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[25Jul2025 05:08:43.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[25Jul2025 05:08:43.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[25Jul2025 05:08:56.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:51451] logged in with entity id 244132 at (-2040.4945242467654, 69.67255334310121, 4002.2690447309337)
+[25Jul2025 05:08:56.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[25Jul2025 05:08:56.151] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[25Jul2025 05:08:56.165] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[25Jul2025 05:08:56.165] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 05:08:56.166] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[25Jul2025 05:12:31.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[25Jul2025 05:16:06.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Quaint Scribe]
+[25Jul2025 05:17:19.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[25Jul2025 05:17:19.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[25Jul2025 05:17:40.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[25Jul2025 05:17:40.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[25Jul2025 05:17:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 05:17:51.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59734] logged in with entity id 248846 at (-2023.886793868482, 70.00128789281528, 3979.488104900988)
+[25Jul2025 05:17:51.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 05:17:51.894] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 05:17:51.908] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 05:17:51.908] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 05:17:51.909] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 05:19:12.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
