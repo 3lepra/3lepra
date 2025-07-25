@@ -842,3 +842,20 @@
 [25Jul2025 15:51:38.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [25Jul2025 15:52:27.171] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [25Jul2025 15:52:27.171] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md7728b0$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[25Jul2025 15:58:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [We Need to Go Deeper]
+[25Jul2025 15:58:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Incendium]
+[25Jul2025 15:58:34.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4552ms or 91 ticks behind
+[25Jul2025 15:58:34.686] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[25Jul2025 16:00:02.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Nightmare Fuel]
+[25Jul2025 16:00:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Dust Settles]
+[25Jul2025 16:00:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Strange Biomes]
+[25Jul2025 16:03:53.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/4766, l='ServerLevel[world]', x=-251.50, y=35.00, z=20.56] died: Pipeline Sentry suffocated in a wall
+[25Jul2025 16:05:28.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[25Jul2025 16:05:28.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[25Jul2025 16:05:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 16:05:40.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:55923] logged in with entity id 5300 at (-347.8989725024695, 85.45054635320226, 53.2907816104397)
+[25Jul2025 16:05:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 16:05:40.667] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 16:05:40.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 16:05:40.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 16:05:40.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
