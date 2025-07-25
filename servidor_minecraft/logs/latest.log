@@ -833,3 +833,160 @@
 [25Jul2025 00:52:46.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for ALANBRE at X: -2641.217390511979, Y: -49.0, Z: 3352.8696839513564
 [25Jul2025 00:52:46.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -2641 3352 --
 [25Jul2025 00:52:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -49
+[25Jul2025 00:53:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Nightmare Stalker
+[25Jul2025 00:53:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> estoy 00
+[25Jul2025 00:53:15.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Nightmare Stalker
+[25Jul2025 00:53:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tp?
+[25Jul2025 00:53:32.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> jiji
+[25Jul2025 00:53:36.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> no hay eso papi
+[25Jul2025 00:53:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> no me hagas esto
+[25Jul2025 00:53:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> almenos a ti
+[25Jul2025 00:53:51.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> pa no caminar tanto
+[25Jul2025 00:54:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> toca
+[25Jul2025 00:54:15.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/209, l='ServerLevel[world]', x=-2640.60, y=96.54, z=3693.08] died, message: 'Villager was slain by Fallen Chaos Knight'
+[25Jul2025 00:55:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> gay un dragon
+[25Jul2025 00:55:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [This Belongs in a Museum]
+[25Jul2025 00:55:27.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 00:55:51.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[25Jul2025 00:55:51.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> aaaaaaaaaaaaaa
+[25Jul2025 00:55:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE was slain by Skeleton
+[25Jul2025 01:04:00.922] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;232,-55,15],type:"minecraft:block"}}]
+[25Jul2025 01:04:00.922] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;235,-52,12],type:"minecraft:block"}}]
+[25Jul2025 01:04:00.992] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-55,13],type:"minecraft:block"}}]
+[25Jul2025 01:04:00.992] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;244,-52,13],type:"minecraft:block"}}]
+[25Jul2025 01:04:00.992] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;248,-52,10],type:"minecraft:block"}}]
+[25Jul2025 01:04:00.992] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;255,-52,6],type:"minecraft:block"}}]
+[25Jul2025 01:04:04.816] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-52,-10],type:"minecraft:block"}}]
+[25Jul2025 01:04:04.817] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;253,-52,-2],type:"minecraft:block"}}]
+[25Jul2025 01:04:05.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[25Jul2025 01:04:12.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -0.3348412841337449,-0.8245767040478995,10.03098370718999
+[25Jul2025 01:04:30.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9714ms or 194 ticks behind
+[25Jul2025 01:05:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has completed the challenge [Tinker's Citadel]
+[25Jul2025 01:05:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> eeeepa
+[25Jul2025 01:05:27.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> quieres cords?
+[25Jul2025 01:05:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> esta piola?
+[25Jul2025 01:05:40.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ta gigante
+[25Jul2025 01:05:45.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> pasa
+[25Jul2025 01:05:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> no tengo nada pero
+[25Jul2025 01:05:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -695
+[25Jul2025 01:06:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> uta
+[25Jul2025 01:06:04.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> 968
+[25Jul2025 01:07:41.988] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 01:08:23.689] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos BlockPos{x=-2645, y=75, z=3109}
+[25Jul2025 01:08:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zz
+[25Jul2025 01:10:12.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 01:15:47.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:15:47.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:15:47.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:16:00.262] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[25Jul2025 01:16:00.262] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[25Jul2025 01:19:15.894] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[25Jul2025 01:19:24.764] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-350721355,69748965,-1640192367,1079161554],type:"minecraft:entity",y_offset:0.36f}}]
+[25Jul2025 01:19:25.491] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1518535274,-937737865,-1439854583,409123321],type:"minecraft:entity",y_offset:0.36f}}]
+[25Jul2025 01:20:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zz
+[25Jul2025 01:20:32.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[25Jul2025 01:20:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 01:20:37.707] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[25Jul2025 01:20:54.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59141] logged in with entity id 20388 at (-2711.103302294304, 70.0, 3160.8443300821145)
+[25Jul2025 01:20:54.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 01:20:54.852] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 01:20:54.878] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 01:20:54.879] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 01:20:54.879] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 01:21:32.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> estoy por la zona donde moriste
+[25Jul2025 01:21:36.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> osea arriba
+[25Jul2025 01:21:37.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tp
+[25Jul2025 01:21:44.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> me avisas si quieres ayuda
+[25Jul2025 01:21:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> tp las bolas
+[25Jul2025 01:21:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> abajo hay un dragon
+[25Jul2025 01:21:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> graaande
+[25Jul2025 01:22:00.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> es dragon madre entonces
+[25Jul2025 01:22:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> hembra
+[25Jul2025 01:22:05.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> da webo
+[25Jul2025 01:22:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> sisi pero llega y lo matamos si quieres
+[25Jul2025 01:22:20.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> no tp :D
+[25Jul2025 01:22:24.137] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle]] from pos BlockPos{x=-1179, y=87, z=2155}
+[25Jul2025 01:22:34.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE moved too quickly! -7.75310102287699,-1.9139059206844848,6.207828798378614
+[25Jul2025 01:22:41.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LordZand) moved wrongly! 0.40055999619607974
+[25Jul2025 01:22:41.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LordZand) moved wrongly! 0.9824638179493377
+[25Jul2025 01:22:41.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LordZand) moved wrongly! 1.569700625097994
+[25Jul2025 01:23:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tengo salchi
+[25Jul2025 01:23:05.728] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern]] from pos BlockPos{x=-1413, y=91, z=2229}
+[25Jul2025 01:23:06.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1413, y=91, z=2229} but found not block entity block Block{minecraft:air} at location
+[25Jul2025 01:23:06.512] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1413, y=91, z=2229}
+[25Jul2025 01:23:27.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20657, l='ServerLevel[world]', x=-2881.03, y=120.00, z=3004.63] died, message: 'Farmer was burnt to a crisp whilst fighting Fire Dragon'
+[25Jul2025 01:26:27.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> wats mira
+[25Jul2025 01:26:33.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> que
+[25Jul2025 01:26:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> mira wasa
+[25Jul2025 01:26:58.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 01:27:17.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> aaaaaa sisi
+[25Jul2025 01:27:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ya la lotee
+[25Jul2025 01:27:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> me foree
+[25Jul2025 01:27:26.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> forre
+[25Jul2025 01:27:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> q god aun hay
+[25Jul2025 01:27:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ?
+[25Jul2025 01:27:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Distant Dreamer]
+[25Jul2025 01:27:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> le di 20 vueltas
+[25Jul2025 01:27:58.938] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1540, y=84, z=2941}
+[25Jul2025 01:28:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> esta como en un bioma de pantano?
+[25Jul2025 01:28:16.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> seh
+[25Jul2025 01:28:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> si es esa ajjaja
+[25Jul2025 01:28:23.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> pantano no es
+[25Jul2025 01:28:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> me lleve todo
+[25Jul2025 01:28:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> pero algo si
+[25Jul2025 01:28:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> si manglar
+[25Jul2025 01:28:34.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> algo asi
+[25Jul2025 01:28:35.445] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 01:28:35.476] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 01:28:35.493] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 01:29:01.960] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 01:30:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Magnificence]
+[25Jul2025 01:31:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zz
+[25Jul2025 01:31:50.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[25Jul2025 01:31:50.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 01:31:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> q asco de bioma
+[25Jul2025 01:32:46.701] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17438534[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:59169) lost connection: Disconnected
+[25Jul2025 01:33:46.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7beaec0b[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:59174) lost connection: Timed out
+[25Jul2025 01:34:00.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:59187] logged in with entity id 31782 at (-2847.3175203299993, 193.5, 2996.272988215234)
+[25Jul2025 01:34:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 01:34:00.200] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 01:34:00.221] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 01:34:00.221] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 01:34:00.223] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 01:35:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Howling Blades]
+[25Jul2025 01:35:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tas por aqui
+[25Jul2025 01:35:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ?
+[25Jul2025 01:35:23.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ya estas???
+[25Jul2025 01:35:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> voy voy
+[25Jul2025 01:35:27.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> si
+[25Jul2025 01:36:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> psa coord denuevo
+[25Jul2025 01:36:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> -2641 3352 --
+[25Jul2025 01:36:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> la cosa va a ser bajar
+[25Jul2025 01:36:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> nesesito help
+[25Jul2025 01:36:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> disc?
+[25Jul2025 01:36:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> nezezito
+[25Jul2025 01:37:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> disccc
+[25Jul2025 01:37:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> mas rato dsc
+[25Jul2025 01:38:07.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> que necesitas
+[25Jul2025 01:38:08.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> comoes hija
+[25Jul2025 01:38:18.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> la vida necesito
+[25Jul2025 01:38:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> bajar a -98
+[25Jul2025 01:38:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> te sexie
+[25Jul2025 01:38:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Pic-A-Nic Basket?]
+[25Jul2025 01:38:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> yaya muy bonito
+[25Jul2025 01:39:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> toma
+[25Jul2025 01:39:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> alamrd
+[25Jul2025 01:39:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> alamrd
+[25Jul2025 01:39:38.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> alamrd
+[25Jul2025 01:39:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> alamrd
+[25Jul2025 01:39:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> god
+[25Jul2025 01:40:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> gracias te devuelvo depue
+[25Jul2025 01:40:35.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> tienes cama??
+[25Jul2025 01:42:42.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> hacia asha
+[25Jul2025 01:42:44.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:42:44.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[25Jul2025 01:42:44.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[25Jul2025 01:42:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> tus cosas??
+[25Jul2025 01:42:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> sip
+[25Jul2025 01:43:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tienes el libro del ars?
+[25Jul2025 01:43:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> no

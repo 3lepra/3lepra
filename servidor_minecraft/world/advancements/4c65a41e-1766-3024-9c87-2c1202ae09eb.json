@@ -521,14 +521,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-25 01:25:44 +0000",
       "minecraft:deep_ocean": "2025-07-23 03:45:57 +0000",
       "minecraft:birch_forest": "2025-07-24 01:22:35 +0000",
+      "minecraft:bamboo_jungle": "2025-07-25 01:27:22 +0000",
       "minecraft:beach": "2025-07-23 03:24:56 +0000",
       "minecraft:dark_forest": "2025-07-23 03:56:41 +0000",
+      "minecraft:mangrove_swamp": "2025-07-25 01:27:49 +0000",
       "minecraft:sparse_jungle": "2025-07-23 01:40:23 +0000",
       "minecraft:river": "2025-07-22 02:58:29 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 03:25:03 +0000",
       "minecraft:dripstone_caves": "2025-07-24 15:58:50 +0000",
+      "minecraft:forest": "2025-07-25 01:35:04 +0000",
       "minecraft:lush_caves": "2025-07-22 01:40:41 +0000",
       "minecraft:desert": "2025-07-23 02:53:31 +0000",
       "minecraft:jungle": "2025-07-23 03:14:49 +0000",
@@ -1194,6 +1198,18 @@
   "tetra:spelunking/find_scroll_warforge": {
     "criteria": {
       "find": "2025-07-24 22:10:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-07-25 01:27:49 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-07-25 01:05:09 +0000"
     },
     "done": true
   },
