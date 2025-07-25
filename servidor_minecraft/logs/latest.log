@@ -871,3 +871,24 @@
 [25Jul2025 18:22:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -168 -446
 [25Jul2025 18:22:52.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [25Jul2025 18:22:52.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 18:26:56.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:62736] logged in with entity id 10297 at (-168.10204409037576, 72.99901084670577, -446.27193255725433)
+[25Jul2025 18:26:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 18:26:56.833] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 18:26:56.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 18:26:56.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 18:26:56.857] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 18:27:43.448] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[25Jul2025 18:29:00.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[25Jul2025 18:29:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[25Jul2025 18:34:55.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:62818] logged in with entity id 12517 at (-168.10204409037576, 72.99901084670577, -446.27193255725433)
+[25Jul2025 18:34:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[25Jul2025 18:34:55.144] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[25Jul2025 18:34:55.167] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[25Jul2025 18:34:55.168] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[25Jul2025 18:34:55.168] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 18:35:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by Phantom
+[25Jul2025 18:35:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -168 -446
+[25Jul2025 18:36:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand was slain by Phantom
+[25Jul2025 18:36:03.846] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -168.10204409037576, Y: 72.99901084670577, Z: -446.27193255725433
+[25Jul2025 18:36:23.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[25Jul2025 18:36:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
