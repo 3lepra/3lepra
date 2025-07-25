@@ -859,3 +859,14 @@
 [25Jul2025 16:05:40.689] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [25Jul2025 16:05:40.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [25Jul2025 16:05:40.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[25Jul2025 16:08:19.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Radioactive]
+[25Jul2025 16:10:20.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/5856, l='ServerLevel[world]', x=-418.66, y=38.00, z=-386.53] died: Radiation Director was slain by LordZand
+[25Jul2025 16:11:02.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5927, l='ServerLevel[world]', x=-364.69, y=-67.52, z=-379.26] died: Toxic Slime fell out of the world
+[25Jul2025 16:11:10.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5941, l='ServerLevel[world]', x=-431.92, y=-67.52, z=-313.21] died: Toxic Slime fell out of the world
+[25Jul2025 16:12:01.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6151, l='ServerLevel[world]', x=-453.40, y=-65.75, z=-341.74] died: Toxic Slime fell out of the world
+[25Jul2025 16:12:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [Pocket Edition Alpha]
+[25Jul2025 16:12:41.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6270, l='ServerLevel[world]', x=-425.89, y=-67.00, z=-385.74] died: Toxic Slime fell out of the world
+[25Jul2025 16:12:45.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6285, l='ServerLevel[world]', x=-405.74, y=-66.59, z=-396.74] died: Toxic Slime fell out of the world
+[25Jul2025 16:12:45.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6286, l='ServerLevel[world]', x=-380.98, y=-67.43, z=-411.84] died: Toxic Slime fell out of the world
+[25Jul2025 16:13:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Toxic Personality]
+[25Jul2025 16:15:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Hidden in the Depths]
