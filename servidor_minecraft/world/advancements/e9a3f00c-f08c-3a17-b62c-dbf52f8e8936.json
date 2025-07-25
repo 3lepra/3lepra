@@ -978,5 +978,17 @@
     },
     "done": false
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-25 03:56:32 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-07-25 04:03:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
